@@ -8,7 +8,7 @@ import {
   SelectValue,
 } from '@/components/ui/select';
 import { ALL, type SortKey } from '@/lib/heroFilters';
-import { colorMeta } from '@/lib/heroes';
+import { colorMeta, factionKey, ROLES } from '@/lib/heroes';
 import type { Dict } from '@/lib/i18n';
 
 interface Props {
@@ -21,6 +21,11 @@ interface Props {
   star: string;
   onStar: (v: string) => void;
   starOptions: number[];
+  faction: string;
+  onFaction: (v: string) => void;
+  factionOptions: number[];
+  role: string;
+  onRole: (v: string) => void;
   sortBy: SortKey;
   onSort: (v: SortKey) => void;
 }
@@ -85,6 +90,36 @@ export function Controls(p: Props) {
             {p.starOptions.map((s) => (
               <SelectItem key={s} value={String(s)}>
                 {s}★
+              </SelectItem>
+            ))}
+          </SelectContent>
+        </Select>
+      </Field>
+      <Field label={dict.lblFaction} htmlFor="hero-faction">
+        <Select value={p.faction} onValueChange={p.onFaction}>
+          <SelectTrigger id="hero-faction" className={fieldClass}>
+            <SelectValue />
+          </SelectTrigger>
+          <SelectContent>
+            <SelectItem value={ALL}>{dict.optAll}</SelectItem>
+            {p.factionOptions.map((id) => (
+              <SelectItem key={id} value={String(id)}>
+                {dict.faction[factionKey(id)] ?? factionKey(id)}
+              </SelectItem>
+            ))}
+          </SelectContent>
+        </Select>
+      </Field>
+      <Field label={dict.lblRole} htmlFor="hero-role">
+        <Select value={p.role} onValueChange={p.onRole}>
+          <SelectTrigger id="hero-role" className={fieldClass}>
+            <SelectValue />
+          </SelectTrigger>
+          <SelectContent>
+            <SelectItem value={ALL}>{dict.optAll}</SelectItem>
+            {ROLES.map((r) => (
+              <SelectItem key={r} value={r}>
+                {dict.role[r]}
               </SelectItem>
             ))}
           </SelectContent>

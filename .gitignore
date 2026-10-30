@@ -36,3 +36,22 @@ src/**/*.d.ts
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Raw game dump: contains live session/auth tokens. Use the sanitized copy (src/data/game-data.sanitized.json) instead.
+src/data/dame-data.json
+
+# Remote game configs: only the ones the app uses are tracked (see scripts/fetch-configs.mjs; `--all` fetches the rest).
+src/data/configs/*
+!src/data/configs/_index.json
+!src/data/configs/hero.json
+!src/data/configs/heroFaction.json
+!src/data/configs/heroRole.json
+!src/data/configs/heroClass.json
+!src/data/configs/heroBattleStat.json
+!src/data/configs/artifact.json
+!src/data/configs/artifactType.json
+!src/data/configs/artifactBattleEffect.json
+!src/data/configs/itemColor.json
+!src/data/configs/patronSkill.json
+!src/data/configs/squadHeroSkill.json
+!src/data/configs/battleStatHeroClassBonusType.json

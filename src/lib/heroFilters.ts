@@ -1,4 +1,4 @@
-import { heroName, type Hero, type Lang } from '@/lib/heroes';
+import { heroFaction, heroName, heroRole, type Hero, type Lang } from '@/lib/heroes';
 import { DICT } from '@/lib/i18n';
 
 /** Select sentinel: Radix Select does not allow an empty-string item value. */
@@ -10,6 +10,8 @@ export interface Filters {
   search: string;
   color: string;
   star: string;
+  faction: string;
+  role: string;
 }
 
 export function filterHeroes(heroes: Hero[], f: Filters, lang: Lang): Hero[] {
@@ -23,6 +25,8 @@ export function filterHeroes(heroes: Hero[], f: Filters, lang: Lang): Hero[] {
     }
     if (f.color !== ALL && String(h.color) !== f.color) return false;
     if (f.star !== ALL && String(h.star) !== f.star) return false;
+    if (f.faction !== ALL && String(heroFaction(h.id)) !== f.faction) return false;
+    if (f.role !== ALL && heroRole(h.id) !== f.role) return false;
     return true;
   });
 }

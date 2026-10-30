@@ -1,0 +1,78 @@
+{
+ "indexId": "trunk:0.847.0:1793232000::en",
+ "fetchedFrom": "src/data/game-data.sanitized.json",
+ "configs": {
+  "hero": {
+   "hash": "0b87a6e1caacbff06871b9763a17d687",
+   "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/hero/0b87a6e1caacbff06871b9763a17d687.json",
+   "preload": false,
+   "bytes": 5568
+  },
+  "heroBattleStat": {
+   "hash": "43b2a0610b6d6c389c33f1e072882eff",
+   "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/heroBattleStat/43b2a0610b6d6c389c33f1e072882eff.json",
+   "preload": false,
+   "bytes": 1506
+  },
+  "squadHeroSkill": {
+   "hash": "bb9c5419deafa8aff9c9c7c767f7f7bf",
+   "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/squadHeroSkill/bb9c5419deafa8aff9c9c7c767f7f7bf.json",
+   "preload": false,
+   "bytes": 4291
+  },
+  "heroFaction": {
+   "hash": "3e18c341f2710dfe3ae5d1dc6e78c1f8",
+   "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/heroFaction/3e18c341f2710dfe3ae5d1dc6e78c1f8.json",
+   "preload": true,
+   "bytes": 174
+  },
+  "itemColor": {
+   "hash": "a5723b53ef5f3fc221345f9a43b54601",
+   "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/itemColor/a5723b53ef5f3fc221345f9a43b54601.json",
+   "preload": false,
+   "bytes": 174
+  },
+  "artifact": {
+   "hash": "3231f98546da038f74aa095ba3673f22",
+   "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/artifact/3231f98546da038f74aa095ba3673f22.json",
+   "preload": true,
+   "bytes": 51663
+  },
+  "artifactType": {
+   "hash": "e849feb94a294121d69855b76602653d",
+   "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/artifactType/e849feb94a294121d69855b76602653d.json",
+   "preload": true,
+   "bytes": 58357
+  },
+  "artifactBattleEffect": {
+   "hash": "f7845fb43218a6d0ea39a0451cc4d417",
+   "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/artifactBattleEffect/f7845fb43218a6d0ea39a0451cc4d417.json",
+   "preload": true,
+   "bytes": 211010
+  },
+  "heroRole": {
+   "hash": "d4689a11b44a08723fb29884db9a61be",
+   "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/heroRole/d4689a11b44a08723fb29884db9a61be.json",
+   "preload": false,
+   "bytes": 76
+  },
+  "patronSkill": {
+   "hash": "113c0b743024ef89aeeb7dc827cea3a1",
+   "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/patronSkill/113c0b743024ef89aeeb7dc827cea3a1.json",
+   "preload": true,
+   "bytes": 21635
+  },
+  "heroClass": {
+   "hash": "d88c2aefcda8c268093997279ce49fba",
+   "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/heroClass/d88c2aefcda8c268093997279ce49fba.json",
+   "preload": false,
+   "bytes": 227
+  },
+  "battleStatHeroClassBonusType": {
+   "hash": "ab91bde34ea1e12dbcd82c0fcd2abf98",
+   "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battleStatHeroClassBonusType/ab91bde34ea1e12dbcd82c0fcd2abf98.json",
+   "preload": false,
+   "bytes": 2565
+  }
+ }
+}

@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import { INITIAL_PLAYER } from '@/data/player';
 import { ALL, computeStats, filterHeroes, sortHeroes, type SortKey } from '@/lib/heroFilters';
-import { HEROES, type Lang, type PlayerInfo } from '@/lib/heroes';
+import { FACTION_IDS, heroFaction, HEROES, type Lang, type PlayerInfo } from '@/lib/heroes';
 import { DICT } from '@/lib/i18n';
 import {
   extractFromProfileDump,
@@ -28,6 +28,8 @@ export function HeroCollection() {
   const [search, setSearch] = useState('');
   const [color, setColor] = useState(ALL);
   const [star, setStar] = useState(ALL);
+  const [faction, setFaction] = useState(ALL);
+  const [role, setRole] = useState(ALL);
   const [sortBy, setSortBy] = useState<SortKey>('power_desc');
   const [uploads, setUploads] = useState<Uploads>({ heroDict: null, nameMap: null, player: null });
   const [status, setStatus] = useState<UploadStatus | null>(null);
@@ -40,8 +42,8 @@ export function HeroCollection() {
     [uploads.heroDict, uploads.nameMap],
   );
   const visible = useMemo(
-    () => sortHeroes(filterHeroes(heroes, { search, color, star }, lang), sortBy, lang),
-    [heroes, search, color, star, sortBy, lang],
+    () => sortHeroes(filterHeroes(heroes, { search, color, star, faction, role }, lang), sortBy, lang),
+    [heroes, search, color, star, faction, role, sortBy, lang],
   );
   const stats = useMemo(() => computeStats(heroes), [heroes]);
   const colors = useMemo(() => [...new Set(heroes.map((h) => h.color))].sort((a, b) => a - b), [heroes]);
@@ -49,6 +51,12 @@ export function HeroCollection() {
     () => [...new Set(heroes.map((h) => h.star))].sort((a, b) => b - a),
     [heroes],
   );
+
+  // Only factions present in the current roster, in config order.
+  const factionOptions = useMemo(() => {
+    const present = new Set(heroes.map((h) => heroFaction(h.id)));
+    return FACTION_IDS.filter((id) => present.has(id));
+  }, [heroes]);
 
   useEffect(() => {
     document.documentElement.lang = dict.htmlLang;
@@ -111,6 +119,11 @@ export function HeroCollection() {
         star={star}
         onStar={setStar}
         starOptions={starOptions}
+        faction={faction}
+        onFaction={setFaction}
+        factionOptions={factionOptions}
+        role={role}
+        onRole={setRole}
         sortBy={sortBy}
         onSort={setSortBy}
       />

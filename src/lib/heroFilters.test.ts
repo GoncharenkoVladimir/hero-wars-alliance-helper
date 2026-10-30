@@ -7,7 +7,7 @@ const iris = makeHero({ id: 2, name: 'Айрис', nameEn: 'Iris', power: 300, s
 const keira = makeHero({ id: 3, name: 'Кіра', nameEn: 'Keira', power: 200, star: 6, color: 14 });
 const heroes = [aurora, iris, keira];
 
-const none: Filters = { search: '', color: ALL, star: ALL };
+const none: Filters = { search: '', color: ALL, star: ALL, faction: ALL, role: ALL };
 const ids = (hs: { id: number }[]) => hs.map((h) => h.id);
 
 describe('filterHeroes', () => {
@@ -35,6 +35,35 @@ describe('filterHeroes', () => {
     expect(ids(filterHeroes(heroes, { ...none, color: '16' }, 'en'))).toEqual([2]);
     expect(ids(filterHeroes(heroes, { ...none, star: '6' }, 'en'))).toEqual([2, 3]);
     expect(ids(filterHeroes(heroes, { ...none, star: '6', color: '14' }, 'en'))).toEqual([3]);
+  });
+});
+
+describe('faction and role filters', () => {
+  // Ids from configs/hero.json: 1 = elf/Front, 3 = undead/Middle, 6 = undead/Back.
+  const elf = makeHero({ id: 1 });
+  const undeadMid = makeHero({ id: 3 });
+  const undeadBack = makeHero({ id: 6 });
+  const unknown = makeHero({ id: 9999 });
+  const roster = [elf, undeadMid, undeadBack, unknown];
+
+  test('faction keeps only heroes of that faction', () => {
+    expect(ids(filterHeroes(roster, { ...none, faction: '1' }, 'en'))).toEqual([3, 6]);
+    expect(ids(filterHeroes(roster, { ...none, faction: '2' }, 'en'))).toEqual([1]);
+  });
+
+  test('role keeps only heroes of that role', () => {
+    expect(ids(filterHeroes(roster, { ...none, role: 'Front' }, 'en'))).toEqual([1]);
+    expect(ids(filterHeroes(roster, { ...none, role: 'Back' }, 'en'))).toEqual([6]);
+  });
+
+  test('faction and role combine', () => {
+    expect(ids(filterHeroes(roster, { ...none, faction: '1', role: 'Middle' }, 'en'))).toEqual([3]);
+  });
+
+  test('a hero missing from the config only passes when the filters are off', () => {
+    expect(ids(filterHeroes(roster, none, 'en'))).toContain(9999);
+    expect(ids(filterHeroes(roster, { ...none, faction: '1' }, 'en'))).not.toContain(9999);
+    expect(ids(filterHeroes(roster, { ...none, role: 'Front' }, 'en'))).not.toContain(9999);
   });
 });
 

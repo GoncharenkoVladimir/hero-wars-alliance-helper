@@ -1,3 +1,5 @@
+import heroConfig from '@/data/configs/hero.json';
+import factionConfig from '@/data/configs/heroFaction.json';
 import heroesJson from '@/data/heroes.json';
 
 export type Lang = 'ua' | 'en';
@@ -52,6 +54,34 @@ export interface Hero {
 }
 
 export const HEROES = heroesJson as unknown as Hero[];
+
+export type HeroRole = 'Front' | 'Middle' | 'Back';
+
+/** Front-to-back, the order the game lists them in. */
+export const ROLES: HeroRole[] = ['Front', 'Middle', 'Back'];
+
+const heroInfo = heroConfig as Record<string, { role: HeroRole; factionId: number }>;
+const factionInfo = factionConfig as Record<string, { id: number; name: string }>;
+
+/** Faction ids from the game config (1..6), ascending. */
+export const FACTION_IDS = Object.values(factionInfo)
+  .map((f) => f.id)
+  .sort((a, b) => a - b);
+
+// Role and faction come from the game config rather than the hero records, so heroes
+// replaced by an uploaded dump keep them. Unknown ids yield undefined.
+export function heroRole(id: number): HeroRole | undefined {
+  return heroInfo[id]?.role;
+}
+
+export function heroFaction(id: number): number | undefined {
+  return heroInfo[id]?.factionId;
+}
+
+/** Config key of a faction id (`undead`, `elf`, ...), the key of `Dict.faction`. */
+export function factionKey(id: number): string {
+  return factionInfo[id]?.name ?? String(id);
+}
 
 // Rank/color legend inferred from the "color" field (hero rarity tier).
 export const COLOR_META: Record<number, { name: string; hex: string }> = {

@@ -14,6 +14,8 @@ export interface Dict {
   searchPlaceholder: string;
   lblRank: string;
   lblStars: string;
+  lblFaction: string;
+  lblRole: string;
   lblSort: string;
   optAll: string;
   sortPowerDesc: string;
@@ -33,6 +35,9 @@ export interface Dict {
   traits: string;
   emptyMsg: string;
   artifact: Record<string, string>;
+  /** Keyed by the faction `name` in configs/heroFaction.json. */
+  faction: Record<string, string>;
+  role: Record<string, string>;
   uploadProfile: string;
   uploadConfig: string;
   uploadNoHeroes: string;
@@ -56,6 +61,8 @@ export const DICT: Record<Lang, Dict> = {
     searchPlaceholder: "Ім'я або ID, напр. Айрис",
     lblRank: 'Ранг (колір)',
     lblStars: 'Зірки',
+    lblFaction: 'Фракція',
+    lblRole: 'Роль',
     lblSort: 'Сортувати за',
     optAll: 'Всі',
     sortPowerDesc: 'Сила (спад)',
@@ -75,6 +82,15 @@ export const DICT: Record<Lang, Dict> = {
     traits: 'рис',
     emptyMsg: 'Героїв не знайдено за заданими фільтрами.',
     artifact: { weapon: 'Зброя', book: 'Книга', ring: 'Кільце' },
+    faction: {
+      undead: 'Нежить',
+      elf: 'Ельфи',
+      blessed: 'Благословенні',
+      chaos: 'Хаос',
+      engineer: 'Інженери',
+      mystic: 'Містики',
+    },
+    role: { Front: 'Передня лінія', Middle: 'Середня лінія', Back: 'Задня лінія' },
     uploadProfile: 'Дамп профілю гравця (new.json)',
     uploadConfig: 'Конфіг гри — назви героїв (artifact/*.json)',
     uploadNoHeroes: 'У завантаженому профілі не знайдено даних героїв.',
@@ -96,6 +112,8 @@ export const DICT: Record<Lang, Dict> = {
     searchPlaceholder: 'Name or ID, e.g. Iris',
     lblRank: 'Rank (color)',
     lblStars: 'Stars',
+    lblFaction: 'Faction',
+    lblRole: 'Role',
     lblSort: 'Sort by',
     optAll: 'All',
     sortPowerDesc: 'Power (desc)',
@@ -115,6 +133,15 @@ export const DICT: Record<Lang, Dict> = {
     traits: 'traits',
     emptyMsg: 'No heroes match the current filters.',
     artifact: { weapon: 'Weapon', book: 'Book', ring: 'Ring' },
+    faction: {
+      undead: 'Undead',
+      elf: 'Elves',
+      blessed: 'Blessed',
+      chaos: 'Chaos',
+      engineer: 'Engineers',
+      mystic: 'Mystics',
+    },
+    role: { Front: 'Front line', Middle: 'Middle line', Back: 'Back line' },
     uploadProfile: 'Player profile dump (new.json)',
     uploadConfig: 'Game config — hero names (artifact/*.json)',
     uploadNoHeroes: 'No hero data found in the uploaded profile.',

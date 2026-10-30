@@ -5,7 +5,7 @@ import { HeroCollection } from './HeroCollection';
 
 test('renders every hero, sorted by power', () => {
   render(<HeroCollection />);
-  expect(screen.getAllByRole('article')).toHaveLength(81);
+  expect(screen.getAllByRole('article')).toHaveLength(82);
   expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent('Колекція героїв — Kragen');
 });
 
@@ -27,6 +27,20 @@ test('shows a message when nothing matches', () => {
   userEvent.type(screen.getByRole('textbox'), 'zzzzzz');
   expect(screen.queryByRole('article')).not.toBeInTheDocument();
   expect(screen.getByText('Героїв не знайдено за заданими фільтрами.')).toBeInTheDocument();
+});
+
+test('the faction filter narrows the grid', async () => {
+  // jsdom lacks these pointer APIs, which Radix Select calls when opening.
+  Object.assign(Element.prototype, {
+    hasPointerCapture: () => false,
+    releasePointerCapture: () => {},
+    scrollIntoView: () => {},
+  });
+  render(<HeroCollection />);
+  userEvent.click(screen.getByRole('combobox', { name: 'Фракція' }));
+  userEvent.click(await screen.findByRole('option', { name: 'Нежить' }));
+  // undead (factionId 1) in configs/hero.json: 3, 6, 10, 16, 41, 54, 60, 65, 71, 73, 501, 502
+  expect(screen.getAllByRole('article')).toHaveLength(12);
 });
 
 test('the language switch retranslates the screen', () => {
@@ -64,5 +78,5 @@ test('uploading something that is not JSON shows an error', async () => {
   userEvent.upload(screen.getByLabelText(/new\.json/), file);
 
   expect(await screen.findByText('Не вдалося прочитати файл — це не коректний JSON.')).toBeInTheDocument();
-  expect(screen.getAllByRole('article')).toHaveLength(81);
+  expect(screen.getAllByRole('article')).toHaveLength(82);
 });

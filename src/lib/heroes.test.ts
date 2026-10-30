@@ -1,8 +1,8 @@
 import { makeHero } from '@/test-utils/makeHero';
 import { HEROES, colorMeta, heroName, runeSum, skillCount, skinCount, stars } from './heroes';
 
-test('ships the 81 heroes extracted from the saved page', () => {
-  expect(HEROES).toHaveLength(81);
+test('ships the 82 heroes from the 2026-10-30 dump', () => {
+  expect(HEROES).toHaveLength(82);
 });
 
 test('stars pads to six', () => {
