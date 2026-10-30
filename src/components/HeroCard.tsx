@@ -1,5 +1,5 @@
 import type { CSSProperties, ReactNode } from 'react';
-import { Link } from 'react-router';
+import { Link, useLocation } from 'react-router';
 import { Badge } from '@/components/ui/badge';
 import { HeroAvatar } from '@/components/HeroAvatar';
 import {
@@ -26,6 +26,7 @@ function Row({ label, children }: { label: string; children: ReactNode }) {
 export function HeroCard({ hero, dict, lang }: { hero: Hero; dict: Dict; lang: Lang }) {
   const meta = colorMeta(hero.color);
   const name = heroName(hero, lang);
+  const { pathname } = useLocation();
 
   return (
     <article
@@ -41,6 +42,7 @@ export function HeroCard({ hero, dict, lang }: { hero: Hero; dict: Dict; lang: L
           <span className="text-[15px] font-bold">
             <Link
               to={`/hero/${hero.id}`}
+              state={{ from: pathname }}
               className="outline-none after:absolute after:inset-0 after:z-10 focus-visible:after:rounded-xl focus-visible:after:ring-2 focus-visible:after:ring-hw-accent"
             >
               {name}

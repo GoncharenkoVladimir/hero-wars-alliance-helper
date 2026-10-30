@@ -14,6 +14,11 @@ export interface Filters {
   role: string;
 }
 
+/** Filters of the full hero list (no player-state fields). */
+export type ListFilters = Pick<Filters, 'search' | 'faction' | 'role'>;
+
+export const INITIAL_LIST_FILTERS: ListFilters = { search: '', faction: ALL, role: ALL };
+
 export function filterHeroes(heroes: Hero[], f: Filters, lang: Lang): Hero[] {
   const search = f.search.trim();
   const query = search.toLowerCase();

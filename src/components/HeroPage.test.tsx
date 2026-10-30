@@ -8,7 +8,7 @@ beforeAll(() => {
 });
 
 test('the card links to the hero page, which lists the counters', () => {
-  renderWithRouter(<HeroCollection />);
+  renderWithRouter(<HeroCollection />, '/my-heroes');
   const card = screen.getAllByRole('article').find((a) => within(a).queryByText('#58'))!;
   expect(within(card).getByRole('link')).toHaveAttribute('href', '/hero/58');
 
@@ -19,10 +19,10 @@ test('the card links to the hero page, which lists the counters', () => {
 });
 
 test('Back returns to the collection with its filters intact', () => {
-  renderWithRouter(<HeroCollection />);
+  renderWithRouter(<HeroCollection />, '/my-heroes');
   userEvent.type(screen.getByRole('textbox'), 'Iris');
   userEvent.click(within(screen.getByRole('article')).getByRole('link'));
-  userEvent.click(screen.getByRole('link', { name: '← Back to collection' }));
+  userEvent.click(screen.getByRole('link', { name: '← Back' }));
   expect(screen.getAllByRole('article')).toHaveLength(1);
 });
 
@@ -43,4 +43,29 @@ test('heroes without guide or counter data show empty states; unknown ids are no
   unmount();
   renderWithRouter(<HeroCollection />, '/hero/9999');
   expect(screen.getByText('Hero not found.')).toBeInTheDocument();
+});
+
+test('Back returns to the full list when the hero was opened from it', () => {
+  renderWithRouter(<HeroCollection />);
+  userEvent.click(within(screen.getAllByRole('listitem')[0]).getByRole('link'));
+  userEvent.click(screen.getByRole('link', { name: '← Back' }));
+  expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent('All heroes');
+});
+
+test('Back keeps its origin after hopping from hero to hero', () => {
+  renderWithRouter(<HeroCollection />, '/my-heroes');
+  const card = screen.getAllByRole('article').find((a) => within(a).queryByText('#503'))!;
+  userEvent.click(within(card).getByRole('link')); // Alvanor, then a counter chip
+  userEvent.click(screen.getByRole('link', { name: /Xe'Sha/ }));
+  expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent("Xe'Sha");
+  userEvent.click(screen.getByRole('link', { name: '← Back' }));
+  expect(screen.getAllByRole('article')).toHaveLength(82);
+});
+
+test('unknown paths and the old /heroes path redirect to the full list', () => {
+  const { unmount } = renderWithRouter(<HeroCollection />, '/heroes');
+  expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent('All heroes');
+  unmount();
+  renderWithRouter(<HeroCollection />, '/nope');
+  expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent('All heroes');
 });

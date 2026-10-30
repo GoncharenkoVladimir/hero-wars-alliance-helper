@@ -1,17 +1,27 @@
 import { useEffect, useMemo, useState, type ComponentProps } from 'react';
-import { Route, Routes, useParams } from 'react-router';
+import { Link, Navigate, Route, Routes, useParams } from 'react-router';
 import { INITIAL_PLAYER } from '@/data/player';
-import { ALL, computeStats, filterHeroes, sortHeroes, type SortKey } from '@/lib/heroFilters';
+import {
+  ALL,
+  computeStats,
+  filterHeroes,
+  INITIAL_LIST_FILTERS,
+  sortHeroes,
+  type ListFilters,
+  type SortKey,
+} from '@/lib/heroFilters';
 import { FACTION_IDS, heroFaction, HEROES, type Lang } from '@/lib/heroes';
 import { DICT } from '@/lib/i18n';
 import { Controls } from './Controls';
 import { HeroCard } from './HeroCard';
+import { HeroList } from './HeroList';
 import { HeroPage } from './HeroPage';
 import { LangSwitch } from './LangSwitch';
 import { StatsBar } from './StatsBar';
 
 export function HeroCollection() {
   const [lang, setLang] = useState<Lang>('en');
+  const [listFilters, setListFilters] = useState<ListFilters>(INITIAL_LIST_FILTERS);
   const [search, setSearch] = useState('');
   const [color, setColor] = useState(ALL);
   const [star, setStar] = useState(ALL);
@@ -54,7 +64,12 @@ export function HeroCollection() {
             <h1 className="mb-1.5 text-2xl font-semibold">⚔ {dict.title(player)}</h1>
             <p className="text-sm text-hw-dim">{dict.subtitle(player)}</p>
           </div>
-          <LangSwitch lang={lang} onChange={setLang} />
+          <div className="flex items-center gap-4">
+            <Link to="/" className="text-sm font-semibold text-hw-accent hover:underline">
+              {dict.navAllHeroes}
+            </Link>
+            <LangSwitch lang={lang} onChange={setLang} />
+          </div>
         </div>
         <StatsBar stats={stats} dict={dict} lang={lang} />
       </header>
@@ -92,7 +107,21 @@ export function HeroCollection() {
         path="/hero/:id"
         element={<HeroRoute heroes={heroes} dict={dict} lang={lang} onLang={setLang} />}
       />
-      <Route path="*" element={collection} />
+      <Route path="/my-heroes" element={collection} />
+      <Route
+        path="/"
+        element={
+          <HeroList
+            heroes={heroes}
+            filters={listFilters}
+            onFilters={setListFilters}
+            dict={dict}
+            lang={lang}
+            onLang={setLang}
+          />
+        }
+      />
+      <Route path="*" element={<Navigate to="/" replace />} />
     </Routes>
   );
 }

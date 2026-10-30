@@ -1,5 +1,5 @@
 import { Fragment, useEffect } from 'react';
-import { Link } from 'react-router';
+import { Link, useLocation } from 'react-router';
 import { HeroAvatar } from '@/components/HeroAvatar';
 import { LangSwitch } from '@/components/LangSwitch';
 import { Badge } from '@/components/ui/badge';
@@ -18,25 +18,37 @@ interface Props {
 const chip =
   'inline-flex items-center gap-1.5 rounded-lg border border-hw-border bg-hw-panel-2 py-1 pr-2.5 pl-1 text-[13px]';
 
-function HeroChip({ id, fallback, byId, lang }: { id: number | null; fallback: string; byId: Map<number, Hero>; lang: Lang }) {
+function HeroChip({
+  id,
+  fallback,
+  byId,
+  lang,
+  from,
+}: {
+  id: number | null;
+  fallback: string;
+  byId: Map<number, Hero>;
+  lang: Lang;
+  from: string;
+}) {
   const hero = id === null ? undefined : byId.get(id);
   if (!hero) return <span className={`${chip} pl-2.5 text-hw-dim`}>{fallback}</span>;
   const name = heroName(hero, lang);
   return (
-    <Link to={`/hero/${hero.id}`} className={`${chip} font-semibold hover:border-hw-accent`}>
+    <Link to={`/hero/${hero.id}`} state={{ from }} className={`${chip} font-semibold hover:border-hw-accent`}>
       <HeroAvatar hero={hero} name={name} className="size-7 rounded-md" />
       {name}
     </Link>
   );
 }
 
-function Combo({ refs, byId, lang }: { refs: CounterRef[]; byId: Map<number, Hero>; lang: Lang }) {
+function Combo({ refs, byId, lang, from }: { refs: CounterRef[]; byId: Map<number, Hero>; lang: Lang; from: string }) {
   return (
     <li className="flex flex-wrap items-center gap-1.5">
       {refs.map((r, i) => (
         <Fragment key={`${r.name}-${i}`}>
           {i > 0 && <span className="text-hw-dim">+</span>}
-          <HeroChip id={r.id} fallback={r.name} byId={byId} lang={lang} />
+          <HeroChip id={r.id} fallback={r.name} byId={byId} lang={lang} from={from} />
         </Fragment>
       ))}
     </li>
@@ -48,6 +60,8 @@ export function HeroPage({ heroId, heroes, dict, lang, onLang }: Props) {
   const hero = byId.get(heroId);
   const data = getHeroCounters(heroId);
   const how = data?.howToCounter ?? null;
+  // Where the user came from (collection or full list), so Back returns there and survives hero-to-hero hops.
+  const from = (useLocation().state as { from?: string } | null)?.from ?? '/';
 
   useEffect(() => {
     // Navigating between hero pages keeps the scroll position otherwise; jsdom has no scrollTo.
@@ -57,8 +71,8 @@ export function HeroPage({ heroId, heroes, dict, lang, onLang }: Props) {
   return (
     <div className="min-h-screen bg-hw-bg font-sans text-hw-text">
       <header className="flex items-center justify-between gap-4 border-b border-hw-border bg-linear-to-br from-[#1d2130] to-[#14161c] px-8 py-4">
-        <Link to="/" className="text-sm font-semibold text-hw-accent hover:underline">
-          {dict.backToCollection}
+        <Link to={from} className="text-sm font-semibold text-hw-accent hover:underline">
+          {dict.back}
         </Link>
         <LangSwitch lang={lang} onChange={onLang} />
       </header>
@@ -85,7 +99,7 @@ export function HeroPage({ heroId, heroes, dict, lang, onLang }: Props) {
                   <p className="mb-3 text-xs text-hw-dim">{dict.countersHint}</p>
                   <ul className="flex flex-col gap-2">
                     {data.counters.map((refs, i) => (
-                      <Combo key={i} refs={refs} byId={byId} lang={lang} />
+                      <Combo key={i} refs={refs} byId={byId} lang={lang} from={from} />
                     ))}
                   </ul>
                 </>
@@ -103,12 +117,12 @@ export function HeroPage({ heroId, heroes, dict, lang, onLang }: Props) {
                       <li key={i} className="rounded-xl border border-hw-border bg-hw-panel p-3.5">
                         <div className="mb-1.5 flex flex-wrap items-center gap-1.5">
                           {e.labelId !== null ? (
-                            <HeroChip id={e.labelId} fallback={e.label ?? ''} byId={byId} lang={lang} />
+                            <HeroChip id={e.labelId} fallback={e.label ?? ''} byId={byId} lang={lang} from={from} />
                           ) : (
                             <>
                               {e.label && <strong className="text-sm">{e.label}</strong>}
                               {e.mentionedIds.map((id) => (
-                                <HeroChip key={id} id={id} fallback={String(id)} byId={byId} lang={lang} />
+                                <HeroChip key={id} id={id} fallback={String(id)} byId={byId} lang={lang} from={from} />
                               ))}
                             </>
                           )}

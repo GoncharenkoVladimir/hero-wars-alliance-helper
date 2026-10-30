@@ -43,7 +43,11 @@ export interface Dict {
   uploadNoHeroes: string;
   uploadBadJson: string;
   uploadOk: (count: number, player: string) => string;
-  backToCollection: string;
+  back: string;
+  myHeroes: string;
+  navAllHeroes: string;
+  allHeroesTitle: string;
+  heroesCount: (n: number) => string;
   heroNotFound: string;
   countersTitle: string;
   countersHint: string;
@@ -105,7 +109,11 @@ export const DICT: Record<Lang, Dict> = {
     uploadNoHeroes: 'У завантаженому профілі не знайдено даних героїв.',
     uploadBadJson: 'Не вдалося прочитати файл — це не коректний JSON.',
     uploadOk: (n, p) => `Оновлено: ${n} героїв${p ? ' · гравець ' + p : ''}.`,
-    backToCollection: '← До колекції',
+    back: '← Назад',
+    myHeroes: 'Мої герої',
+    navAllHeroes: 'Усі герої',
+    allHeroesTitle: 'Усі герої',
+    heroesCount: (n) => `${n} героїв`,
     heroNotFound: 'Героя не знайдено.',
     countersTitle: 'Чим контрити',
     countersHint: 'Герої, що працюють разом, з’єднані знаком «+».',
@@ -165,7 +173,11 @@ export const DICT: Record<Lang, Dict> = {
     uploadNoHeroes: 'No hero data found in the uploaded profile.',
     uploadBadJson: 'Could not read the file — not valid JSON.',
     uploadOk: (n, p) => `Updated: ${n} heroes${p ? ' · player ' + p : ''}.`,
-    backToCollection: '← Back to collection',
+    back: '← Back',
+    myHeroes: 'My heroes',
+    navAllHeroes: 'All heroes',
+    allHeroesTitle: 'All heroes',
+    heroesCount: (n) => `${n} heroes`,
     heroNotFound: 'Hero not found.',
     countersTitle: 'Best counters',
     countersHint: 'Heroes that work together are joined with “+”.',

@@ -4,13 +4,13 @@ import { renderWithRouter } from '@/test-utils/renderWithRouter';
 import { HeroCollection } from './HeroCollection';
 
 test('renders every hero, sorted by power', () => {
-  renderWithRouter(<HeroCollection />);
+  renderWithRouter(<HeroCollection />, '/my-heroes');
   expect(screen.getAllByRole('article')).toHaveLength(82);
   expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent('Hero Collection — Kragen');
 });
 
 test('search narrows the grid by name and by id', () => {
-  renderWithRouter(<HeroCollection />);
+  renderWithRouter(<HeroCollection />, '/my-heroes');
   const search = screen.getByRole('textbox');
 
   userEvent.type(search, 'Iris');
@@ -23,7 +23,7 @@ test('search narrows the grid by name and by id', () => {
 });
 
 test('shows a message when nothing matches', () => {
-  renderWithRouter(<HeroCollection />);
+  renderWithRouter(<HeroCollection />, '/my-heroes');
   userEvent.type(screen.getByRole('textbox'), 'zzzzzz');
   expect(screen.queryByRole('article')).not.toBeInTheDocument();
   expect(screen.getByText('No heroes match the current filters.')).toBeInTheDocument();
@@ -36,7 +36,7 @@ test('the faction filter narrows the grid', async () => {
     releasePointerCapture: () => {},
     scrollIntoView: () => {},
   });
-  renderWithRouter(<HeroCollection />);
+  renderWithRouter(<HeroCollection />, '/my-heroes');
   userEvent.click(screen.getByRole('combobox', { name: 'Faction' }));
   userEvent.click(await screen.findByRole('option', { name: 'Undead' }));
   // undead (factionId 1) in configs/hero.json: 3, 6, 10, 16, 41, 54, 60, 65, 71, 73, 501, 502
@@ -44,7 +44,7 @@ test('the faction filter narrows the grid', async () => {
 });
 
 test('the language switch retranslates the screen', () => {
-  renderWithRouter(<HeroCollection />);
+  renderWithRouter(<HeroCollection />, '/my-heroes');
   expect(document.documentElement.lang).toBe('en');
   userEvent.click(screen.getByRole('button', { name: 'UA' }));
   expect(screen.getByPlaceholderText(/Ім'я або ID/)).toBeInTheDocument();
