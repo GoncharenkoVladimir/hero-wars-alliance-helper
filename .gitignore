@@ -1,0 +1,38 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+.idea
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+/dist
+
+# TypeScript compiled artifacts — only .ts/.tsx sources belong in src/.
+# (IDE / `tsc` emits these next to the sources; Vite must resolve the .tsx, not the stale .js.)
+src/**/*.js
+src/**/*.d.ts
+!src/vite-env.d.ts
+
+# IDE / editor artifacts
+.DS_Store
+*.iml
+
+# TypeScript incremental build cache (machine-generated, changes on every build)
+*.tsbuildinfo
+
+# misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

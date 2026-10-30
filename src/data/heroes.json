@@ -1,0 +1,5474 @@
+[
+  {
+    "id": 1,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "2": 120,
+      "3": 120,
+      "4": 120,
+      "5": 120
+    },
+    "power": 38827,
+    "star": 4,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": {
+      "1": 10,
+      "2": 5
+    },
+    "skins": {
+      "1": 7,
+      "154": 1
+    },
+    "currentSkin": 1,
+    "titanGiftLevel": 5,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 1350
+      }
+    },
+    "artifacts": [
+      {
+        "level": 15,
+        "star": 3,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 12,
+        "star": 1,
+        "artifactType": "book"
+      },
+      {
+        "level": 5,
+        "star": 1,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 1,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Аврора",
+    "nameEn": "Aurora",
+    "img": "https://static-platform.aghanim.com/hub/36/b5/11/cf/36b511cf-4ea7-4270-908c-9dfe49390541.webp"
+  },
+  {
+    "id": 2,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0
+    },
+    "skills": {
+      "270": 8,
+      "271": 8,
+      "272": 21,
+      "273": 41
+    },
+    "power": 36754,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": {
+      "2": 1
+    },
+    "currentSkin": 2,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": null,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 2,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 2,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Галахад",
+    "nameEn": "Galahad",
+    "img": "https://static-platform.aghanim.com/hub/e4/3b/d6/52/e43bd652-1500-48d9-a14e-029eea997ceb.webp"
+  },
+  {
+    "id": 3,
+    "xp": 2948945,
+    "level": 120,
+    "color": 10,
+    "slots": [
+      0
+    ],
+    "skills": {
+      "260": 85,
+      "261": 85,
+      "262": 85,
+      "263": 85
+    },
+    "power": 43080,
+    "star": 5,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      25,
+      16,
+      9
+    ],
+    "skins": {
+      "3": 5,
+      "60": 16
+    },
+    "currentSkin": 60,
+    "titanGiftLevel": 10,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 5750
+      }
+    },
+    "artifacts": [
+      {
+        "level": 19,
+        "star": 3,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 22,
+        "star": 1,
+        "artifactType": "book"
+      },
+      {
+        "level": 12,
+        "star": 1,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 3,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "talisman": {
+      "id": 14,
+      "level": 1,
+      "traitIds": [
+        1
+      ]
+    },
+    "name": "Кира",
+    "nameEn": "Keira",
+    "img": "https://static-platform.aghanim.com/hub/e4/76/bf/c2/e476bfc2-7167-4dae-a93c-986462166608.webp"
+  },
+  {
+    "id": 4,
+    "xp": 2948945,
+    "level": 120,
+    "color": 10,
+    "slots": [
+      0
+    ],
+    "skills": {
+      "255": 120,
+      "256": 120,
+      "257": 120,
+      "258": 120
+    },
+    "power": 49835,
+    "star": 5,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": {
+      "1": 40,
+      "2": 23
+    },
+    "skins": {
+      "4": 27,
+      "92": 27,
+      "241": 1,
+      "305": 1
+    },
+    "currentSkin": 241,
+    "titanGiftLevel": 8,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 3870
+      }
+    },
+    "artifacts": [
+      {
+        "level": 18,
+        "star": 4,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 19,
+        "star": 2,
+        "artifactType": "book"
+      },
+      {
+        "level": 20,
+        "star": 1,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 4,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Астарот",
+    "nameEn": "Astaroth",
+    "img": "https://static-platform.aghanim.com/hub/17/f4/bd/28/17f4bd28-c54c-4278-8030-2d77c080bca8.webp"
+  },
+  {
+    "id": 5,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "5": 0
+    },
+    "skills": {
+      "10236": 1,
+      "10237": 1,
+      "10238": 21,
+      "10239": 41,
+      "10240": 120
+    },
+    "power": 44694,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": {
+      "410": 1
+    },
+    "currentSkin": 410,
+    "titanGiftLevel": 4,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 1060
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 5,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 5,
+    "upgradedSkills": [],
+    "name": "Кай",
+    "nameEn": "Kai",
+    "img": "https://static-platform.aghanim.com/hub/57/88/3e/6a/57883e6a-4f52-4065-a98e-d0bd8b8b7dc1.webp"
+  },
+  {
+    "id": 6,
+    "xp": 2948945,
+    "level": 120,
+    "color": 16,
+    "slots": [],
+    "skills": {
+      "28": 120,
+      "29": 120,
+      "30": 120,
+      "492": 120,
+      "10164": 120
+    },
+    "power": 104292,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": {
+      "0": 40,
+      "2": 40,
+      "3": 1,
+      "4": 27
+    },
+    "skins": {
+      "6": 11,
+      "63": 18,
+      "116": 1,
+      "202": 1,
+      "254": 1,
+      "402": 2
+    },
+    "currentSkin": 116,
+    "titanGiftLevel": 30,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 65150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 6,
+        "star": 2,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "book"
+      },
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 6,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 2,
+    "upgradedSkills": [],
+    "talisman": {
+      "id": 34,
+      "level": 50,
+      "traitIds": [
+        3,
+        19,
+        58,
+        123
+      ]
+    },
+    "name": "Фобос",
+    "nameEn": "Phobos",
+    "img": "https://static-platform.aghanim.com/hub/ec/09/04/e7/ec0904e7-6c05-4867-96ff-a52f200bdd19.webp"
+  },
+  {
+    "id": 7,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0
+    },
+    "skills": {
+      "32": 120,
+      "33": 120,
+      "34": 120,
+      "35": 120
+    },
+    "power": 41994,
+    "star": 5,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      3
+    ],
+    "skins": {
+      "7": 5
+    },
+    "currentSkin": 7,
+    "titanGiftLevel": 9,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 4790
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 2,
+        "star": 1,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 7,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Тея",
+    "nameEn": "Thea",
+    "img": "https://static-platform.aghanim.com/hub/8e/7b/cd/03/8e7bcd03-1d2d-41a3-8007-faac4566b3e1.webp"
+  },
+  {
+    "id": 8,
+    "xp": 63000,
+    "level": 50,
+    "color": 7,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "skills": {
+      "280": 1,
+      "281": 1,
+      "283": 41,
+      "10165": 21
+    },
+    "power": 22925,
+    "star": 3,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": [],
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": null,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 8,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Сорвиголова",
+    "nameEn": "Daredevil",
+    "img": "https://static-platform.aghanim.com/hub/68/cb/ed/39/68cbed39-4b05-4cdd-a9a8-107a4c7ad8a5.webp"
+  },
+  {
+    "id": 9,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "skills": {
+      "42": 1,
+      "43": 1,
+      "44": 21,
+      "45": 41
+    },
+    "power": 33341,
+    "star": 5,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": [],
+    "currentSkin": 9,
+    "titanGiftLevel": 1,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 250
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 3,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 9,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Хайди",
+    "nameEn": "Heidi",
+    "img": "https://static-platform.aghanim.com/hub/5a/df/2e/3e/5adf2e3e-c5b3-4ea7-af42-00e7e82824da.webp"
+  },
+  {
+    "id": 10,
+    "xp": 2948945,
+    "level": 120,
+    "color": 8,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0
+    },
+    "skills": {
+      "47": 120,
+      "48": 120,
+      "49": 120,
+      "50": 120
+    },
+    "power": 46829,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": {
+      "0": 20,
+      "3": 1
+    },
+    "skins": {
+      "10": 20,
+      "243": 1,
+      "381": 1
+    },
+    "currentSkin": 381,
+    "titanGiftLevel": 10,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 5750
+      }
+    },
+    "artifacts": [
+      {
+        "level": 6,
+        "star": 3,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 7,
+        "star": 1,
+        "artifactType": "book"
+      },
+      {
+        "level": 3,
+        "star": 1,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 10,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Безликий",
+    "nameEn": "Faceless",
+    "img": "https://static-platform.aghanim.com/hub/ab/d5/84/c4/abd584c4-3c98-4c96-87ca-93ba4fae1c82.webp"
+  },
+  {
+    "id": 11,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0
+    },
+    "skills": {
+      "52": 1,
+      "53": 1,
+      "54": 21,
+      "55": 41
+    },
+    "power": 29763,
+    "star": 4,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": [],
+    "currentSkin": 11,
+    "titanGiftLevel": 1,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 250
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 2,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 11,
+    "skinsInfo": {
+      "11": {
+        "rank": 0,
+        "skinColorsIds": [
+          16
+        ]
+      }
+    },
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Чабба",
+    "nameEn": "Chabba",
+    "img": "https://static-platform.aghanim.com/hub/b7/b8/70/1d/b7b8701d-acb8-4fa0-9de8-9b68309bb538.webp"
+  },
+  {
+    "id": 12,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "skills": {
+      "57": 1,
+      "58": 1,
+      "59": 22,
+      "60": 41,
+      "417": 120
+    },
+    "power": 48054,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": {
+      "406": 1
+    },
+    "currentSkin": 406,
+    "titanGiftLevel": 2,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 510
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 1,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 12,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 11,
+    "upgradedSkills": [
+      57
+    ],
+    "name": "Арахна",
+    "nameEn": "Arachne",
+    "img": "https://static-platform.aghanim.com/hub/2e/da/9f/8d/2eda9f8d-b7a9-4f7d-98ba-68e82775cafb.webp"
+  },
+  {
+    "id": 13,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "62": 120,
+      "63": 120,
+      "64": 120,
+      "65": 120
+    },
+    "power": 44979,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": [],
+    "currentSkin": 0,
+    "titanGiftLevel": 5,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 1350
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 1,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 13,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Орион",
+    "nameEn": "Orion",
+    "img": "https://static-platform.aghanim.com/hub/8b/e8/42/a2/8be842a2-8cdf-4bfc-9c1d-6302b0585c9b.webp"
+  },
+  {
+    "id": 14,
+    "xp": 78000,
+    "level": 52,
+    "color": 7,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "skills": {
+      "275": 1,
+      "276": 1,
+      "277": 21,
+      "278": 41
+    },
+    "power": 22985,
+    "star": 3,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": [],
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": null,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 14,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Фокс",
+    "nameEn": "Fox",
+    "img": "https://static-platform.aghanim.com/hub/f2/d2/e5/49/f2d2e549-2212-42d6-a1e4-cd59bc87a090.webp"
+  },
+  {
+    "id": 15,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0
+    },
+    "skills": {
+      "72": 2,
+      "73": 2,
+      "74": 21,
+      "75": 41
+    },
+    "power": 29661,
+    "star": 4,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": [],
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": null,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 1,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 15,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Джинджер",
+    "nameEn": "Ginger",
+    "img": "https://static-platform.aghanim.com/hub/35/e5/2f/b8/35e52fb8-ab53-46a0-9a00-825cd122aa2e.webp"
+  },
+  {
+    "id": 16,
+    "xp": 2948945,
+    "level": 120,
+    "color": 16,
+    "slots": [],
+    "skills": {
+      "290": 120,
+      "291": 120,
+      "292": 120,
+      "293": 120,
+      "482": 120
+    },
+    "power": 132180,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "skins": {
+      "16": 20,
+      "58": 22,
+      "176": 60,
+      "183": 4,
+      "220": 1,
+      "309": 60,
+      "447": 25
+    },
+    "currentSkin": 176,
+    "titanGiftLevel": 30,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 65150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "book"
+      },
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 16,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 10,
+    "upgradedSkills": [
+      290
+    ],
+    "talisman": {
+      "id": 22,
+      "level": 50,
+      "traitIds": [
+        1,
+        75,
+        36,
+        140
+      ]
+    },
+    "name": "Данте",
+    "nameEn": "Dante",
+    "img": "https://static-platform.aghanim.com/hub/9f/f6/54/f6/9ff654f6-bf8c-4dde-a07f-e02a34bd7e4b.webp"
+  },
+  {
+    "id": 17,
+    "xp": 2948945,
+    "level": 120,
+    "color": 14,
+    "slots": [],
+    "skills": {
+      "82": 120,
+      "83": 120,
+      "84": 120,
+      "85": 120
+    },
+    "power": 70327,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": {
+      "0": 40,
+      "2": 40,
+      "3": 20,
+      "4": 40
+    },
+    "skins": {
+      "17": 10,
+      "43": 1,
+      "149": 1,
+      "191": 1,
+      "347": 35
+    },
+    "currentSkin": 149,
+    "titanGiftLevel": 20,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 26150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 62,
+        "star": 3,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 80,
+        "star": 4,
+        "artifactType": "book"
+      },
+      {
+        "level": 68,
+        "star": 3,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 17,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Моджо",
+    "nameEn": "Mojo",
+    "img": "https://static-platform.aghanim.com/hub/b6/ae/88/d1/b6ae88d1-1a0f-45b6-84e6-f084773eec33.webp"
+  },
+  {
+    "id": 18,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "87": 1,
+      "88": 1,
+      "89": 21,
+      "90": 41
+    },
+    "power": 33356,
+    "star": 5,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": [],
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": null,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 18,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Судья",
+    "nameEn": "Judge",
+    "img": "https://static-platform.aghanim.com/hub/e8/f4/5c/bf/e8f45cbf-3ca8-43a6-b362-c9f890eb49b3.webp"
+  },
+  {
+    "id": 19,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "skills": {
+      "92": 1,
+      "93": 1,
+      "94": 21,
+      "95": 41
+    },
+    "power": 30071,
+    "star": 4,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": {
+      "392": 1
+    },
+    "currentSkin": 392,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": null,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 2,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 19,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Темная Звезда",
+    "nameEn": "Dark Star",
+    "img": "https://static-platform.aghanim.com/hub/39/32/23/a6/393223a6-7c9d-4b4b-b4e8-7b39ae92b9e0.webp"
+  },
+  {
+    "id": 20,
+    "xp": 2948945,
+    "level": 120,
+    "color": 8,
+    "slots": {
+      "1": 0,
+      "2": 0,
+      "3": 0
+    },
+    "skills": {
+      "97": 1,
+      "98": 1,
+      "99": 21,
+      "100": 41
+    },
+    "power": 30648,
+    "star": 4,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": {
+      "472": 1
+    },
+    "currentSkin": 472,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": null,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 2,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 20,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "talisman": {
+      "id": 115,
+      "level": 1,
+      "traitIds": [
+        10
+      ]
+    },
+    "name": "Артемис",
+    "nameEn": "Artemis",
+    "img": "https://static-platform.aghanim.com/hub/f4/43/e1/49/f443e149-f0d9-47af-9d88-2b18ef80884d.webp"
+  },
+  {
+    "id": 21,
+    "xp": 2948945,
+    "level": 120,
+    "color": 14,
+    "slots": [],
+    "skills": {
+      "285": 120,
+      "286": 120,
+      "287": 120,
+      "288": 120
+    },
+    "power": 64999,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": {
+      "1": 40,
+      "2": 40,
+      "3": 40
+    },
+    "skins": {
+      "21": 11,
+      "113": 24,
+      "248": 1
+    },
+    "currentSkin": 248,
+    "titanGiftLevel": 20,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 26150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 15,
+        "star": 3,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 61,
+        "star": 4,
+        "artifactType": "book"
+      },
+      {
+        "level": 7,
+        "star": 1,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 21,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Маркус",
+    "nameEn": "Markus",
+    "img": "https://static-platform.aghanim.com/hub/74/f9/29/3a/74f9293a-b49a-43cd-8c94-93b21ae88d9f.webp"
+  },
+  {
+    "id": 22,
+    "xp": 160250,
+    "level": 60,
+    "color": 7,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "5": 0
+    },
+    "skills": {
+      "110": 1,
+      "111": 1,
+      "112": 21,
+      "113": 41
+    },
+    "power": 23378,
+    "star": 3,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": [],
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": null,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 22,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Пеппи",
+    "nameEn": "Peppy",
+    "img": "https://static-platform.aghanim.com/hub/b5/14/2a/a1/b5142aa1-d404-4f46-9c76-1fd8308fddb9.webp"
+  },
+  {
+    "id": 23,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0
+    },
+    "skills": {
+      "488": 120,
+      "10160": 120,
+      "10161": 120,
+      "10162": 120,
+      "10163": 120
+    },
+    "power": 45463,
+    "star": 4,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": {
+      "367": 1,
+      "456": 1
+    },
+    "currentSkin": 456,
+    "titanGiftLevel": 5,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 1350
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 2,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 23,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 1,
+    "upgradedSkills": [],
+    "name": "Лиэн",
+    "nameEn": "Lian",
+    "img": "https://static-platform.aghanim.com/hub/00/5d/ee/ca/005deeca-02a3-4fb1-9fd6-f0644d7829e2.webp"
+  },
+  {
+    "id": 24,
+    "xp": 2948945,
+    "level": 120,
+    "color": 8,
+    "slots": {
+      "0": 0,
+      "5": 0
+    },
+    "skills": {
+      "120": 120,
+      "121": 120,
+      "122": 120,
+      "123": 120,
+      "502": 120
+    },
+    "power": 54395,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": {
+      "1": 15
+    },
+    "skins": {
+      "93": 1,
+      "145": 7,
+      "369": 1
+    },
+    "currentSkin": 369,
+    "titanGiftLevel": 6,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 2150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 1,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 2,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 24,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 2,
+    "upgradedSkills": [],
+    "name": "Тесак",
+    "nameEn": "Cleaver",
+    "img": "https://static-platform.aghanim.com/hub/7e/e6/c8/d3/7ee6c8d3-25cf-4740-846f-d83bf6778023.webp"
+  },
+  {
+    "id": 25,
+    "xp": 62700,
+    "level": 50,
+    "color": 7,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0
+    },
+    "skills": {
+      "125": 1,
+      "126": 1,
+      "127": 21,
+      "128": 41
+    },
+    "power": 22225,
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": [],
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": null,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 25,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Исмаил",
+    "nameEn": "Ishmael",
+    "img": "https://static-platform.aghanim.com/hub/2e/9d/aa/b3/2e9daab3-ea8d-495b-bd00-cf10a2c81df0.webp"
+  },
+  {
+    "id": 26,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "5": 0
+    },
+    "skills": {
+      "130": 1,
+      "131": 1,
+      "132": 21,
+      "133": 41
+    },
+    "power": 36703,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": [],
+    "currentSkin": 0,
+    "titanGiftLevel": 1,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 250
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 3,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 26,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Лилит",
+    "nameEn": "Lilith",
+    "img": "https://static-platform.aghanim.com/hub/bd/c2/fc/c7/bdc2fcc7-0b1a-4b38-98ae-81ebf0583cda.webp"
+  },
+  {
+    "id": 27,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "135": 1,
+      "136": 1,
+      "137": 21,
+      "138": 41
+    },
+    "power": 30114,
+    "star": 4,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": {
+      "375": 1
+    },
+    "currentSkin": 375,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": null,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 27,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Лютер",
+    "nameEn": "Luther",
+    "img": "https://static-platform.aghanim.com/hub/6a/6f/4c/5d/6a6f4c5d-c9be-4072-ba7f-4dde608e4978.webp"
+  },
+  {
+    "id": 28,
+    "xp": 2948945,
+    "level": 120,
+    "color": 8,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "4": 0
+    },
+    "skills": {
+      "265": 120,
+      "266": 120,
+      "267": 120,
+      "268": 120
+    },
+    "power": 45877,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": {
+      "368": 1
+    },
+    "currentSkin": 368,
+    "titanGiftLevel": 5,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 1350
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 1,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 28,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Цин Мао",
+    "nameEn": "Qing Mao",
+    "img": "https://static-platform.aghanim.com/hub/7c/bb/98/14/7cbb9814-9b76-40eb-a8d9-c33dad09b4cb.webp"
+  },
+  {
+    "id": 29,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "145": 120,
+      "146": 120,
+      "147": 120,
+      "148": 120,
+      "494": 120
+    },
+    "power": 56560,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": {
+      "29": 1,
+      "88": 1,
+      "147": 1,
+      "464": 1
+    },
+    "currentSkin": 147,
+    "titanGiftLevel": 30,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 65150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 29,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 2,
+    "upgradedSkills": [],
+    "name": "Дориан",
+    "nameEn": "Dorian",
+    "img": "https://static-platform.aghanim.com/hub/bc/45/ac/17/bc45ac17-f59f-4efc-b1a9-268356d0306b.webp"
+  },
+  {
+    "id": 30,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "150": 1,
+      "151": 1,
+      "152": 21,
+      "153": 41
+    },
+    "power": 27472,
+    "star": 3,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": [],
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": null,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 30,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Корнелиус",
+    "nameEn": "Cornelius",
+    "img": "https://static-platform.aghanim.com/hub/06/9e/8e/fe/069e8efe-4c12-4fda-8edf-31f9a8b7a877.webp"
+  },
+  {
+    "id": 31,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "5": 0
+    },
+    "skills": {
+      "155": 1,
+      "156": 1,
+      "157": 21,
+      "158": 41
+    },
+    "power": 30356,
+    "star": 4,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": {
+      "422": 1
+    },
+    "currentSkin": 422,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": null,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 44,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Джет",
+    "nameEn": "Jet",
+    "img": "https://static-platform.aghanim.com/hub/7e/37/84/a3/7e3784a3-eaa4-492d-8ac9-a9a571ca754e.webp"
+  },
+  {
+    "id": 32,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "160": 1,
+      "161": 1,
+      "162": 21,
+      "163": 41
+    },
+    "power": 27174,
+    "star": 3,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": [],
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": null,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 45,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Гелиос",
+    "nameEn": "Helios",
+    "img": "https://static-platform.aghanim.com/hub/90/11/9b/aa/90119baa-780c-4720-b840-8ff7fc3b03dd.webp"
+  },
+  {
+    "id": 33,
+    "xp": 2948945,
+    "level": 120,
+    "color": 10,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "3": 0
+    },
+    "skills": {
+      "165": 120,
+      "166": 120,
+      "167": 120,
+      "168": 120
+    },
+    "power": 46441,
+    "star": 5,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": {
+      "0": 20,
+      "3": 40
+    },
+    "skins": {
+      "46": 1,
+      "237": 9
+    },
+    "currentSkin": 237,
+    "titanGiftLevel": 5,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 1350
+      }
+    },
+    "artifacts": [
+      {
+        "level": 4,
+        "star": 3,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 13,
+        "star": 2,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 46,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Ларс",
+    "nameEn": "Lars",
+    "img": "https://static-platform.aghanim.com/hub/94/1a/c0/0a/941ac00a-73e5-4a8b-bb90-f5ac5a2f5b1a.webp"
+  },
+  {
+    "id": 34,
+    "xp": 2948945,
+    "level": 120,
+    "color": 9,
+    "slots": [
+      0,
+      0
+    ],
+    "skills": {
+      "170": 120,
+      "171": 120,
+      "172": 120,
+      "173": 120
+    },
+    "power": 43940,
+    "star": 5,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": {
+      "0": 20,
+      "1": 1,
+      "4": 20
+    },
+    "skins": {
+      "330": 6
+    },
+    "currentSkin": 330,
+    "titanGiftLevel": 5,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 1350
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 3,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 6,
+        "star": 2,
+        "artifactType": "book"
+      },
+      {
+        "level": 20,
+        "star": 2,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 47,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Криста",
+    "nameEn": "Krista",
+    "img": "https://static-platform.aghanim.com/hub/6b/a9/f9/13/6ba9f913-ebd6-46d9-bf25-eee5df9662d4.webp"
+  },
+  {
+    "id": 35,
+    "xp": 2948945,
+    "level": 120,
+    "color": 10,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "4": 0
+    },
+    "skills": {
+      "175": 120,
+      "176": 120,
+      "177": 120,
+      "178": 120
+    },
+    "power": 48016,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      20
+    ],
+    "skins": {
+      "48": 2,
+      "181": 1,
+      "420": 1
+    },
+    "currentSkin": 420,
+    "titanGiftLevel": 6,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 2150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 3,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 1,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 1,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 48,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Йорген",
+    "nameEn": "Jorgen",
+    "img": "https://static-platform.aghanim.com/hub/35/9b/23/21/359b2321-9829-4a9e-8fd4-243ceb2f7e88.webp"
+  },
+  {
+    "id": 36,
+    "xp": 2948945,
+    "level": 120,
+    "color": 14,
+    "slots": [],
+    "skills": {
+      "180": 120,
+      "181": 120,
+      "182": 120,
+      "183": 120,
+      "469": 120
+    },
+    "power": 83641,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "skins": {
+      "49": 35,
+      "78": 13,
+      "84": 1,
+      "136": 29,
+      "232": 1,
+      "419": 1
+    },
+    "currentSkin": 84,
+    "titanGiftLevel": 21,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 29350
+      }
+    },
+    "artifacts": [
+      {
+        "level": 51,
+        "star": 4,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 53,
+        "star": 4,
+        "artifactType": "book"
+      },
+      {
+        "level": 53,
+        "star": 3,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 49,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 1,
+    "upgradedSkills": [],
+    "talisman": {
+      "id": 87,
+      "level": 20,
+      "traitIds": [
+        7,
+        43,
+        134
+      ]
+    },
+    "name": "Майя",
+    "nameEn": "Maya",
+    "img": "https://static-platform.aghanim.com/hub/99/6e/6e/b4/996e6eb4-fb4e-48c1-9bbf-a329c02dd799.webp"
+  },
+  {
+    "id": 37,
+    "xp": 2948945,
+    "level": 120,
+    "color": 16,
+    "slots": [],
+    "skills": {
+      "185": 120,
+      "186": 120,
+      "187": 120,
+      "188": 120
+    },
+    "power": 104358,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "skins": {
+      "50": 5,
+      "83": 41,
+      "153": 30,
+      "223": 1,
+      "415": 1
+    },
+    "currentSkin": 223,
+    "titanGiftLevel": 21,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 29350
+      }
+    },
+    "artifacts": [
+      {
+        "level": 63,
+        "star": 4,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 98,
+        "star": 5,
+        "artifactType": "book"
+      },
+      {
+        "level": 84,
+        "star": 4,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 50,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "talisman": {
+      "id": 24,
+      "level": 50,
+      "traitIds": [
+        2,
+        49,
+        49,
+        153
+      ]
+    },
+    "name": "Джу",
+    "nameEn": "Jhu",
+    "img": "https://static-platform.aghanim.com/hub/bd/c5/da/b0/bdc5dab0-4d17-4ad3-83ea-550ba6d7ff96.webp"
+  },
+  {
+    "id": 38,
+    "xp": 62700,
+    "level": 50,
+    "color": 7,
+    "slots": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "190": 1,
+      "191": 1,
+      "192": 21,
+      "193": 41
+    },
+    "power": 23002,
+    "star": 3,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": [],
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": null,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 51,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Амир",
+    "nameEn": "Amir"
+  },
+  {
+    "id": 39,
+    "xp": 16300,
+    "level": 39,
+    "color": 5,
+    "slots": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "195": 1,
+      "196": 1,
+      "11002": 21
+    },
+    "power": 21385,
+    "star": 4,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": [],
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": null,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 52,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Зири",
+    "nameEn": "Ziri",
+    "img": "https://static-platform.aghanim.com/hub/27/31/64/c1/273164c1-4e55-4d58-a91d-3ed2253bdf45.webp"
+  },
+  {
+    "id": 40,
+    "xp": 2948945,
+    "level": 120,
+    "color": 16,
+    "slots": [],
+    "skills": {
+      "200": 120,
+      "201": 120,
+      "202": 120,
+      "203": 120,
+      "593": 120
+    },
+    "power": 74083,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": {
+      "89": 1,
+      "129": 1,
+      "168": 1,
+      "279": 1,
+      "478": 1
+    },
+    "currentSkin": 478,
+    "titanGiftLevel": 30,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 65150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 1,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 53,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 2,
+    "upgradedSkills": [],
+    "name": "Небула",
+    "nameEn": "Nebula",
+    "img": "https://static-platform.aghanim.com/hub/03/07/c3/15/0307c315-2007-4140-b1cf-7c88934bb373.webp"
+  },
+  {
+    "id": 41,
+    "xp": 2948945,
+    "level": 120,
+    "color": 8,
+    "slots": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "skills": {
+      "205": 1,
+      "206": 1,
+      "207": 21,
+      "208": 41
+    },
+    "power": 28065,
+    "star": 3,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": {
+      "426": 1
+    },
+    "currentSkin": 426,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": null,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 90,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "К'арх",
+    "nameEn": "K'arkh",
+    "img": "https://static-platform.aghanim.com/hub/ec/ec/18/96/ecec1896-20fc-4d0d-9ec7-33f9fd3df587.webp"
+  },
+  {
+    "id": 42,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "10231": 1,
+      "10232": 1,
+      "10233": 21,
+      "10234": 41
+    },
+    "power": 30115,
+    "star": 4,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": {
+      "379": 1
+    },
+    "currentSkin": 379,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": null,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 91,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Руфус",
+    "nameEn": "Rufus",
+    "img": "https://static-platform.aghanim.com/hub/5e/98/e2/b7/5e98e2b7-c183-4fbe-9353-0bd7cf9cccb8.webp"
+  },
+  {
+    "id": 43,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "215": 38,
+      "216": 38,
+      "217": 38,
+      "218": 41
+    },
+    "power": 31503,
+    "star": 4,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": [],
+    "currentSkin": 98,
+    "titanGiftLevel": 4,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 1060
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 2,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 98,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Целеста",
+    "nameEn": "Celeste",
+    "img": "https://static-platform.aghanim.com/hub/02/78/b0/14/0278b014-9b8a-4077-aeb2-37ca4de190dd.webp"
+  },
+  {
+    "id": 44,
+    "xp": 18700,
+    "level": 40,
+    "color": 5,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "skills": {
+      "220": 1,
+      "221": 1,
+      "222": 21
+    },
+    "power": 21278,
+    "star": 4,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": [],
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": null,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 99,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Астрид",
+    "nameEn": "Astrid and Lucas",
+    "img": "https://static-platform.aghanim.com/hub/4c/de/65/2e/4cde652e-d9ba-4e60-9645-57928c84bca3.webp"
+  },
+  {
+    "id": 45,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "225": 120,
+      "226": 120,
+      "227": 120,
+      "228": 120,
+      "496": 120
+    },
+    "power": 53603,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": {
+      "150": 1,
+      "200": 1,
+      "277": 1,
+      "383": 1,
+      "467": 1
+    },
+    "currentSkin": 467,
+    "titanGiftLevel": 6,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 2150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 2,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 100,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 2,
+    "upgradedSkills": [],
+    "talisman": {
+      "id": 21,
+      "level": 1,
+      "traitIds": [
+        3
+      ]
+    },
+    "name": "Сатори",
+    "nameEn": "Satori",
+    "img": "https://static-platform.aghanim.com/hub/3b/94/b5/c2/3b94b5c2-78a4-49e4-94d3-070b44198f86.webp"
+  },
+  {
+    "id": 46,
+    "xp": 2948945,
+    "level": 120,
+    "color": 14,
+    "slots": [],
+    "skills": {
+      "230": 120,
+      "231": 120,
+      "232": 120,
+      "233": 120
+    },
+    "power": 71457,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "skins": {
+      "101": 4,
+      "157": 1,
+      "224": 28,
+      "280": 1
+    },
+    "currentSkin": 157,
+    "titanGiftLevel": 20,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 26150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 63,
+        "star": 4,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 53,
+        "star": 4,
+        "artifactType": "book"
+      },
+      {
+        "level": 51,
+        "star": 4,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 101,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Марта",
+    "nameEn": "Martha",
+    "img": "https://static-platform.aghanim.com/hub/e6/d7/7e/5e/e6d77e5e-80e2-494f-a6b3-b42f5c768b39.webp"
+  },
+  {
+    "id": 47,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "235": 1,
+      "237": 21,
+      "238": 41,
+      "11003": 1
+    },
+    "power": 30020,
+    "star": 4,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": {
+      "430": 1
+    },
+    "currentSkin": 430,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": null,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 102,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Андвари",
+    "nameEn": "Andvari",
+    "img": "https://static-platform.aghanim.com/hub/06/47/68/ca/064768ca-fab1-4a73-bc4b-a2c98636b4fb.webp"
+  },
+  {
+    "id": 49,
+    "xp": 2948945,
+    "level": 120,
+    "color": 16,
+    "slots": {
+      "2": 0
+    },
+    "skills": {
+      "295": 120,
+      "296": 120,
+      "297": 120,
+      "298": 120,
+      "478": 120
+    },
+    "power": 157938,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      55,
+      55,
+      55,
+      55,
+      55
+    ],
+    "skins": {
+      "179": 60,
+      "186": 60,
+      "218": 60,
+      "271": 1,
+      "297": 60,
+      "390": 60
+    },
+    "currentSkin": 390,
+    "titanGiftLevel": 30,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 65150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "book"
+      },
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 179,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 10,
+    "upgradedSkills": [
+      295
+    ],
+    "talisman": {
+      "id": 13,
+      "level": 50,
+      "traitIds": [
+        1,
+        23,
+        114,
+        88
+      ]
+    },
+    "name": "Ясмин",
+    "nameEn": "Yasmine",
+    "img": "https://static-platform.aghanim.com/hub/20/93/fb/82/2093fb82-2e31-4919-a4a1-3fc8cd7ce4b9.webp"
+  },
+  {
+    "id": 50,
+    "xp": 2948945,
+    "level": 120,
+    "color": 8,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "skills": {
+      "300": 120,
+      "301": 120,
+      "302": 120,
+      "303": 120
+    },
+    "power": 45594,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": [],
+    "currentSkin": 1009,
+    "titanGiftLevel": 5,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 1350
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 1009,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "talisman": {
+      "id": 65,
+      "level": 1,
+      "traitIds": [
+        1
+      ]
+    },
+    "name": "Айзек",
+    "nameEn": "Isaac",
+    "img": "https://static-platform.aghanim.com/hub/d2/9b/eb/7a/d29beb7a-7d4d-4a7b-812d-e6f982373b7a.webp"
+  },
+  {
+    "id": 51,
+    "xp": 2948945,
+    "level": 120,
+    "color": 10,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0
+    },
+    "skills": {
+      "305": 120,
+      "306": 120,
+      "307": 120,
+      "308": 120
+    },
+    "power": 51216,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      26
+    ],
+    "skins": {
+      "276": 1,
+      "403": 1,
+      "1010": 5
+    },
+    "currentSkin": 276,
+    "titanGiftLevel": 21,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 29350
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 3,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 2,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 1010,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Ксеша",
+    "nameEn": "Xe'Sha",
+    "img": "https://static-platform.aghanim.com/hub/fb/10/cb/e6/fb10cbe6-d839-43b0-a37f-ceec93853025.webp"
+  },
+  {
+    "id": 52,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "skills": {
+      "310": 120,
+      "311": 120,
+      "312": 120,
+      "313": 120
+    },
+    "power": 35388,
+    "star": 3,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": [],
+    "currentSkin": 0,
+    "titanGiftLevel": 5,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 1350
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 208,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Амира",
+    "nameEn": "Amira",
+    "img": "https://static-platform.aghanim.com/hub/a8/be/96/b0/a8be96b0-7d2f-4d97-a3eb-59813aa8485b.webp"
+  },
+  {
+    "id": 53,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0
+    },
+    "skills": {
+      "315": 1,
+      "316": 1,
+      "317": 21,
+      "318": 41
+    },
+    "power": 32974,
+    "star": 5,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": [],
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": null,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 215,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Фафнир",
+    "nameEn": "Fafnir",
+    "img": "https://static-platform.aghanim.com/hub/06/e8/ba/6e/06e8ba6e-2228-46b0-acd8-5d897301abba.webp"
+  },
+  {
+    "id": 54,
+    "xp": 2948945,
+    "level": 120,
+    "color": 16,
+    "slots": {
+      "2": 0
+    },
+    "skills": {
+      "320": 120,
+      "321": 120,
+      "322": 120,
+      "323": 120,
+      "476": 120
+    },
+    "power": 165988,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      65,
+      60,
+      64,
+      60,
+      60
+    ],
+    "skins": {
+      "242": 60,
+      "251": 1,
+      "275": 60,
+      "295": 60,
+      "322": 13,
+      "387": 60,
+      "492": 1
+    },
+    "currentSkin": 295,
+    "titanGiftLevel": 30,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 65150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "book"
+      },
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 242,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 20,
+    "upgradedSkills": [
+      321,
+      323
+    ],
+    "talisman": {
+      "id": 110,
+      "level": 50,
+      "traitIds": [
+        7,
+        91,
+        52,
+        130
+      ]
+    },
+    "name": "Айрис",
+    "nameEn": "Iris",
+    "img": "https://static-platform.aghanim.com/hub/a2/4e/50/a0/a24e50a0-8c16-44ca-9cf0-0728cf3bbcc7.webp"
+  },
+  {
+    "id": 55,
+    "xp": 2948945,
+    "level": 120,
+    "color": 13,
+    "slots": [],
+    "skills": {
+      "325": 120,
+      "326": 120,
+      "327": 120,
+      "328": 120
+    },
+    "power": 60420,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      40,
+      40
+    ],
+    "skins": {
+      "255": 4,
+      "257": 1,
+      "292": 1,
+      "332": 1,
+      "355": 1,
+      "451": 1
+    },
+    "currentSkin": 292,
+    "titanGiftLevel": 21,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 29350
+      }
+    },
+    "artifacts": [
+      {
+        "level": 2,
+        "star": 3,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 2,
+        "star": 2,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 255,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "talisman": {
+      "id": 60,
+      "level": 12,
+      "traitIds": [
+        3,
+        124
+      ]
+    },
+    "name": "Муши и Шрум",
+    "nameEn": "Mushy and Shroom",
+    "img": "https://static-platform.aghanim.com/hub/b6/5b/a3/a2/b65ba3a2-7d01-4dbd-b9c7-e30bcc32c241.webp"
+  },
+  {
+    "id": 56,
+    "xp": 2948945,
+    "level": 120,
+    "color": 16,
+    "slots": [],
+    "skills": {
+      "330": 120,
+      "331": 120,
+      "332": 120,
+      "333": 120
+    },
+    "power": 122913,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "skins": {
+      "256": 60,
+      "270": 1,
+      "291": 2,
+      "308": 1,
+      "340": 60,
+      "373": 1,
+      "428": 60
+    },
+    "currentSkin": 428,
+    "titanGiftLevel": 30,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 65150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 25,
+        "star": 1,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "book"
+      },
+      {
+        "level": 100,
+        "star": 4,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 256,
+    "skinsInfo": {
+      "428": {
+        "rank": 1,
+        "skinColorsIds": []
+      }
+    },
+    "currentSkinRank": 1,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "talisman": {
+      "id": 135,
+      "level": 50,
+      "traitIds": [
+        5,
+        184,
+        174,
+        177
+      ]
+    },
+    "name": "Юлиус",
+    "nameEn": "Julius",
+    "img": "https://static-platform.aghanim.com/hub/75/a3/ba/ec/75a3baec-09ef-40b6-b2bf-95ca04178821.webp"
+  },
+  {
+    "id": 57,
+    "xp": 2948945,
+    "level": 120,
+    "color": 16,
+    "slots": [],
+    "skills": {
+      "335": 120,
+      "336": 120,
+      "337": 120,
+      "338": 120,
+      "480": 120
+    },
+    "power": 128615,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      45,
+      40,
+      40,
+      45,
+      45
+    ],
+    "skins": {
+      "281": 60,
+      "286": 60,
+      "334": 1,
+      "356": 60,
+      "384": 1,
+      "462": 1
+    },
+    "currentSkin": 356,
+    "titanGiftLevel": 30,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 65150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 100,
+        "star": 3,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "book"
+      },
+      {
+        "level": 100,
+        "star": 4,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 281,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 1,
+    "upgradedSkills": [],
+    "talisman": {
+      "id": 111,
+      "level": 50,
+      "traitIds": [
+        12,
+        62,
+        140,
+        23
+      ]
+    },
+    "name": "Кейла",
+    "nameEn": "Kayla",
+    "img": "https://static-platform.aghanim.com/hub/c0/46/3a/b2/c0463ab2-9ca3-41e6-9a73-ec00a6a9d46c.webp"
+  },
+  {
+    "id": 58,
+    "xp": 2948945,
+    "level": 120,
+    "color": 16,
+    "slots": [],
+    "skills": {
+      "340": 120,
+      "341": 120,
+      "342": 120,
+      "343": 120
+    },
+    "power": 118160,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": {
+      "0": 40,
+      "3": 40,
+      "4": 40
+    },
+    "skins": {
+      "282": 10,
+      "287": 51,
+      "335": 40,
+      "354": 21,
+      "385": 1,
+      "463": 60
+    },
+    "currentSkin": 463,
+    "titanGiftLevel": 30,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 65150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 92,
+        "star": 3,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "book"
+      },
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 282,
+    "skinsInfo": {
+      "463": {
+        "rank": 1,
+        "skinColorsIds": []
+      }
+    },
+    "currentSkinRank": 1,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "talisman": {
+      "id": 64,
+      "level": 50,
+      "traitIds": [
+        3,
+        58,
+        149,
+        19
+      ]
+    },
+    "name": "Эйден",
+    "nameEn": "Aidan",
+    "img": "https://static-platform.aghanim.com/hub/54/4a/58/13/544a5813-e93f-4deb-aea0-4fc7b365ba23.webp"
+  },
+  {
+    "id": 59,
+    "xp": 2948945,
+    "level": 120,
+    "color": 8,
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "345": 89,
+      "346": 120,
+      "347": 120,
+      "348": 120,
+      "498": 120
+    },
+    "power": 45534,
+    "star": 4,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": {
+      "412": 1,
+      "465": 1
+    },
+    "currentSkin": 465,
+    "titanGiftLevel": 4,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 1060
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 284,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 2,
+    "upgradedSkills": [],
+    "name": "Каскад",
+    "nameEn": "Cascade",
+    "img": "https://static-platform.aghanim.com/hub/fc/b4/9d/c4/fcb49dc4-2c7b-47f5-ae8c-6393f43761b9.webp"
+  },
+  {
+    "id": 60,
+    "xp": 2948945,
+    "level": 120,
+    "color": 16,
+    "slots": {
+      "2": 0
+    },
+    "skills": {
+      "350": 120,
+      "351": 120,
+      "352": 120,
+      "353": 120
+    },
+    "power": 141243,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "skins": {
+      "298": 60,
+      "303": 60,
+      "312": 51,
+      "333": 60,
+      "360": 7,
+      "395": 1,
+      "446": 60
+    },
+    "currentSkin": 333,
+    "titanGiftLevel": 30,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 65150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "book"
+      },
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 303,
+    "skinsInfo": {
+      "333": {
+        "rank": 1,
+        "skinColorsIds": []
+      }
+    },
+    "currentSkinRank": 1,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "talisman": {
+      "id": 116,
+      "level": 50,
+      "traitIds": [
+        173,
+        70,
+        18,
+        148
+      ]
+    },
+    "name": "Октавия",
+    "nameEn": "Octavia",
+    "img": "https://static-platform.aghanim.com/hub/84/7e/76/c1/847e76c1-d4ed-47fa-bf6e-ec71d38db28e.webp"
+  },
+  {
+    "id": 61,
+    "xp": 2948945,
+    "level": 120,
+    "color": 16,
+    "slots": [],
+    "skills": {
+      "355": 120,
+      "356": 120,
+      "357": 120,
+      "358": 120,
+      "484": 120
+    },
+    "power": 145175,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "skins": {
+      "304": 40,
+      "328": 60,
+      "336": 60,
+      "363": 2,
+      "431": 60,
+      "438": 48,
+      "449": 35
+    },
+    "currentSkin": 336,
+    "titanGiftLevel": 30,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 65150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "book"
+      },
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 304,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 10,
+    "upgradedSkills": [
+      355
+    ],
+    "talisman": {
+      "id": 61,
+      "level": 50,
+      "traitIds": [
+        2,
+        114,
+        49,
+        36
+      ]
+    },
+    "name": "Ойя",
+    "nameEn": "Oya",
+    "img": "https://static-platform.aghanim.com/hub/a7/82/5b/af/a7825baf-ceae-438f-81d5-596d54164dca.webp"
+  },
+  {
+    "id": 62,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "skills": {
+      "360": 120,
+      "361": 120,
+      "362": 120,
+      "363": 120
+    },
+    "power": 41820,
+    "star": 5,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": {
+      "388": 2
+    },
+    "currentSkin": 388,
+    "titanGiftLevel": 5,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 1350
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 311,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Солей",
+    "nameEn": "Soleil",
+    "img": "https://static-platform.aghanim.com/hub/9d/a5/01/f1/9da501f1-a9fe-4840-8917-a69a3310c263.webp"
+  },
+  {
+    "id": 63,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "365": 120,
+      "366": 120,
+      "367": 120,
+      "368": 120
+    },
+    "power": 42027,
+    "star": 5,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": {
+      "319": 1,
+      "320": 1
+    },
+    "currentSkin": 320,
+    "titanGiftLevel": 1,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 250
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 318,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Лара Крофт",
+    "nameEn": "Lara Croft"
+  },
+  {
+    "id": 64,
+    "xp": 2948945,
+    "level": 120,
+    "color": 16,
+    "slots": [],
+    "skills": {
+      "370": 120,
+      "371": 120,
+      "372": 120,
+      "373": 120,
+      "465": 120
+    },
+    "power": 124135,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      40,
+      39,
+      5,
+      40,
+      40
+    ],
+    "skins": {
+      "325": 60,
+      "361": 60,
+      "386": 2,
+      "405": 60,
+      "416": 40,
+      "455": 1
+    },
+    "currentSkin": 455,
+    "titanGiftLevel": 30,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 65150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 100,
+        "star": 4,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "book"
+      },
+      {
+        "level": 100,
+        "star": 3,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 325,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 2,
+    "upgradedSkills": [],
+    "talisman": {
+      "id": 77,
+      "level": 50,
+      "traitIds": [
+        3,
+        71,
+        58,
+        84
+      ]
+    },
+    "name": "Фолиант",
+    "nameEn": "Folio",
+    "img": "https://static-platform.aghanim.com/hub/77/ec/13/73/77ec1373-fbfb-4c7f-979e-fa7767bf7a75.webp"
+  },
+  {
+    "id": 65,
+    "xp": 2948945,
+    "level": 120,
+    "color": 16,
+    "slots": [],
+    "skills": {
+      "375": 120,
+      "376": 120,
+      "377": 120,
+      "378": 120,
+      "490": 120
+    },
+    "power": 113881,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "skins": {
+      "329": 12,
+      "352": 30,
+      "366": 12,
+      "396": 2,
+      "424": 25,
+      "457": 1
+    },
+    "currentSkin": 352,
+    "titanGiftLevel": 30,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 65150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 100,
+        "star": 3,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "book"
+      },
+      {
+        "level": 100,
+        "star": 4,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 329,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 2,
+    "upgradedSkills": [],
+    "talisman": {
+      "id": 141,
+      "level": 50,
+      "traitIds": [
+        173,
+        82,
+        17,
+        134
+      ]
+    },
+    "name": "Темпус",
+    "nameEn": "Tempus",
+    "img": "https://static-platform.aghanim.com/hub/f5/08/92/d4/f50892d4-dca8-4855-99e3-1c6767acfaff.webp"
+  },
+  {
+    "id": 67,
+    "xp": 2948945,
+    "level": 120,
+    "color": 15,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "3": 0
+    },
+    "skills": {
+      "390": 120,
+      "391": 120,
+      "392": 120,
+      "393": 120
+    },
+    "power": 91129,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": {
+      "0": 34,
+      "4": 1
+    },
+    "skins": {
+      "378": 2,
+      "382": 1,
+      "411": 2,
+      "423": 1
+    },
+    "currentSkin": 423,
+    "titanGiftLevel": 30,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 65150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 100,
+        "star": 4,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 100,
+        "star": 3,
+        "artifactType": "book"
+      },
+      {
+        "level": 70,
+        "star": 1,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 378,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "talisman": {
+      "id": 147,
+      "level": 50,
+      "traitIds": [
+        3,
+        213,
+        209,
+        205
+      ]
+    },
+    "name": "Полярис",
+    "nameEn": "Polaris",
+    "img": "https://static-platform.aghanim.com/hub/6c/59/46/9b/6c59469b-d87a-4327-ad54-96f4d049444c.webp"
+  },
+  {
+    "id": 68,
+    "xp": 2948945,
+    "level": 120,
+    "color": 9,
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "380": 120,
+      "381": 120,
+      "382": 120,
+      "383": 120,
+      "500": 120
+    },
+    "power": 54578,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": {
+      "374": 1,
+      "391": 1,
+      "421": 1,
+      "473": 1
+    },
+    "currentSkin": 391,
+    "titanGiftLevel": 5,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 1350
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 1,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 348,
+    "skinsInfo": {
+      "391": {
+        "rank": 1,
+        "skinColorsIds": []
+      }
+    },
+    "currentSkinRank": 0,
+    "patronLevel": 2,
+    "upgradedSkills": [],
+    "name": "Пич",
+    "nameEn": "Peech",
+    "img": "https://static-platform.aghanim.com/hub/15/05/bc/43/1505bc43-67ca-4cfe-b6a6-419565437a16.webp"
+  },
+  {
+    "id": 69,
+    "xp": 2948945,
+    "level": 120,
+    "color": 9,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "3": 0
+    },
+    "skills": {
+      "395": 120,
+      "396": 120,
+      "397": 120,
+      "398": 120
+    },
+    "power": 45023,
+    "star": 5,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      2
+    ],
+    "skins": {
+      "398": 1,
+      "400": 1,
+      "413": 1,
+      "471": 1
+    },
+    "currentSkin": 398,
+    "titanGiftLevel": 5,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 1350
+      }
+    },
+    "artifacts": [
+      {
+        "level": 22,
+        "star": 5,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 19,
+        "star": 1,
+        "artifactType": "book"
+      },
+      {
+        "level": 22,
+        "star": 1,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 394,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Гас",
+    "nameEn": "Guus",
+    "img": "https://static-platform.aghanim.com/hub/81/ba/3e/17/81ba3e17-5d1f-4046-b351-d792c3138871.webp"
+  },
+  {
+    "id": 70,
+    "xp": 2948945,
+    "level": 120,
+    "color": 16,
+    "slots": [],
+    "skills": {
+      "400": 120,
+      "401": 120,
+      "402": 120,
+      "403": 120,
+      "415": 120
+    },
+    "power": 98399,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "skins": {
+      "409": 6,
+      "417": 1,
+      "433": 10,
+      "454": 1,
+      "466": 1
+    },
+    "currentSkin": 466,
+    "titanGiftLevel": 30,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 65150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 100,
+        "star": 4,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 100,
+        "star": 4,
+        "artifactType": "book"
+      },
+      {
+        "level": 100,
+        "star": 4,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 433,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 7,
+    "upgradedSkills": [],
+    "name": "Сомна",
+    "nameEn": "Somna",
+    "img": "https://static-platform.aghanim.com/hub/e5/9e/00/0e/e59e000e-cc66-48ac-93bf-ea9a86534995.webp"
+  },
+  {
+    "id": 71,
+    "xp": 2948945,
+    "level": 120,
+    "color": 16,
+    "slots": {
+      "2": 0
+    },
+    "skills": {
+      "405": 120,
+      "406": 120,
+      "407": 120,
+      "408": 120,
+      "419": 120
+    },
+    "power": 137057,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "skins": {
+      "418": 60,
+      "427": 60,
+      "434": 60,
+      "448": 33,
+      "458": 1
+    },
+    "currentSkin": 448,
+    "titanGiftLevel": 30,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 65150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 100,
+        "star": 4,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "book"
+      },
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 434,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 10,
+    "upgradedSkills": [
+      405
+    ],
+    "talisman": {
+      "id": 143,
+      "level": 50,
+      "traitIds": [
+        2,
+        184,
+        179,
+        174
+      ]
+    },
+    "name": "Электра",
+    "nameEn": "Electra von Grave",
+    "img": "https://static-platform.aghanim.com/hub/d2/3b/3c/70/d23b3c70-2a44-4142-a30d-84431839653a.webp"
+  },
+  {
+    "id": 72,
+    "xp": 2948945,
+    "level": 120,
+    "color": 16,
+    "slots": [],
+    "skills": {
+      "410": 120,
+      "411": 120,
+      "412": 120,
+      "413": 120,
+      "421": 120
+    },
+    "power": 153848,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      55,
+      50,
+      50,
+      55,
+      52
+    ],
+    "skins": {
+      "425": 60,
+      "429": 60,
+      "435": 60,
+      "450": 60
+    },
+    "currentSkin": 425,
+    "titanGiftLevel": 30,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 65150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 100,
+        "star": 6,
+        "artifactType": "book"
+      },
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 435,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 16,
+    "upgradedSkills": [
+      412
+    ],
+    "talisman": {
+      "id": 151,
+      "level": 50,
+      "traitIds": [
+        7,
+        196,
+        191,
+        194
+      ]
+    },
+    "name": "Бирна",
+    "nameEn": "Byrna",
+    "img": "https://static-platform.aghanim.com/hub/76/4a/fb/3d/764afb3d-5b4d-4f7b-bdcc-07d4ce7b7c95.webp"
+  },
+  {
+    "id": 73,
+    "xp": 62700,
+    "level": 50,
+    "color": 7,
+    "slots": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "424": 1,
+      "425": 1,
+      "426": 21,
+      "427": 41
+    },
+    "power": 23179,
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": {
+      "445": 1,
+      "459": 1,
+      "490": 1,
+      "491": 1
+    },
+    "currentSkin": 459,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": null,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 439,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Дрейн",
+    "nameEn": "Drayne",
+    "img": "https://static-platform.aghanim.com/hub/b0/13/db/b1/b013dbb1-6fec-4612-825d-36a3bb490d5e.webp"
+  },
+  {
+    "id": 74,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "431": 120,
+      "432": 120,
+      "433": 120,
+      "434": 120,
+      "435": 120
+    },
+    "power": 48993,
+    "star": 5,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      1
+    ],
+    "skins": {
+      "453": 1,
+      "468": 1
+    },
+    "currentSkin": 468,
+    "titanGiftLevel": 5,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 1350
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 2,
+        "star": 1,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 440,
+    "skinsInfo": {
+      "468": {
+        "rank": 1,
+        "skinColorsIds": []
+      }
+    },
+    "currentSkinRank": 1,
+    "patronLevel": 1,
+    "upgradedSkills": [],
+    "name": "Миу",
+    "nameEn": "Miu",
+    "img": "https://static-platform.aghanim.com/hub/02/bb/8e/82/02bb8e82-579b-4753-8af1-6e842c6a4475.webp"
+  },
+  {
+    "id": 75,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "438": 120,
+      "439": 120,
+      "440": 120,
+      "441": 120,
+      "442": 120
+    },
+    "power": 53248,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": {
+      "461": 1,
+      "493": 1
+    },
+    "currentSkin": 493,
+    "titanGiftLevel": 5,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 1350
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 441,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 5,
+    "upgradedSkills": [],
+    "name": "Кендел",
+    "nameEn": "Kendle"
+  },
+  {
+    "id": 76,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "445": 1,
+      "446": 1,
+      "447": 21,
+      "448": 55,
+      "449": 120
+    },
+    "power": 43450,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": {
+      "469": 1
+    },
+    "currentSkin": 469,
+    "titanGiftLevel": 2,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 510
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 1,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 1,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 1,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 442,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 1,
+    "upgradedSkills": [],
+    "name": "Кроу",
+    "nameEn": "Crow"
+  },
+  {
+    "id": 77,
+    "xp": 2948945,
+    "level": 120,
+    "color": 16,
+    "slots": [],
+    "skills": {
+      "452": 120,
+      "453": 120,
+      "454": 120,
+      "455": 120,
+      "456": 120
+    },
+    "power": 92397,
+    "star": 5,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "skins": {
+      "443": 39,
+      "477": 2
+    },
+    "currentSkin": 477,
+    "titanGiftLevel": 30,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 65150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 100,
+        "star": 3,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 100,
+        "star": 3,
+        "artifactType": "book"
+      },
+      {
+        "level": 100,
+        "star": 3,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 443,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 3,
+    "upgradedSkills": [],
+    "name": "Єва",
+    "nameEn": "Eva"
+  },
+  {
+    "id": 79,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "4": 0
+    },
+    "skills": {
+      "472": 120,
+      "473": 120,
+      "474": 120,
+      "475": 120
+    },
+    "power": 49233,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      1
+    ],
+    "skins": {
+      "489": 60
+    },
+    "currentSkin": 489,
+    "titanGiftLevel": 10,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 5750
+      }
+    },
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 5,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 2,
+        "star": 5,
+        "artifactType": "book"
+      },
+      {
+        "level": 2,
+        "star": 1,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 489,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "talisman": {
+      "id": 163,
+      "level": 1,
+      "traitIds": [
+        1
+      ]
+    },
+    "name": "Леонель",
+    "nameEn": "Leonel"
+  },
+  {
+    "id": 500,
+    "xp": 2948945,
+    "level": 120,
+    "color": 16,
+    "slots": [],
+    "skills": {
+      "10043": 120,
+      "10044": 120,
+      "11000": 120,
+      "11001": 120
+    },
+    "power": 113522,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "skins": {
+      "267": 32,
+      "294": 1,
+      "393": 1,
+      "1000": 11,
+      "1001": 1,
+      "1004": 1
+    },
+    "currentSkin": 393,
+    "titanGiftLevel": 30,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 65150
+      }
+    },
+    "artifacts": [
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "book"
+      },
+      {
+        "level": 100,
+        "star": 5,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 1000,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "talisman": {
+      "id": 92,
+      "level": 50,
+      "traitIds": [
+        5,
+        88,
+        88,
+        49
+      ]
+    },
+    "name": "Себастьян",
+    "nameEn": "Sebastian",
+    "img": "https://static-platform.aghanim.com/hub/56/7c/f0/29/567cf029-98ae-4dd4-a80e-a556d1c0d7bb.webp"
+  },
+  {
+    "id": 501,
+    "xp": 2948945,
+    "level": 120,
+    "color": 8,
+    "slots": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "skills": {
+      "10222": 120,
+      "11007": 120,
+      "11009": 120,
+      "11010": 120
+    },
+    "power": 47589,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": {
+      "1": 29,
+      "2": 20
+    },
+    "skins": {
+      "221": 2,
+      "301": 1
+    },
+    "currentSkin": 301,
+    "titanGiftLevel": 5,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 1350
+      }
+    },
+    "artifacts": [
+      {
+        "level": 14,
+        "star": 3,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 24,
+        "star": 3,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 1002,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Корвус",
+    "nameEn": "Corvus",
+    "img": "https://static-platform.aghanim.com/hub/de/59/00/88/de590088-d165-4996-9bba-dcbfd35e49e8.webp"
+  },
+  {
+    "id": 502,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "skills": {
+      "10226": 120,
+      "10227": 120,
+      "10229": 120,
+      "11014": 120
+    },
+    "power": 45511,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      4
+    ],
+    "skins": {
+      "371": 1,
+      "460": 1,
+      "1003": 3
+    },
+    "currentSkin": 460,
+    "titanGiftLevel": 5,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 1350
+      }
+    },
+    "artifacts": [
+      {
+        "level": 4,
+        "star": 1,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 1003,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Морриган",
+    "nameEn": "Morrigan",
+    "img": "https://static-platform.aghanim.com/hub/9b/fb/30/f3/9bfb30f3-df1e-4b99-9180-c29607f932c1.webp"
+  },
+  {
+    "id": 503,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0
+    },
+    "skills": {
+      "11016": 120,
+      "11017": 120,
+      "11018": 120,
+      "11019": 120
+    },
+    "power": 44698,
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [
+      11,
+      2
+    ],
+    "skins": {
+      "1007": 1
+    },
+    "currentSkin": 1007,
+    "titanGiftLevel": 5,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 1350
+      }
+    },
+    "artifacts": [
+      {
+        "level": 7,
+        "star": 2,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 2,
+        "star": 1,
+        "artifactType": "book"
+      },
+      {
+        "level": 1,
+        "star": 0,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 1007,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 0,
+    "upgradedSkills": [],
+    "name": "Альванор",
+    "nameEn": "Alvanor",
+    "img": "https://static-platform.aghanim.com/hub/3b/e1/e2/ce/3be1e2ce-c073-4884-bfe6-335526769867.webp"
+  },
+  {
+    "id": 504,
+    "xp": 2948945,
+    "level": 120,
+    "color": 7,
+    "slots": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0
+    },
+    "skills": {
+      "504": 120,
+      "11052": 1,
+      "11053": 1,
+      "11054": 21,
+      "11055": 41
+    },
+    "power": 40442,
+    "star": 5,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "hero_runes": [],
+    "skins": {
+      "470": 1
+    },
+    "currentSkin": 470,
+    "titanGiftLevel": 5,
+    "titanCoinsSpent": {
+      "consumable": {
+        "24": 1350
+      }
+    },
+    "artifacts": [
+      {
+        "level": 2,
+        "star": 2,
+        "artifactType": "weapon"
+      },
+      {
+        "level": 6,
+        "star": 1,
+        "artifactType": "book"
+      },
+      {
+        "level": 2,
+        "star": 1,
+        "artifactType": "ring"
+      }
+    ],
+    "baseSkinId": 1008,
+    "skinsInfo": [],
+    "currentSkinRank": 0,
+    "patronLevel": 2,
+    "upgradedSkills": [],
+    "talisman": {
+      "id": 105,
+      "level": 1,
+      "traitIds": [
+        7
+      ]
+    },
+    "name": "Тристан",
+    "nameEn": "Tristan",
+    "img": "https://static-platform.aghanim.com/hub/70/64/99/31/70649931-24a6-49df-a92f-ccd858180816.webp"
+  }
+]
