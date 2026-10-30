@@ -1,0 +1,4477 @@
+{
+  "source": "https://omg.rocks/herowars-mobile-best-hero-counters",
+  "section": "Best Hero Counters Quick List",
+  "fetchedAt": "2026-10-30",
+  "heroes": [
+    {
+      "hero": "Aidan",
+      "heroId": 58,
+      "counters": [
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Cleaver",
+            "id": 24
+          }
+        ],
+        [
+          {
+            "name": "Cornelius",
+            "id": 30
+          }
+        ],
+        [
+          {
+            "name": "Corvus",
+            "id": 501
+          }
+        ],
+        [
+          {
+            "name": "Drayne",
+            "id": 73
+          }
+        ],
+        [
+          {
+            "name": "Folio",
+            "id": 64
+          }
+        ],
+        [
+          {
+            "name": "Heidi",
+            "id": 9
+          }
+        ],
+        [
+          {
+            "name": "Jhu",
+            "id": 37
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Leonel",
+            "id": 79
+          }
+        ],
+        [
+          {
+            "name": "Morrigan",
+            "id": 502
+          }
+        ],
+        [
+          {
+            "name": "Ninja Turtles",
+            "id": null
+          }
+        ],
+        [
+          {
+            "name": "Phobos",
+            "id": 6
+          }
+        ],
+        [
+          {
+            "name": "Polaris",
+            "id": 67
+          }
+        ]
+      ],
+      "raw": "Celeste, Cleaver, Cornelius, Corvus, Drayne, Folio, Heidi, Jhu, Jorgen, Leonel, Morrigan, Ninja Turtles, Phobos, Polaris",
+      "howToCounter": {
+        "title": "How to counter Aidan",
+        "sectionId": "aidan",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-aidan",
+        "entries": [
+          {
+            "label": "Morrigan",
+            "labelId": 502,
+            "text": "blocks Aidan's ability to resurrect Kayla. In addition, Morrigan receives soul essence every time Aidan tries to do a resurrection.",
+            "mentionedIds": [
+              502,
+              57
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Alvanor",
+      "heroId": 503,
+      "counters": [
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Cornelius",
+            "id": 30
+          }
+        ],
+        [
+          {
+            "name": "Corvus",
+            "id": 501
+          }
+        ],
+        [
+          {
+            "name": "Folio",
+            "id": 64
+          }
+        ],
+        [
+          {
+            "name": "Iris",
+            "id": 54
+          }
+        ],
+        [
+          {
+            "name": "Phobos",
+            "id": 6
+          }
+        ],
+        [
+          {
+            "name": "Rufus",
+            "id": 42
+          }
+        ],
+        [
+          {
+            "name": "Tempus",
+            "id": 65
+          }
+        ],
+        [
+          {
+            "name": "Xesha",
+            "id": 51
+          },
+          {
+            "name": "Lilith",
+            "id": 26
+          }
+        ]
+      ],
+      "raw": "Celeste, Cornelius, Corvus, Folio, Iris, Phobos, Rufus, Tempus, Xesha + Lilith",
+      "howToCounter": null
+    },
+    {
+      "hero": "Amira",
+      "heroId": 52,
+      "counters": [
+        [
+          {
+            "name": "Cornelius",
+            "id": 30
+          }
+        ],
+        [
+          {
+            "name": "Drayne",
+            "id": 73
+          }
+        ],
+        [
+          {
+            "name": "Isaac",
+            "id": 50
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Kendle",
+            "id": 75
+          }
+        ],
+        [
+          {
+            "name": "Lilith",
+            "id": 26
+          }
+        ],
+        [
+          {
+            "name": "Phobos",
+            "id": 6
+          }
+        ],
+        [
+          {
+            "name": "Rufus",
+            "id": 42
+          }
+        ],
+        [
+          {
+            "name": "Sebastian",
+            "id": 500
+          }
+        ],
+        [
+          {
+            "name": "Xe'Sha",
+            "id": 51
+          }
+        ]
+      ],
+      "raw": "Cornelius, Drayne, Isaac, Jorgen, Kendle, Lilith, Phobos, Rufus, Sebastian, Xe'Sha",
+      "howToCounter": {
+        "title": "How to counter Amira?",
+        "sectionId": "amira",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-amira",
+        "entries": [
+          {
+            "label": "Cornelius",
+            "labelId": 30,
+            "text": "targets high-intelligence heroes just like Amira. He can eliminate her with one hit only.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Sebastian",
+            "labelId": 500,
+            "text": "he can add pure damage to heroes with critical hit stat. Even if Amira is blocking the critical hits, the pure damage can quickly kill her. Keira or Dare Devil are good combos for maximum damage output.",
+            "mentionedIds": [
+              3
+            ]
+          },
+          {
+            "label": "Lilith",
+            "labelId": 26,
+            "text": "her maximum health stat is higher than the one targeted, so Amira can only deplete 5% instead of 50% of her maximum energy.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Xe'Sha",
+            "labelId": 51,
+            "text": "Amira blocks magical damage for her allies lower than 45.299, but Xe'Sha has a higher stat. She bypasses this limitation.",
+            "mentionedIds": [
+              51
+            ]
+          },
+          {
+            "label": "Phobos",
+            "labelId": 6,
+            "text": "his damage is blocked by Amira, but he can still use his energy-stealing skills to prevent Amira from activating her ultimate or slow her down significantly.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Way of Eternity",
+            "labelId": null,
+            "text": "Corvus, Morrigan, and Faceless - their magic defense perfectly counter Amira's damage.",
+            "mentionedIds": [
+              10,
+              502,
+              501
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Andvari",
+      "heroId": 47,
+      "counters": [
+        [
+          {
+            "name": "Heidi",
+            "id": 9
+          }
+        ],
+        [
+          {
+            "name": "Satori",
+            "id": 45
+          }
+        ],
+        [
+          {
+            "name": "Sebastian",
+            "id": 500
+          }
+        ],
+        [
+          {
+            "name": "Soleil",
+            "id": 62
+          }
+        ]
+      ],
+      "raw": "Heidi, Satori, Sebastian, Soleil",
+      "howToCounter": null
+    },
+    {
+      "hero": "Arachne",
+      "heroId": 12,
+      "counters": [
+        [
+          {
+            "name": "Andvari",
+            "id": 47
+          }
+        ],
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Folio",
+            "id": 64
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Nebula",
+            "id": 40
+          }
+        ],
+        [
+          {
+            "name": "Sebastian",
+            "id": 500
+          }
+        ],
+        [
+          {
+            "name": "Soleil",
+            "id": 62
+          }
+        ]
+      ],
+      "raw": "Andvari, Celeste, Folio, Jorgen, Nebula, Sebastian, Soleil",
+      "howToCounter": {
+        "title": "How to counter Arachne?",
+        "sectionId": "arachne",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-arachne",
+        "entries": [
+          {
+            "label": "Sebastian",
+            "labelId": 500,
+            "text": "can activate a shield against stun and block Arachne's ability to stun.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Nebula",
+            "labelId": 40,
+            "text": "can remove Arachne's negative effects with Serenity skill.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Celeste",
+            "labelId": 43,
+            "text": "can block Arachne's healing and remove negative effects.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Artemis",
+      "heroId": 20,
+      "counters": [
+        [
+          {
+            "name": "Amira",
+            "id": 52
+          }
+        ],
+        [
+          {
+            "name": "Andvari",
+            "id": 47
+          }
+        ],
+        [
+          {
+            "name": "Arachne",
+            "id": 12
+          }
+        ],
+        [
+          {
+            "name": "Astrid and Lucas",
+            "id": 44
+          }
+        ],
+        [
+          {
+            "name": "Helios",
+            "id": 32
+          }
+        ],
+        [
+          {
+            "name": "Isaac",
+            "id": 50
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Julius",
+            "id": 56
+          }
+        ],
+        [
+          {
+            "name": "Peech",
+            "id": 68
+          }
+        ],
+        [
+          {
+            "name": "Phobos",
+            "id": 6
+          }
+        ],
+        [
+          {
+            "name": "Somna",
+            "id": 70
+          }
+        ],
+        [
+          {
+            "name": "Ziri",
+            "id": 39
+          }
+        ]
+      ],
+      "raw": "Amira, Andvari, Arachne, Astrid and Lucas, Helios, Isaac, Jorgen, Julius, Peech, Phobos, Somna, Ziri",
+      "howToCounter": {
+        "title": "How to counter Artemis?",
+        "sectionId": "artemis",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-artemis",
+        "entries": [
+          {
+            "label": "Ziri",
+            "labelId": 39,
+            "text": "can make the enemy team attack her first and reflect all of the physical damage performed.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Helios",
+            "labelId": 32,
+            "text": "can absorb any physical damage with his protecting spheres. He can also deal damage every time a team mate gets a critical hit damage.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Jorgen",
+            "labelId": 35,
+            "text": "can stop the team from gaining energy and is super helpful with Cleaver, which can bring Fafnir to the front so Jorgen can also target him.",
+            "mentionedIds": [
+              24,
+              35,
+              53
+            ]
+          },
+          {
+            "label": "Phobos",
+            "labelId": 6,
+            "text": "hits the enemy with the highest magic attack and transfers all gained energy. This can be a great blocker to Artemis.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Arachne",
+            "labelId": 12,
+            "text": "targets the lowest-health enemy, which is usually Artemis in her meta teams.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Astaroth",
+      "heroId": 4,
+      "counters": [
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Drayne",
+            "id": 73
+          }
+        ],
+        [
+          {
+            "name": "Kendle",
+            "id": 75
+          }
+        ],
+        [
+          {
+            "name": "Morrigan",
+            "id": 502
+          }
+        ],
+        [
+          {
+            "name": "Oya",
+            "id": 61
+          }
+        ]
+      ],
+      "raw": "Celeste, Drayne, Kendle, Morrigan, Oya",
+      "howToCounter": {
+        "title": "How to counter Astaroth?",
+        "sectionId": "astaroth",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-astaroth",
+        "entries": [
+          {
+            "label": "Morrigan",
+            "labelId": 502,
+            "text": "she prevents Astaroth from resurrection and summons a skeleton from his body.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Astrid and Lucas",
+      "heroId": 44,
+      "counters": [
+        [
+          {
+            "name": "Aurora",
+            "id": 1
+          }
+        ],
+        [
+          {
+            "name": "Chabba",
+            "id": 11
+          }
+        ],
+        [
+          {
+            "name": "Cleaver",
+            "id": 24
+          }
+        ],
+        [
+          {
+            "name": "Dante",
+            "id": 16
+          }
+        ],
+        [
+          {
+            "name": "Dark Star",
+            "id": 19
+          }
+        ],
+        [
+          {
+            "name": "Iris",
+            "id": 54
+          }
+        ],
+        [
+          {
+            "name": "Ishmael",
+            "id": 25
+          }
+        ],
+        [
+          {
+            "name": "K'arkh",
+            "id": 41
+          }
+        ],
+        [
+          {
+            "name": "Keira",
+            "id": 3
+          }
+        ],
+        [
+          {
+            "name": "Orion",
+            "id": 13
+          }
+        ],
+        [
+          {
+            "name": "Peech",
+            "id": 68
+          }
+        ],
+        [
+          {
+            "name": "Somna",
+            "id": 70
+          }
+        ]
+      ],
+      "raw": "Aurora, Chabba, Cleaver, Dante, Dark Star, Iris, Ishmael, K'arkh, Keira, Orion, Peech, Somna",
+      "howToCounter": {
+        "title": "How to counter Astrid and Lucas?",
+        "sectionId": "astrid-lucas",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-astrid-lucas",
+        "entries": [
+          {
+            "label": "Iris",
+            "labelId": 54,
+            "text": "can destroy Astrid and Lucas with one hit with her Inner Fire skill. It will damage Astrid and Lucas hard due to the Tracker's Marks applied to enemy heroes.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Aurora",
+      "heroId": 1,
+      "counters": [
+        [
+          {
+            "name": "Chabba",
+            "id": 11
+          }
+        ],
+        [
+          {
+            "name": "Corvus",
+            "id": 501
+          }
+        ],
+        [
+          {
+            "name": "Faceless",
+            "id": 10
+          }
+        ],
+        [
+          {
+            "name": "Miu",
+            "id": 74
+          }
+        ],
+        [
+          {
+            "name": "Rufus",
+            "id": 42
+          }
+        ],
+        [
+          {
+            "name": "Tempus",
+            "id": 65
+          }
+        ]
+      ],
+      "raw": "Chabba, Corvus, Faceless, Miu, Rufus, Tempus",
+      "howToCounter": {
+        "title": "How to counter Aurora?",
+        "sectionId": "aurora",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-aurora",
+        "entries": [
+          {
+            "label": "Chabba",
+            "labelId": 11,
+            "text": "can swallow Aurora and delay her from dodging for the team and doing magic damage with her shield to the front line.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Corvus",
+            "labelId": 501,
+            "text": "can use his altar to destroy Aurora due to her exploding shield and AoE damage abilities.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Byrna",
+      "heroId": 72,
+      "counters": [
+        [
+          {
+            "name": "Cornelius",
+            "id": 30
+          }
+        ],
+        [
+          {
+            "name": "Drayne",
+            "id": 73
+          }
+        ],
+        [
+          {
+            "name": "Lian",
+            "id": 23
+          }
+        ],
+        [
+          {
+            "name": "Satori",
+            "id": 45
+          }
+        ],
+        [
+          {
+            "name": "Somna",
+            "id": 70
+          }
+        ],
+        [
+          {
+            "name": "Thea",
+            "id": 7
+          }
+        ],
+        [
+          {
+            "name": "Yasmine",
+            "id": 49
+          }
+        ]
+      ],
+      "raw": "Cornelius, Drayne, Lian, Satori, Somna, Thea, Yasmine",
+      "howToCounter": null
+    },
+    {
+      "hero": "Cascade",
+      "heroId": 59,
+      "counters": [
+        [
+          {
+            "name": "Corvus",
+            "id": 501
+          }
+        ],
+        [
+          {
+            "name": "Iris",
+            "id": 54
+          }
+        ],
+        [
+          {
+            "name": "Jhu",
+            "id": 37
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Peech",
+            "id": 68
+          }
+        ],
+        [
+          {
+            "name": "Somna",
+            "id": 70
+          }
+        ],
+        [
+          {
+            "name": "Xe'Sha",
+            "id": 51
+          }
+        ]
+      ],
+      "raw": "Corvus, Iris, Jhu, Jorgen, Peech, Somna, Xe'Sha",
+      "howToCounter": null
+    },
+    {
+      "hero": "Celeste",
+      "heroId": 43,
+      "counters": [
+        [
+          {
+            "name": "Aurora",
+            "id": 1
+          }
+        ],
+        [
+          {
+            "name": "Cornelius",
+            "id": 30
+          }
+        ],
+        [
+          {
+            "name": "Heidi",
+            "id": 9
+          }
+        ],
+        [
+          {
+            "name": "Isaac",
+            "id": 50
+          }
+        ],
+        [
+          {
+            "name": "K'arkh",
+            "id": 41
+          }
+        ],
+        [
+          {
+            "name": "Rufus",
+            "id": 42
+          }
+        ]
+      ],
+      "raw": "Aurora, Cornelius, Heidi, Isaac, K'arkh, Rufus",
+      "howToCounter": {
+        "title": "How to counter Celeste?",
+        "sectionId": "celeste",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-celeste",
+        "entries": [
+          {
+            "label": "Cornelius",
+            "labelId": 30,
+            "text": "targets high-intelligence heroes just like Celeste. He can eliminate her with one hit only.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Chabba",
+      "heroId": 11,
+      "counters": [
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Dante",
+            "id": 16
+          }
+        ],
+        [
+          {
+            "name": "Dark Star",
+            "id": 19
+          }
+        ],
+        [
+          {
+            "name": "Galahad",
+            "id": 2
+          },
+          {
+            "name": "Ishmael",
+            "id": 25
+          }
+        ],
+        [
+          {
+            "name": "Jet",
+            "id": 31
+          }
+        ],
+        [
+          {
+            "name": "Qing Mao",
+            "id": 28
+          }
+        ]
+      ],
+      "raw": "Celeste, Dante, Dark Star, Galahad + Ishmael, Jet, Qing Mao",
+      "howToCounter": null
+    },
+    {
+      "hero": "Cleaver",
+      "heroId": 24,
+      "counters": [
+        [
+          {
+            "name": "Andvari",
+            "id": 47
+          }
+        ],
+        [
+          {
+            "name": "Dorian",
+            "id": 29
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Lian",
+            "id": 23
+          }
+        ],
+        [
+          {
+            "name": "Martha",
+            "id": 46
+          }
+        ],
+        [
+          {
+            "name": "Peppy",
+            "id": 22
+          },
+          {
+            "name": "Aurora",
+            "id": 1
+          }
+        ]
+      ],
+      "raw": "Andvari, Dorian, Jorgen, Lian, Martha, Peppy + Aurora",
+      "howToCounter": {
+        "title": "How to counter Cleaver?",
+        "sectionId": "cleaver",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-cleaver",
+        "entries": [
+          {
+            "label": null,
+            "labelId": null,
+            "text": "When pulled by Cleaver's Rusty hook, Dorian can increase vampirism to nearby allies.",
+            "mentionedIds": [
+              29
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Cornelius",
+      "heroId": 30,
+      "counters": [
+        [
+          {
+            "name": "Aidan",
+            "id": 58
+          }
+        ],
+        [
+          {
+            "name": "Fafnir",
+            "id": 53
+          },
+          {
+            "name": "K'arkh",
+            "id": 41
+          }
+        ],
+        [
+          {
+            "name": "Isaac",
+            "id": 50
+          }
+        ],
+        [
+          {
+            "name": "Jhu",
+            "id": 37
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Keira",
+            "id": 3
+          }
+        ],
+        [
+          {
+            "name": "Sebastian",
+            "id": 500
+          }
+        ]
+      ],
+      "raw": "Aidan, Fafnir + K'arkh, Isaac, Jhu, Jorgen, Keira, Sebastian",
+      "howToCounter": null
+    },
+    {
+      "hero": "Corvus",
+      "heroId": 501,
+      "counters": [
+        [
+          {
+            "name": "Dante",
+            "id": 16
+          }
+        ],
+        [
+          {
+            "name": "Dorian",
+            "id": 29
+          },
+          {
+            "name": "Daredevil",
+            "id": 8
+          },
+          {
+            "name": "Elmir",
+            "id": null
+          }
+        ],
+        [
+          {
+            "name": "Faceless",
+            "id": 10
+          }
+        ],
+        [
+          {
+            "name": "Fafnir",
+            "id": 53
+          },
+          {
+            "name": "Dorian",
+            "id": 29
+          },
+          {
+            "name": "Keira",
+            "id": 3
+          }
+        ],
+        [
+          {
+            "name": "Ishmael",
+            "id": 25
+          }
+        ],
+        [
+          {
+            "name": "K'arkh",
+            "id": 41
+          }
+        ],
+        [
+          {
+            "name": "Qing Mao",
+            "id": 28
+          }
+        ]
+      ],
+      "raw": "Dante, Dorian + Daredevil + Elmir, Faceless, Fafnir + Dorian + Keira, Ishmael, K'arkh, Qing Mao",
+      "howToCounter": {
+        "title": "How to counter Corvus?",
+        "sectionId": "corvus",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-corvus",
+        "entries": [
+          {
+            "label": "K'arkh",
+            "labelId": 41,
+            "text": "does single-attack damage staying out of Corvus' altar radar.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Faceless",
+            "labelId": 10,
+            "text": "can push back and stun Corvus and stop him from using his altar.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Dorian",
+            "labelId": 29,
+            "text": "can help glass-cannon damage dealers to survive Corvus' altar by increasing their vampirism.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Dante",
+      "heroId": 16,
+      "counters": [
+        [
+          {
+            "name": "Arachne",
+            "id": 12
+          }
+        ],
+        [
+          {
+            "name": "Aurora",
+            "id": 1
+          }
+        ],
+        [
+          {
+            "name": "Dorian",
+            "id": 29
+          }
+        ],
+        [
+          {
+            "name": "Heidi",
+            "id": 9
+          }
+        ],
+        [
+          {
+            "name": "Helios",
+            "id": 32
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Lian",
+            "id": 23
+          }
+        ],
+        [
+          {
+            "name": "Martha",
+            "id": 46
+          }
+        ],
+        [
+          {
+            "name": "Phobos",
+            "id": 6
+          }
+        ],
+        [
+          {
+            "name": "Tempus",
+            "id": 65
+          }
+        ],
+        [
+          {
+            "name": "Ziri",
+            "id": 39
+          }
+        ]
+      ],
+      "raw": "Arachne, Aurora, Dorian, Heidi, Helios, Jorgen, Lian, Martha, Phobos, Tempus, Ziri",
+      "howToCounter": {
+        "title": "How to counter Dante?",
+        "sectionId": "dante",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-dante",
+        "entries": [
+          {
+            "label": "Dorian",
+            "labelId": 29,
+            "text": "increases the vampirism of nearby allies. All enemies pushed to the backline by Dante can benefit from Dorian's vampirism ability.",
+            "mentionedIds": [
+              29
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Daredevil",
+      "heroId": 8,
+      "counters": [
+        [
+          {
+            "name": "Amira",
+            "id": 52
+          }
+        ],
+        [
+          {
+            "name": "Corvus",
+            "id": 501
+          }
+        ],
+        [
+          {
+            "name": "Helios",
+            "id": 32
+          }
+        ],
+        [
+          {
+            "name": "Oya",
+            "id": 61
+          }
+        ],
+        [
+          {
+            "name": "Ziri",
+            "id": 39
+          }
+        ]
+      ],
+      "raw": "Amira, Corvus, Helios, Oya, Ziri",
+      "howToCounter": null
+    },
+    {
+      "hero": "Dark Star",
+      "heroId": 19,
+      "counters": [
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Nebula",
+            "id": 40
+          }
+        ],
+        [
+          {
+            "name": "Sebastian",
+            "id": 500
+          }
+        ]
+      ],
+      "raw": "Celeste, Nebula, Sebastian",
+      "howToCounter": null
+    },
+    {
+      "hero": "Dorian",
+      "heroId": 29,
+      "counters": [
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Cleaver",
+            "id": 24
+          }
+        ],
+        [
+          {
+            "name": "Cornelius",
+            "id": 30
+          }
+        ],
+        [
+          {
+            "name": "Jhu",
+            "id": 37
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ]
+      ],
+      "raw": "Celeste, Cleaver, Cornelius, Jhu, Jorgen",
+      "howToCounter": null
+    },
+    {
+      "hero": "Drayne",
+      "heroId": 73,
+      "counters": [
+        [
+          {
+            "name": "Alvanor",
+            "id": 503
+          }
+        ],
+        [
+          {
+            "name": "Amira",
+            "id": 52
+          }
+        ],
+        [
+          {
+            "name": "Chabba",
+            "id": 11
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Lian",
+            "id": 23
+          }
+        ],
+        [
+          {
+            "name": "Ziri",
+            "id": 39
+          }
+        ]
+      ],
+      "raw": "Alvanor, Amira, Chabba, Jorgen, Lian, Ziri",
+      "howToCounter": null
+    },
+    {
+      "hero": "Electra von Grave",
+      "heroId": 71,
+      "counters": [
+        [
+          {
+            "name": "Cleaver",
+            "id": 24
+          }
+        ],
+        [
+          {
+            "name": "Iris",
+            "id": 54
+          }
+        ],
+        [
+          {
+            "name": "Jhu",
+            "id": 37
+          }
+        ],
+        [
+          {
+            "name": "Julius",
+            "id": 56
+          }
+        ],
+        [
+          {
+            "name": "Keira",
+            "id": 3
+          }
+        ]
+      ],
+      "raw": "Cleaver, Iris, Jhu, Julius, Keira",
+      "howToCounter": null
+    },
+    {
+      "hero": "Elmir",
+      "heroId": null,
+      "counters": [
+        [
+          {
+            "name": "Dante",
+            "id": 16
+          }
+        ],
+        [
+          {
+            "name": "Helios",
+            "id": 32
+          }
+        ],
+        [
+          {
+            "name": "Helios",
+            "id": 32
+          },
+          {
+            "name": "Dorian",
+            "id": 29
+          },
+          {
+            "name": "Orion",
+            "id": 13
+          }
+        ],
+        [
+          {
+            "name": "Keira",
+            "id": 3
+          }
+        ],
+        [
+          {
+            "name": "Krista",
+            "id": 34
+          },
+          {
+            "name": "Lars",
+            "id": 33
+          }
+        ],
+        [
+          {
+            "name": "Ziri",
+            "id": 39
+          }
+        ]
+      ],
+      "raw": "Dante, Helios, Helios + Dorian + Orion, Keira, Krista + Lars, Ziri",
+      "howToCounter": null
+    },
+    {
+      "hero": "Faceless",
+      "heroId": 10,
+      "counters": [
+        [
+          {
+            "name": "Andvari",
+            "id": 47
+          }
+        ],
+        [
+          {
+            "name": "Rufus",
+            "id": 42
+          }
+        ],
+        [
+          {
+            "name": "Sebastian",
+            "id": 500
+          }
+        ],
+        [
+          {
+            "name": "Soleil",
+            "id": 62
+          }
+        ]
+      ],
+      "raw": "Andvari, Rufus, Sebastian, Soleil",
+      "howToCounter": null
+    },
+    {
+      "hero": "Fafnir",
+      "heroId": 53,
+      "counters": [
+        [
+          {
+            "name": "Amira",
+            "id": 52
+          }
+        ],
+        [
+          {
+            "name": "Cleaver",
+            "id": 24
+          },
+          {
+            "name": "Peppy",
+            "id": 22
+          }
+        ],
+        [
+          {
+            "name": "Heidi",
+            "id": 9
+          }
+        ],
+        [
+          {
+            "name": "Jhu",
+            "id": 37
+          },
+          {
+            "name": "Jorgen",
+            "id": 35
+          },
+          {
+            "name": "Martha",
+            "id": 46
+          }
+        ],
+        [
+          {
+            "name": "Oya",
+            "id": 61
+          }
+        ],
+        [
+          {
+            "name": "Soleil",
+            "id": 62
+          }
+        ]
+      ],
+      "raw": "Amira, Cleaver + Peppy, Heidi, Jhu + Jorgen + Martha, Oya, Soleil",
+      "howToCounter": {
+        "title": "How to counter Fafnir?",
+        "sectionId": "fafnir",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-fafnir",
+        "entries": [
+          {
+            "label": "Amira",
+            "labelId": 52,
+            "text": "can deplete Fafnir's energy because his maximum health is below Amira's target.",
+            "mentionedIds": [
+              52
+            ]
+          },
+          {
+            "label": "Cleaver",
+            "labelId": 24,
+            "text": "can use his rusty hook to move Fafnir to the front line, where he is most vulnerable.",
+            "mentionedIds": []
+          },
+          {
+            "label": null,
+            "labelId": null,
+            "text": "Combined with Cleaver, Peppy can help damage the front line, targeting Fafnir, which Cleaver repositioned.",
+            "mentionedIds": [
+              24,
+              22
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Folio",
+      "heroId": 64,
+      "counters": [
+        [
+          {
+            "name": "Satori",
+            "id": 45
+          }
+        ],
+        [
+          {
+            "name": "Yasmine",
+            "id": 49
+          }
+        ]
+      ],
+      "raw": "Satori, Yasmine",
+      "howToCounter": null
+    },
+    {
+      "hero": "Fox",
+      "heroId": 14,
+      "counters": [
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Nebula",
+            "id": 40
+          }
+        ],
+        [
+          {
+            "name": "Sebastian",
+            "id": 500
+          }
+        ],
+        [
+          {
+            "name": "Soleil",
+            "id": 62
+          }
+        ],
+        [
+          {
+            "name": "Ziri",
+            "id": 39
+          }
+        ]
+      ],
+      "raw": "Jorgen, Nebula, Sebastian, Soleil, Ziri",
+      "howToCounter": null
+    },
+    {
+      "hero": "Galahad",
+      "heroId": 2,
+      "counters": [
+        [
+          {
+            "name": "Artemis",
+            "id": 20
+          }
+        ],
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Chabba",
+            "id": 11
+          }
+        ],
+        [
+          {
+            "name": "Dante",
+            "id": 16
+          }
+        ],
+        [
+          {
+            "name": "Faceless",
+            "id": 10
+          }
+        ],
+        [
+          {
+            "name": "Fox",
+            "id": 14
+          }
+        ],
+        [
+          {
+            "name": "Jet",
+            "id": 31
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Qing Mao",
+            "id": 28
+          }
+        ],
+        [
+          {
+            "name": "Rufus",
+            "id": 42
+          }
+        ]
+      ],
+      "raw": "Artemis, Celeste, Chabba, Dante, Faceless, Fox, Jet, Jorgen, Qing Mao, Rufus",
+      "howToCounter": {
+        "title": "How to counter Galahad?",
+        "sectionId": "galahad",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-galahad",
+        "entries": [
+          {
+            "label": "Jorgen",
+            "labelId": 35,
+            "text": "he shuts down Galahad's ultimate by stealing his energy.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Ginger",
+      "heroId": 15,
+      "counters": [
+        [
+          {
+            "name": "Alvanor",
+            "id": 503
+          }
+        ],
+        [
+          {
+            "name": "Corvus",
+            "id": 501
+          }
+        ],
+        [
+          {
+            "name": "Jhu",
+            "id": 37
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Kayla",
+            "id": 57
+          }
+        ],
+        [
+          {
+            "name": "Lian",
+            "id": 23
+          }
+        ],
+        [
+          {
+            "name": "Luther",
+            "id": 27
+          }
+        ],
+        [
+          {
+            "name": "Orion",
+            "id": 13
+          }
+        ],
+        [
+          {
+            "name": "Yasmine",
+            "id": 49
+          }
+        ]
+      ],
+      "raw": "Alvanor, Corvus, Jhu, Jorgen, Kayla, Lian, Luther, Orion, Yasmine",
+      "howToCounter": null
+    },
+    {
+      "hero": "Guus",
+      "heroId": 69,
+      "counters": [
+        [
+          {
+            "name": "Andvari",
+            "id": 47
+          }
+        ],
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Helios",
+            "id": 32
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ]
+      ],
+      "raw": "Andvari, Celeste, Helios, Jorgen",
+      "howToCounter": null
+    },
+    {
+      "hero": "Heidi",
+      "heroId": 9,
+      "counters": [
+        [
+          {
+            "name": "Cornelius",
+            "id": 30
+          }
+        ],
+        [
+          {
+            "name": "Corvus",
+            "id": 501
+          }
+        ],
+        [
+          {
+            "name": "Lian",
+            "id": 23
+          }
+        ],
+        [
+          {
+            "name": "Phobos",
+            "id": 6
+          }
+        ],
+        [
+          {
+            "name": "Tempus",
+            "id": 65
+          }
+        ]
+      ],
+      "raw": "Cornelius, Corvus, Lian, Phobos, Tempus",
+      "howToCounter": null
+    },
+    {
+      "hero": "Helios",
+      "heroId": 32,
+      "counters": [
+        [
+          {
+            "name": "Aurora",
+            "id": 1
+          }
+        ],
+        [
+          {
+            "name": "Cleaver",
+            "id": 24
+          }
+        ],
+        [
+          {
+            "name": "Corvus",
+            "id": 501
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Luther",
+            "id": 27
+          }
+        ],
+        [
+          {
+            "name": "Phobos",
+            "id": 6
+          }
+        ],
+        [
+          {
+            "name": "Rufus",
+            "id": 42
+          }
+        ]
+      ],
+      "raw": "Aurora, Cleaver, Corvus, Jorgen, Luther, Phobos, Rufus",
+      "howToCounter": null
+    },
+    {
+      "hero": "Iris",
+      "heroId": 54,
+      "counters": [
+        [
+          {
+            "name": "Amira",
+            "id": 52
+          }
+        ],
+        [
+          {
+            "name": "Aurora",
+            "id": 1
+          }
+        ],
+        [
+          {
+            "name": "Corvus",
+            "id": 501
+          }
+        ],
+        [
+          {
+            "name": "Julius",
+            "id": 56
+          }
+        ],
+        [
+          {
+            "name": "Lian",
+            "id": 23
+          }
+        ],
+        [
+          {
+            "name": "Octavia",
+            "id": 60
+          }
+        ],
+        [
+          {
+            "name": "Phobos",
+            "id": 6
+          }
+        ],
+        [
+          {
+            "name": "Rufus",
+            "id": 42
+          }
+        ],
+        [
+          {
+            "name": "Somna",
+            "id": 70
+          }
+        ]
+      ],
+      "raw": "Amira, Aurora, Corvus, Julius, Lian, Octavia, Phobos, Rufus, Somna",
+      "howToCounter": {
+        "title": "How to counter Iris?",
+        "sectionId": "iris",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-iris",
+        "entries": [
+          {
+            "label": "Lian",
+            "labelId": 23,
+            "text": "can block Iris during the whole battle with her charming skills.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Aurora",
+            "labelId": 1,
+            "text": "can absorb a huge part of Iris' damage saving the whole team.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Amira",
+            "labelId": 52,
+            "text": "blocks Iris's magic damage and blocks her inner fire skill.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Julius",
+            "labelId": 56,
+            "text": "can absorb any damage and remove debuffs, making him a perfect counter to Iris.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Isaac",
+      "heroId": 50,
+      "counters": [
+        [
+          {
+            "name": "Heidi",
+            "id": 9
+          }
+        ],
+        [
+          {
+            "name": "Orion",
+            "id": 13
+          },
+          {
+            "name": "Mojo",
+            "id": 17
+          },
+          {
+            "name": "Alvanor",
+            "id": 503
+          },
+          {
+            "name": "Mushy",
+            "id": 55
+          },
+          {
+            "name": "Aurora",
+            "id": 1
+          }
+        ],
+        [
+          {
+            "name": "Soleil",
+            "id": 62
+          }
+        ]
+      ],
+      "raw": "Heidi, Orion + Mojo + Alvanor + Mushy + Aurora, Soleil",
+      "howToCounter": null
+    },
+    {
+      "hero": "Ishmael",
+      "heroId": 25,
+      "counters": [
+        [
+          {
+            "name": "Amira",
+            "id": 52
+          }
+        ],
+        [
+          {
+            "name": "Astrid and Lucas",
+            "id": 44
+          }
+        ],
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Dante",
+            "id": 16
+          }
+        ],
+        [
+          {
+            "name": "Electra von Grave",
+            "id": 71
+          }
+        ],
+        [
+          {
+            "name": "Helios",
+            "id": 32
+          }
+        ],
+        [
+          {
+            "name": "Krista",
+            "id": 34
+          }
+        ],
+        [
+          {
+            "name": "Xe'Sha",
+            "id": 51
+          }
+        ],
+        [
+          {
+            "name": "Ziri",
+            "id": 39
+          }
+        ]
+      ],
+      "raw": "Amira, Astrid and Lucas, Celeste, Dante, Electra von Grave, Helios, Krista, Xe'Sha, Ziri",
+      "howToCounter": {
+        "title": "How to counter Ishmael?",
+        "sectionId": "ishmael",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-ishmael",
+        "entries": [
+          {
+            "label": "Helios",
+            "labelId": 32,
+            "text": "can kill Ishmael with his spheres exploding at the front line.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Celeste",
+            "labelId": 43,
+            "text": "can convert Ishmael's healing into magic damage.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Jet",
+      "heroId": 31,
+      "counters": [
+        [
+          {
+            "name": "Amira",
+            "id": 52
+          }
+        ],
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Helios",
+            "id": 32
+          }
+        ],
+        [
+          {
+            "name": "Iris",
+            "id": 54
+          }
+        ],
+        [
+          {
+            "name": "Jhu",
+            "id": 37
+          }
+        ],
+        [
+          {
+            "name": "Phobos",
+            "id": 6
+          }
+        ]
+      ],
+      "raw": "Amira, Celeste, Helios, Iris, Jhu, Phobos",
+      "howToCounter": null
+    },
+    {
+      "hero": "Jhu",
+      "heroId": 37,
+      "counters": [
+        [
+          {
+            "name": "Alvanor",
+            "id": 503
+          }
+        ],
+        [
+          {
+            "name": "Amira",
+            "id": 52
+          }
+        ],
+        [
+          {
+            "name": "Arachne",
+            "id": 12
+          }
+        ],
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Elmir",
+            "id": null
+          }
+        ],
+        [
+          {
+            "name": "Faceless",
+            "id": 10
+          }
+        ],
+        [
+          {
+            "name": "Helios",
+            "id": 32
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Judge",
+            "id": 18
+          }
+        ],
+        [
+          {
+            "name": "Martha",
+            "id": 46
+          }
+        ],
+        [
+          {
+            "name": "Thea",
+            "id": 7
+          }
+        ]
+      ],
+      "raw": "Alvanor, Amira, Arachne, Celeste, Elmir, Faceless, Helios, Jorgen, Judge, Martha, Thea",
+      "howToCounter": {
+        "title": "How to counter Jhu?",
+        "sectionId": "jhu",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-jhu",
+        "entries": [
+          {
+            "label": "Martha",
+            "labelId": 46,
+            "text": "can survive Jhu's damage at the back-line, acting as a tank and healer.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Jorgen's",
+            "labelId": 35,
+            "text": "can block Jhu's energy gain, preventing him from self-healing.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Jorgen",
+      "heroId": 35,
+      "counters": [
+        [
+          {
+            "name": "Martha",
+            "id": 46
+          }
+        ],
+        [
+          {
+            "name": "Nebula",
+            "id": 40
+          }
+        ],
+        [
+          {
+            "name": "Satori",
+            "id": 45
+          }
+        ],
+        [
+          {
+            "name": "Sebastian",
+            "id": 500
+          }
+        ],
+        [
+          {
+            "name": "Soleil",
+            "id": 62
+          }
+        ]
+      ],
+      "raw": "Martha, Nebula, Satori, Sebastian, Soleil",
+      "howToCounter": null
+    },
+    {
+      "hero": "Judge",
+      "heroId": 18,
+      "counters": [
+        [
+          {
+            "name": "Heidi",
+            "id": 9
+          }
+        ],
+        [
+          {
+            "name": "Maya",
+            "id": 36
+          }
+        ],
+        [
+          {
+            "name": "Oya",
+            "id": 61
+          }
+        ],
+        [
+          {
+            "name": "Sebastian",
+            "id": 500
+          }
+        ],
+        [
+          {
+            "name": "Soleil",
+            "id": 62
+          }
+        ],
+        [
+          {
+            "name": "Thea",
+            "id": 7
+          }
+        ]
+      ],
+      "raw": "Heidi, Maya, Oya, Sebastian, Soleil, Thea",
+      "howToCounter": {
+        "title": "How to counter Judge?",
+        "sectionId": "judge",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-judge",
+        "entries": [
+          {
+            "label": "Sebastian",
+            "labelId": 500,
+            "text": "can remove Judge's adverse effects (stun) with his shield.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Julius",
+      "heroId": 56,
+      "counters": [
+        [
+          {
+            "name": "Amira",
+            "id": 52
+          }
+        ],
+        [
+          {
+            "name": "Dorian",
+            "id": 29
+          },
+          {
+            "name": "Daredevil",
+            "id": 8
+          },
+          {
+            "name": "Sebastian",
+            "id": 500
+          },
+          {
+            "name": "Elmir",
+            "id": null
+          }
+        ],
+        [
+          {
+            "name": "Heidi",
+            "id": 9
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Oya",
+            "id": 61
+          }
+        ]
+      ],
+      "raw": "Amira, Dorian + Daredevil + Sebastian + Elmir, Heidi, Jorgen, Oya",
+      "howToCounter": {
+        "title": "How to counter Julius?",
+        "sectionId": "julius",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-julius",
+        "entries": [
+          {
+            "label": null,
+            "labelId": null,
+            "text": "High-crit teams that are targeting the front line are perfect counters to Julius.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Kai",
+      "heroId": 5,
+      "counters": [
+        [
+          {
+            "name": "Andvari",
+            "id": 47
+          }
+        ],
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Lian",
+            "id": 23
+          }
+        ],
+        [
+          {
+            "name": "Phobos",
+            "id": 6
+          }
+        ],
+        [
+          {
+            "name": "Rufus",
+            "id": 42
+          }
+        ]
+      ],
+      "raw": "Andvari, Celeste, Lian, Phobos, Rufus",
+      "howToCounter": null
+    },
+    {
+      "hero": "K'arkh",
+      "heroId": 41,
+      "counters": [
+        [
+          {
+            "name": "Andvari",
+            "id": 47
+          }
+        ],
+        [
+          {
+            "name": "Arachne",
+            "id": 12
+          }
+        ],
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Morrigan",
+            "id": 502
+          }
+        ],
+        [
+          {
+            "name": "Mushy and Shroom",
+            "id": 55
+          }
+        ],
+        [
+          {
+            "name": "Satori",
+            "id": 45
+          }
+        ],
+        [
+          {
+            "name": "Yasmine",
+            "id": 49
+          }
+        ]
+      ],
+      "raw": "Andvari, Arachne, Celeste, Morrigan, Mushy and Shroom, Satori, Yasmine",
+      "howToCounter": {
+        "title": "How to counter K'arkh?",
+        "sectionId": "karkh",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-karkh",
+        "entries": [
+          {
+            "label": "Andvari",
+            "labelId": 47,
+            "text": "he protects all allies from knock-up effects and blocks K'arkhs ultimate.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Kayla",
+      "heroId": 57,
+      "counters": [
+        [
+          {
+            "name": "Corvus",
+            "id": 501
+          }
+        ],
+        [
+          {
+            "name": "Dark Star",
+            "id": 19
+          }
+        ],
+        [
+          {
+            "name": "Faceless",
+            "id": 10
+          }
+        ],
+        [
+          {
+            "name": "Folio",
+            "id": 64
+          }
+        ],
+        [
+          {
+            "name": "Maya",
+            "id": 36
+          }
+        ],
+        [
+          {
+            "name": "Morrigan",
+            "id": 502
+          }
+        ]
+      ],
+      "raw": "Corvus, Dark Star, Faceless, Folio, Maya, Morrigan",
+      "howToCounter": {
+        "title": "How to counter Kayla?",
+        "sectionId": "kayla",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-kayla",
+        "entries": [
+          {
+            "label": "Morrigan",
+            "labelId": 502,
+            "text": "blocks Aidan's ability to resurrect Kayla. In addition, Morrigan receives soul essence every time Aidan tries to do a resurrection.",
+            "mentionedIds": [
+              502,
+              58
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Keira",
+      "heroId": 3,
+      "counters": [
+        [
+          {
+            "name": "Astrid and Lucas",
+            "id": 44
+          }
+        ],
+        [
+          {
+            "name": "Corvus",
+            "id": 501
+          }
+        ],
+        [
+          {
+            "name": "Helios",
+            "id": 32
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Lian",
+            "id": 23
+          }
+        ],
+        [
+          {
+            "name": "Xe'Sha",
+            "id": 51
+          }
+        ]
+      ],
+      "raw": "Astrid and Lucas, Corvus, Helios, Jorgen, Lian, Xe'Sha",
+      "howToCounter": {
+        "title": "How to counter Keira?",
+        "sectionId": "keira",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-keira",
+        "entries": [
+          {
+            "label": "Lian",
+            "labelId": 23,
+            "text": "she slows down Keira and not allowing her to shine as a glass cannon.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Kendle",
+      "heroId": 75,
+      "counters": [
+        [
+          {
+            "name": "Cornelius",
+            "id": 30
+          }
+        ],
+        [
+          {
+            "name": "Helios",
+            "id": 32
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Oya",
+            "id": 61
+          }
+        ],
+        [
+          {
+            "name": "Phobos",
+            "id": 6
+          }
+        ]
+      ],
+      "raw": "Cornelius, Helios, Jorgen, Oya, Phobos",
+      "howToCounter": null
+    },
+    {
+      "hero": "Krista",
+      "heroId": 34,
+      "counters": [
+        [
+          {
+            "name": "Andvari",
+            "id": 47
+          }
+        ],
+        [
+          {
+            "name": "Cornelius",
+            "id": 30
+          }
+        ],
+        [
+          {
+            "name": "Corvus",
+            "id": 501
+          }
+        ],
+        [
+          {
+            "name": "Dorian",
+            "id": 29
+          }
+        ],
+        [
+          {
+            "name": "Iris",
+            "id": 54
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Phobos",
+            "id": 6
+          }
+        ],
+        [
+          {
+            "name": "Rufus",
+            "id": 42
+          }
+        ]
+      ],
+      "raw": "Andvari, Cornelius, Corvus, Dorian, Iris, Jorgen, Phobos, Rufus",
+      "howToCounter": null
+    },
+    {
+      "hero": "Lara Croft",
+      "heroId": 63,
+      "counters": [
+        [
+          {
+            "name": "Alvanor",
+            "id": 503
+          }
+        ],
+        [
+          {
+            "name": "Amira",
+            "id": 52
+          }
+        ],
+        [
+          {
+            "name": "Aurora",
+            "id": 1
+          }
+        ],
+        [
+          {
+            "name": "Dante",
+            "id": 16
+          }
+        ],
+        [
+          {
+            "name": "Heidi",
+            "id": 9
+          }
+        ],
+        [
+          {
+            "name": "Helios",
+            "id": 32
+          }
+        ],
+        [
+          {
+            "name": "Kayla",
+            "id": 57
+          }
+        ]
+      ],
+      "raw": "Alvanor, Amira, Aurora, Dante, Heidi, Helios, Kayla",
+      "howToCounter": null
+    },
+    {
+      "hero": "Lars",
+      "heroId": 33,
+      "counters": [
+        [
+          {
+            "name": "Andvari",
+            "id": 47
+          }
+        ],
+        [
+          {
+            "name": "Cleaver",
+            "id": 24
+          }
+        ],
+        [
+          {
+            "name": "Dorian",
+            "id": 29
+          }
+        ],
+        [
+          {
+            "name": "Iris",
+            "id": 54
+          }
+        ],
+        [
+          {
+            "name": "Jhu",
+            "id": 37
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Phobos",
+            "id": 6
+          }
+        ],
+        [
+          {
+            "name": "Rufus",
+            "id": 42
+          }
+        ]
+      ],
+      "raw": "Andvari, Cleaver, Dorian, Iris, Jhu, Jorgen, Phobos, Rufus",
+      "howToCounter": null
+    },
+    {
+      "hero": "Leonel",
+      "heroId": 79,
+      "counters": [
+        [
+          {
+            "name": "Amira",
+            "id": 52
+          }
+        ],
+        [
+          {
+            "name": "Corvus",
+            "id": 501
+          }
+        ],
+        [
+          {
+            "name": "Helios",
+            "id": 32
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Lian",
+            "id": 23
+          }
+        ],
+        [
+          {
+            "name": "Phobos",
+            "id": 6
+          }
+        ]
+      ],
+      "raw": "Amira, Corvus, Helios, Jorgen, Lian, Phobos",
+      "howToCounter": null
+    },
+    {
+      "hero": "Lian",
+      "heroId": 23,
+      "counters": [
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Corvus",
+            "id": 501
+          }
+        ],
+        [
+          {
+            "name": "Kayla",
+            "id": 57
+          }
+        ],
+        [
+          {
+            "name": "Nebula",
+            "id": 40
+          }
+        ],
+        [
+          {
+            "name": "Sebastian",
+            "id": 500
+          }
+        ],
+        [
+          {
+            "name": "Soleil",
+            "id": 62
+          }
+        ]
+      ],
+      "raw": "Celeste, Corvus, Kayla, Nebula, Sebastian, Soleil",
+      "howToCounter": {
+        "title": "How to counter Lian?",
+        "sectionId": "lian",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-lian",
+        "entries": [
+          {
+            "label": "Sebastian",
+            "labelId": 500,
+            "text": "he can remove Lian's charms and unblock his teammates.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Nebula",
+            "labelId": 40,
+            "text": "can also clear Lian's charms and also target her with her flying projectile and burn her energy.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Lilith",
+      "heroId": 26,
+      "counters": [
+        [
+          {
+            "name": "Isaac",
+            "id": 50
+          }
+        ],
+        [
+          {
+            "name": "Jhu",
+            "id": 37
+          }
+        ],
+        [
+          {
+            "name": "Kayla",
+            "id": 57
+          }
+        ],
+        [
+          {
+            "name": "Lian",
+            "id": 23
+          }
+        ],
+        [
+          {
+            "name": "Qing Mao",
+            "id": 28
+          }
+        ],
+        [
+          {
+            "name": "Rufus",
+            "id": 42
+          }
+        ]
+      ],
+      "raw": "Isaac, Jhu, Kayla, Lian, Qing Mao, Rufus",
+      "howToCounter": {
+        "title": "How to counter Lilith?",
+        "sectionId": "lilith",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-lilith",
+        "entries": [
+          {
+            "label": "Isaac",
+            "labelId": 50,
+            "text": "he can absorb all magical damage which makes Lilith useless.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Jhu",
+            "labelId": 37,
+            "text": "he usually attacks the backline where Lilith is positioned.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Qing Mao",
+            "labelId": 28,
+            "text": "she deals damage based on the hero's health. Lilith's health is constantly increasing by 3% for each enemy damaged, which increases Qing Mao's damage and makes Lilith an easy target.",
+            "mentionedIds": [
+              28
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Luther",
+      "heroId": 27,
+      "counters": [
+        [
+          {
+            "name": "Cascade",
+            "id": 59
+          }
+        ],
+        [
+          {
+            "name": "Faceless",
+            "id": 10
+          }
+        ],
+        [
+          {
+            "name": "Folio",
+            "id": 64
+          }
+        ],
+        [
+          {
+            "name": "Fox",
+            "id": 14
+          }
+        ],
+        [
+          {
+            "name": "Maya",
+            "id": 36
+          }
+        ]
+      ],
+      "raw": "Cascade, Faceless, Folio, Fox, Maya",
+      "howToCounter": {
+        "title": "How to counter Luther?",
+        "sectionId": "luther",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-luther",
+        "entries": [
+          {
+            "label": "Faceless",
+            "labelId": 10,
+            "text": "he can reposition Luther back at the center of his team, not allowing him to distract ally heroes or take frontline damage until he moves back to his initial position.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Markus",
+      "heroId": 21,
+      "counters": [
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Chabba",
+            "id": 11
+          }
+        ],
+        [
+          {
+            "name": "Heidi",
+            "id": 9
+          }
+        ],
+        [
+          {
+            "name": "Oya",
+            "id": 61
+          }
+        ]
+      ],
+      "raw": "Celeste, Chabba, Heidi, Oya",
+      "howToCounter": null
+    },
+    {
+      "hero": "Martha",
+      "heroId": 46,
+      "counters": [
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Cleaver",
+            "id": 24
+          }
+        ],
+        [
+          {
+            "name": "Kayla",
+            "id": 57
+          }
+        ],
+        [
+          {
+            "name": "Keira",
+            "id": 3
+          }
+        ],
+        [
+          {
+            "name": "Luther",
+            "id": 27
+          }
+        ],
+        [
+          {
+            "name": "Orion",
+            "id": 13
+          }
+        ]
+      ],
+      "raw": "Celeste, Cleaver, Kayla, Keira, Luther, Orion",
+      "howToCounter": {
+        "title": "How to counter Martha?",
+        "sectionId": "martha",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-martha",
+        "entries": [
+          {
+            "label": "Cleaver",
+            "labelId": 24,
+            "text": "he uses his rusty hook to pull Martha at the front and expose her to a position usually held by tanks, which are generally taking a lot of damage.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Luther",
+            "labelId": 27,
+            "text": "he can jump in the enemy's team, stunning Martha and damaging her.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Maya",
+      "heroId": 36,
+      "counters": [
+        [
+          {
+            "name": "Andvari",
+            "id": 47
+          }
+        ],
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Cornelius",
+            "id": 30
+          }
+        ],
+        [
+          {
+            "name": "Fafnir",
+            "id": 53
+          }
+        ],
+        [
+          {
+            "name": "K'arkh",
+            "id": 41
+          }
+        ],
+        [
+          {
+            "name": "Phobos",
+            "id": 6
+          }
+        ],
+        [
+          {
+            "name": "Rufus",
+            "id": 42
+          }
+        ]
+      ],
+      "raw": "Andvari, Celeste, Cornelius, Fafnir, K'arkh, Phobos, Rufus",
+      "howToCounter": null
+    },
+    {
+      "hero": "Miu",
+      "heroId": 74,
+      "counters": [
+        [
+          {
+            "name": "Cornelius",
+            "id": 30
+          }
+        ],
+        [
+          {
+            "name": "Iris",
+            "id": 54
+          }
+        ],
+        [
+          {
+            "name": "Jhu",
+            "id": 37
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Lian",
+            "id": 23
+          }
+        ],
+        [
+          {
+            "name": "Nebula",
+            "id": 40
+          }
+        ],
+        [
+          {
+            "name": "Satori",
+            "id": 45
+          }
+        ]
+      ],
+      "raw": "Cornelius, Iris, Jhu, Jorgen, Lian, Nebula, Satori",
+      "howToCounter": null
+    },
+    {
+      "hero": "Mojo",
+      "heroId": 17,
+      "counters": [
+        [
+          {
+            "name": "Cornelius",
+            "id": 30
+          }
+        ],
+        [
+          {
+            "name": "Iris",
+            "id": 54
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Lian",
+            "id": 23
+          }
+        ],
+        [
+          {
+            "name": "Phobos",
+            "id": 6
+          }
+        ],
+        [
+          {
+            "name": "Rufus",
+            "id": 42
+          }
+        ],
+        [
+          {
+            "name": "Satori",
+            "id": 45
+          }
+        ],
+        [
+          {
+            "name": "Soleil",
+            "id": 62
+          }
+        ]
+      ],
+      "raw": "Cornelius, Iris, Jorgen, Lian, Phobos, Rufus, Satori, Soleil",
+      "howToCounter": null
+    },
+    {
+      "hero": "Morrigan",
+      "heroId": 502,
+      "counters": [
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Cornelius",
+            "id": 30
+          }
+        ],
+        [
+          {
+            "name": "Ishmael",
+            "id": 25
+          }
+        ],
+        [
+          {
+            "name": "Jhu",
+            "id": 37
+          }
+        ],
+        [
+          {
+            "name": "Phobos",
+            "id": 6
+          }
+        ]
+      ],
+      "raw": "Celeste, Cornelius, Ishmael, Jhu, Phobos",
+      "howToCounter": {
+        "title": "How to counter Morrigan?",
+        "sectionId": "morrigan",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-morrigan",
+        "entries": [
+          {
+            "label": "Cornelius",
+            "labelId": 30,
+            "text": "will target Morrigan if she's the hero with the highest intelligence in the team.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Celeste",
+            "labelId": 43,
+            "text": "will convert Morrigan's healing into magical damage.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Mushy and Shroom",
+      "heroId": 55,
+      "counters": [
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Corvus",
+            "id": 501
+          }
+        ],
+        [
+          {
+            "name": "Fox",
+            "id": 14
+          }
+        ],
+        [
+          {
+            "name": "Iris",
+            "id": 54
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Phobos",
+            "id": 6
+          }
+        ],
+        [
+          {
+            "name": "Qing Mao",
+            "id": 28
+          }
+        ]
+      ],
+      "raw": "Celeste, Corvus, Fox, Iris, Jorgen, Phobos, Qing Mao",
+      "howToCounter": {
+        "title": "How to counter Mushy and Shroom?",
+        "sectionId": "mushy-and-shroom",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-mushy-and-shroom",
+        "entries": [
+          {
+            "label": "Celeste",
+            "labelId": 43,
+            "text": "can block Mushy and Shroom's healing and convert it into magical damage.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Nebula",
+      "heroId": 40,
+      "counters": [
+        [
+          {
+            "name": "Dante",
+            "id": 16
+          }
+        ],
+        [
+          {
+            "name": "Dark Star",
+            "id": 19
+          }
+        ],
+        [
+          {
+            "name": "Heidi",
+            "id": 9
+          }
+        ],
+        [
+          {
+            "name": "Lars",
+            "id": 33
+          },
+          {
+            "name": "Krista",
+            "id": 34
+          }
+        ],
+        [
+          {
+            "name": "Maya",
+            "id": 36
+          }
+        ]
+      ],
+      "raw": "Dante, Dark Star, Heidi, Lars + Krista, Maya",
+      "howToCounter": null
+    },
+    {
+      "hero": "Ninja Turtles",
+      "heroId": null,
+      "counters": [
+        [
+          {
+            "name": "Aurora",
+            "id": 1
+          }
+        ],
+        [
+          {
+            "name": "Dante",
+            "id": 16
+          }
+        ],
+        [
+          {
+            "name": "Heidi",
+            "id": 9
+          }
+        ],
+        [
+          {
+            "name": "Helios",
+            "id": 32
+          }
+        ],
+        [
+          {
+            "name": "Soleil",
+            "id": 62
+          }
+        ]
+      ],
+      "raw": "Aurora, Dante, Heidi, Helios, Soleil",
+      "howToCounter": null
+    },
+    {
+      "hero": "Octavia",
+      "heroId": 60,
+      "counters": [
+        [
+          {
+            "name": "AoE heroes",
+            "id": null
+          }
+        ],
+        [
+          {
+            "name": "Cascade",
+            "id": 59
+          },
+          {
+            "name": "Maya",
+            "id": 36
+          }
+        ],
+        [
+          {
+            "name": "Heidi",
+            "id": 9
+          },
+          {
+            "name": "Nebula",
+            "id": 40
+          },
+          {
+            "name": "Maya",
+            "id": 36
+          }
+        ],
+        [
+          {
+            "name": "Satori",
+            "id": 45
+          }
+        ],
+        [
+          {
+            "name": "Tempus",
+            "id": 65
+          }
+        ]
+      ],
+      "raw": "AoE heroes, Cascade + Maya, Heidi + Nebula + Maya, Satori, Tempus",
+      "howToCounter": {
+        "title": "How to counter Octavia?",
+        "sectionId": "octavia",
+        "detailsUrl": "https://omg.rocks/herowars-alliance-octavia",
+        "entries": [
+          {
+            "label": null,
+            "labelId": null,
+            "text": "Satori 's Fox Fire marks can target Octavia before her allies are dead.",
+            "mentionedIds": [
+              45,
+              14
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Orion",
+      "heroId": 13,
+      "counters": [
+        [
+          {
+            "name": "Cornelius",
+            "id": 30
+          }
+        ],
+        [
+          {
+            "name": "Corvus",
+            "id": 501
+          }
+        ],
+        [
+          {
+            "name": "Isaac",
+            "id": 50
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Lian",
+            "id": 23
+          }
+        ],
+        [
+          {
+            "name": "Rufus",
+            "id": 42
+          }
+        ],
+        [
+          {
+            "name": "Satori",
+            "id": 45
+          }
+        ]
+      ],
+      "raw": "Cornelius, Corvus, Isaac, Jorgen, Lian, Rufus, Satori",
+      "howToCounter": {
+        "title": "How to counter Orion?",
+        "sectionId": "orion",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-orion",
+        "entries": [
+          {
+            "label": "Satori",
+            "labelId": 45,
+            "text": "is a hard counter to Orion due to Orion's \"Full Charge\" skill which gives him the ability to receive additional energy with each attack.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Oya",
+      "heroId": 61,
+      "counters": [
+        [
+          {
+            "name": "Corvus",
+            "id": 501
+          }
+        ],
+        [
+          {
+            "name": "Iris",
+            "id": 54
+          }
+        ],
+        [
+          {
+            "name": "K'arkh",
+            "id": 41
+          },
+          {
+            "name": "Fafnir",
+            "id": 53
+          }
+        ],
+        [
+          {
+            "name": "Satori",
+            "id": 45
+          }
+        ],
+        [
+          {
+            "name": "Yasmine",
+            "id": 49
+          }
+        ],
+        [
+          {
+            "name": "Ziri",
+            "id": 39
+          }
+        ]
+      ],
+      "raw": "Corvus, Iris, K'arkh + Fafnir, Satori, Yasmine, Ziri",
+      "howToCounter": null
+    },
+    {
+      "hero": "Peech",
+      "heroId": 68,
+      "counters": [
+        [
+          {
+            "name": "Iris",
+            "id": 54
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Satori",
+            "id": 45
+          }
+        ],
+        [
+          {
+            "name": "Sebastian",
+            "id": 500
+          }
+        ],
+        [
+          {
+            "name": "Tempus",
+            "id": 65
+          }
+        ]
+      ],
+      "raw": "Iris, Jorgen, Satori, Sebastian, Tempus",
+      "howToCounter": null
+    },
+    {
+      "hero": "Peppy",
+      "heroId": 22,
+      "counters": [
+        [
+          {
+            "name": "Dorian",
+            "id": 29
+          }
+        ],
+        [
+          {
+            "name": "Jhu",
+            "id": 37
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Rufus",
+            "id": 42
+          }
+        ],
+        [
+          {
+            "name": "Soleil",
+            "id": 62
+          }
+        ]
+      ],
+      "raw": "Dorian, Jhu, Jorgen, Rufus, Soleil",
+      "howToCounter": {
+        "title": "How to counter Peppy?",
+        "sectionId": "peppy",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-peppy",
+        "entries": [
+          {
+            "label": "Jhu",
+            "labelId": 37,
+            "text": "can effectively counter Peppy because he targets back-line heroes where Peppy usually is located.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Phobos",
+      "heroId": 6,
+      "counters": [
+        [
+          {
+            "name": "Cleaver",
+            "id": 24
+          }
+        ],
+        [
+          {
+            "name": "Corvus",
+            "id": 501
+          }
+        ],
+        [
+          {
+            "name": "Jhu",
+            "id": 37
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "K'arkh",
+            "id": 41
+          }
+        ],
+        [
+          {
+            "name": "Rufus",
+            "id": 42
+          }
+        ],
+        [
+          {
+            "name": "Satori",
+            "id": 45
+          }
+        ],
+        [
+          {
+            "name": "Soleil",
+            "id": 62
+          }
+        ]
+      ],
+      "raw": "Cleaver, Corvus, Jhu, Jorgen, K'arkh, Rufus, Satori, Soleil",
+      "howToCounter": {
+        "title": "How to counter Phobos?",
+        "sectionId": "phobos",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-phobos",
+        "entries": [
+          {
+            "label": "Corvus",
+            "labelId": 501,
+            "text": "his altar will target Phobos when he deals damage to allies.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Polaris",
+      "heroId": 67,
+      "counters": [
+        [
+          {
+            "name": "Satori",
+            "id": 45
+          }
+        ],
+        [
+          {
+            "name": "Soleil",
+            "id": 62
+          }
+        ]
+      ],
+      "raw": "Satori, Soleil",
+      "howToCounter": null
+    },
+    {
+      "hero": "Qing Mao",
+      "heroId": 28,
+      "counters": [
+        [
+          {
+            "name": "Arachne",
+            "id": 12
+          }
+        ],
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Chabba",
+            "id": 11
+          }
+        ],
+        [
+          {
+            "name": "Julius",
+            "id": 56
+          }
+        ],
+        [
+          {
+            "name": "Sebastian",
+            "id": 500
+          }
+        ],
+        [
+          {
+            "name": "Ziri",
+            "id": 39
+          }
+        ]
+      ],
+      "raw": "Arachne, Celeste, Chabba, Julius, Sebastian, Ziri",
+      "howToCounter": null
+    },
+    {
+      "hero": "Rufus",
+      "heroId": 42,
+      "counters": [
+        [
+          {
+            "name": "Morrigan",
+            "id": 502
+          }
+        ]
+      ],
+      "raw": "Morrigan",
+      "howToCounter": null
+    },
+    {
+      "hero": "Satori",
+      "heroId": 45,
+      "counters": [
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Cornelius",
+            "id": 30
+          }
+        ],
+        [
+          {
+            "name": "Iris",
+            "id": 54
+          }
+        ],
+        [
+          {
+            "name": "Isaac",
+            "id": 50
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Nebula",
+            "id": 40
+          }
+        ],
+        [
+          {
+            "name": "Phobos",
+            "id": 6
+          }
+        ],
+        [
+          {
+            "name": "Rufus",
+            "id": 42
+          }
+        ]
+      ],
+      "raw": "Celeste, Cornelius, Iris, Isaac, Jorgen, Nebula, Phobos, Rufus",
+      "howToCounter": {
+        "title": "How to counter Satori?",
+        "sectionId": "satori",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-satori",
+        "entries": [
+          {
+            "label": "Celeste",
+            "labelId": 43,
+            "text": "removes Satori's Fox Fire marks with her purifying spheres.",
+            "mentionedIds": [
+              14
+            ]
+          },
+          {
+            "label": "Cornelius",
+            "labelId": 30,
+            "text": "he can kill a high-intelligence hero with just one hit. His damage is proportional to the intelligence levels of a hero, and Satori has much of it.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Phobos",
+            "labelId": 6,
+            "text": "his ability to steal and burn energy makes it a good counter to Satori, especially if Satori is the hero with the highest magic attack.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Jorgen",
+            "labelId": 35,
+            "text": "even if he's hard-countered by Satori, he can be a stopper for Satori's activation of fire fox marks. If you use it in your team, make sure you have heroes that can prevent Satori from his ultimate.",
+            "mentionedIds": [
+              14
+            ]
+          },
+          {
+            "label": "Iris",
+            "labelId": 54,
+            "text": "is great with buffs and debuffs. She decreases Satori's magical damage when he applies his marks.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Isaac",
+            "labelId": 50,
+            "text": "has great shields that can absorb all kinds of damage. He also suits well with progress heroes which can eliminate Satori before he actives his marks.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Nebula",
+            "labelId": 40,
+            "text": "can clear Satori's fire marks, but there is a catch - she needs to stay alive long enough.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Sebastian",
+      "heroId": 500,
+      "counters": [
+        [
+          {
+            "name": "Amira",
+            "id": 52
+          }
+        ],
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Helios",
+            "id": 32
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ]
+      ],
+      "raw": "Amira, Celeste, Helios, Jorgen",
+      "howToCounter": null
+    },
+    {
+      "hero": "Soleil",
+      "heroId": 62,
+      "counters": [
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Iris",
+            "id": 54
+          }
+        ],
+        [
+          {
+            "name": "Kayla",
+            "id": 57
+          }
+        ]
+      ],
+      "raw": "Celeste, Iris, Kayla",
+      "howToCounter": null
+    },
+    {
+      "hero": "Somna",
+      "heroId": 70,
+      "counters": [
+        [
+          {
+            "name": "Iris",
+            "id": 54
+          }
+        ],
+        [
+          {
+            "name": "Soleil",
+            "id": 62
+          }
+        ]
+      ],
+      "raw": "Iris, Soleil",
+      "howToCounter": null
+    },
+    {
+      "hero": "Tempus",
+      "heroId": 65,
+      "counters": [
+        [
+          {
+            "name": "Cornelius",
+            "id": 30
+          }
+        ],
+        [
+          {
+            "name": "Iris",
+            "id": 54
+          }
+        ],
+        [
+          {
+            "name": "Xe'Sha",
+            "id": 51
+          }
+        ],
+        [
+          {
+            "name": "Yasmine",
+            "id": 49
+          }
+        ]
+      ],
+      "raw": "Cornelius, Iris, Xe'Sha, Yasmine",
+      "howToCounter": null
+    },
+    {
+      "hero": "Thea",
+      "heroId": 7,
+      "counters": [
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Cleaver",
+            "id": 24
+          }
+        ],
+        [
+          {
+            "name": "Iris",
+            "id": 54
+          }
+        ],
+        [
+          {
+            "name": "Jhu",
+            "id": 37
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ]
+      ],
+      "raw": "Celeste, Cleaver, Iris, Jhu, Jorgen",
+      "howToCounter": {
+        "title": "How to counter Thea?",
+        "sectionId": "thea",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-thea",
+        "entries": [
+          {
+            "label": "Jhu",
+            "labelId": 37,
+            "text": "targets the back line where Thea is positioned.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Jorgen",
+            "labelId": 35,
+            "text": "can block energy gains for Thea, which are critical for her.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Tristan",
+      "heroId": 504,
+      "counters": [
+        [
+          {
+            "name": "Dante",
+            "id": 16
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Martha",
+            "id": 46
+          }
+        ],
+        [
+          {
+            "name": "Satori",
+            "id": 45
+          }
+        ]
+      ],
+      "raw": "Dante, Jorgen, Martha, Satori",
+      "howToCounter": {
+        "title": "How to counter Tristan?",
+        "sectionId": "tristan",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-tristan",
+        "entries": [
+          {
+            "label": null,
+            "labelId": null,
+            "text": "Satori can easily destroy heroes that gain energy over time which is the case with Tristan.",
+            "mentionedIds": [
+              45
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Xe'Sha",
+      "heroId": 51,
+      "counters": [
+        [
+          {
+            "name": "Amira",
+            "id": 52
+          }
+        ],
+        [
+          {
+            "name": "Cornelius",
+            "id": 30
+          }
+        ],
+        [
+          {
+            "name": "Fafnir",
+            "id": 53
+          }
+        ],
+        [
+          {
+            "name": "Jorgen",
+            "id": 35
+          }
+        ],
+        [
+          {
+            "name": "Morrigan",
+            "id": 502
+          }
+        ],
+        [
+          {
+            "name": "Phobos",
+            "id": 6
+          }
+        ],
+        [
+          {
+            "name": "Rufus",
+            "id": 42
+          }
+        ],
+        [
+          {
+            "name": "Yasmine",
+            "id": 49
+          }
+        ]
+      ],
+      "raw": "Amira, Cornelius, Fafnir, Jorgen, Morrigan, Phobos, Rufus, Yasmine",
+      "howToCounter": {
+        "title": "How to counter Xe'Sha?",
+        "sectionId": "xesha",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-xesha",
+        "entries": [
+          {
+            "label": "Cornelius",
+            "labelId": 30,
+            "text": "targets high-intelligence heroes just like Xe'Sha. There are a few heroes with higher intelligence stat, like Jet and Alvanor, so she's a perfect target for Cornelius.",
+            "mentionedIds": [
+              30,
+              503,
+              31
+            ]
+          },
+          {
+            "label": "Phobos",
+            "labelId": 6,
+            "text": "can stun Xe'Sha and steal her energy.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Fafnir",
+            "labelId": 53,
+            "text": "activates a shield that can absorb all of Xe'Sha's damage.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Amira",
+            "labelId": 52,
+            "text": "can activate a shield that absorbs all of Xe'Sha's damage.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Morrigan",
+            "labelId": 502,
+            "text": "can summon skulls with lower armor and become the new target of Xe'Sha while spanning the attention away from the other heroes.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Rufus",
+            "labelId": 42,
+            "text": "is protected by magic damage and can bypass all Xe'Sha attacks.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Yasmine",
+            "labelId": 49,
+            "text": "targets and paralyzes the enemy with the lowest armor. And Xe'Sha is one of the heroes with the lowest armor. Be careful adding Yasmine if Faceless is in Xe'Sha's team because he has lower armor and stun ability, which might prevent Yasmine's ultimate activation.",
+            "mentionedIds": [
+              10,
+              49
+            ]
+          },
+          {
+            "label": "Jorgen",
+            "labelId": 35,
+            "text": "can steal energy from the enemy team heroes, delay their ultimates, and make sure Xe'Sha activates her ultimate first.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Yasmine",
+      "heroId": 49,
+      "counters": [
+        [
+          {
+            "name": "Celeste",
+            "id": 43
+          }
+        ],
+        [
+          {
+            "name": "Corvus",
+            "id": 501
+          }
+        ],
+        [
+          {
+            "name": "Faceless",
+            "id": 10
+          }
+        ],
+        [
+          {
+            "name": "Folio",
+            "id": 64
+          }
+        ],
+        [
+          {
+            "name": "Helios",
+            "id": 32
+          }
+        ],
+        [
+          {
+            "name": "Iris",
+            "id": 54
+          }
+        ],
+        [
+          {
+            "name": "Peppy",
+            "id": 22
+          },
+          {
+            "name": "Cleaver",
+            "id": 24
+          },
+          {
+            "name": "Xe'Sha",
+            "id": 51
+          },
+          {
+            "name": "Faceless",
+            "id": 10
+          }
+        ]
+      ],
+      "raw": "Celeste, Corvus, Faceless, Folio, Helios, Iris, Peppy + Cleaver + Xe'Sha + Faceless",
+      "howToCounter": {
+        "title": "How to counter Yasmine?",
+        "sectionId": "yasmine",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-yasmine",
+        "entries": [
+          {
+            "label": "Helios",
+            "labelId": 32,
+            "text": "does damage based on the critical hits he gets from Yasmine and also protects nearby heroes with his damage-absorbing spheres. You can combine him with Faceless or Orion so he can benefit from the magic penetration buff.",
+            "mentionedIds": [
+              10,
+              13
+            ]
+          },
+          {
+            "label": "Corvus",
+            "labelId": 501,
+            "text": "' altar deals damage each time an allied gets hit. Every time Yasmine attacks, she will be hit by the altar.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Faceless",
+            "labelId": 10,
+            "text": "can stun and return Yasmine to her initial position.",
+            "mentionedIds": []
+          },
+          {
+            "label": "Celeste",
+            "labelId": 43,
+            "text": "removes Yasmine's poison with her purifying spheres.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    },
+    {
+      "hero": "Ziri",
+      "heroId": 39,
+      "counters": [
+        [
+          {
+            "name": "Chabba",
+            "id": 11
+          }
+        ],
+        [
+          {
+            "name": "Orion",
+            "id": 13
+          }
+        ],
+        [
+          {
+            "name": "Yasmine",
+            "id": 49
+          }
+        ]
+      ],
+      "raw": "Chabba, Orion, Yasmine",
+      "howToCounter": {
+        "title": "How to counter Ziri?",
+        "sectionId": "ziri",
+        "detailsUrl": "https://omg.rocks/herowars-mobile-ziri",
+        "entries": [
+          {
+            "label": "Chabba",
+            "labelId": 11,
+            "text": "can swallow Ziri, preventing her from burrowing, healing, and reflecting physical attack.",
+            "mentionedIds": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,5 +1,7 @@
-import { useState, type CSSProperties, type ReactNode } from 'react';
+import type { CSSProperties, ReactNode } from 'react';
+import { Link } from 'react-router';
 import { Badge } from '@/components/ui/badge';
+import { HeroAvatar } from '@/components/HeroAvatar';
 import {
   colorMeta,
   heroName,
@@ -11,30 +13,6 @@ import {
   type Lang,
 } from '@/lib/heroes';
 import { formatNumber, type Dict } from '@/lib/i18n';
-import { cn } from '@/lib/utils';
-
-function Avatar({ hero, name }: { hero: Hero; name: string }) {
-  const [failed, setFailed] = useState(false);
-  const box = 'size-12 shrink-0 rounded-[10px] border border-hw-border bg-hw-panel-2';
-  if (!hero.img || failed) {
-    return (
-      <div
-        aria-hidden
-        className={cn(box, 'flex items-center justify-center text-lg font-bold text-hw-dim')}
-      >
-        {name.charAt(0)}
-      </div>
-    );
-  }
-  return (
-    <img
-      src={hero.img}
-      alt={name}
-      onError={() => setFailed(true)}
-      className={cn(box, 'object-cover')}
-    />
-  );
-}
 
 function Row({ label, children }: { label: string; children: ReactNode }) {
   return (
@@ -58,10 +36,16 @@ export function HeroCard({ hero, dict, lang }: { hero: Hero; dict: Dict; lang: L
         {meta.name}
       </Badge>
       <div className="mb-2 flex items-center gap-2.5">
-        <Avatar hero={hero} name={name} />
+        <HeroAvatar hero={hero} name={name} />
         <div className="flex min-w-0 flex-1 flex-col justify-center">
           <span className="text-[15px] font-bold">
-            {name} <span className="text-[11px] font-normal text-hw-dim">#{hero.id}</span>
+            <Link
+              to={`/hero/${hero.id}`}
+              className="outline-none after:absolute after:inset-0 after:z-10 focus-visible:after:rounded-xl focus-visible:after:ring-2 focus-visible:after:ring-hw-accent"
+            >
+              {name}
+            </Link>{' '}
+            <span className="text-[11px] font-normal text-hw-dim">#{hero.id}</span>
           </span>
           <span className="text-[13px] tracking-wide text-hw-accent">{stars(hero.star)}</span>
         </div>

@@ -1,5 +1,6 @@
-import { render, screen } from '@testing-library/react';
+import { screen } from '@testing-library/react';
 import { makeHero } from '@/test-utils/makeHero';
+import { renderWithRouter } from '@/test-utils/renderWithRouter';
 import { DICT } from '@/lib/i18n';
 import { HeroCard } from './HeroCard';
 
@@ -21,7 +22,7 @@ const hero = makeHero({
 });
 
 test('shows the English name, rank, power and stats', () => {
-  render(<HeroCard hero={hero} dict={DICT.en} lang="en" />);
+  renderWithRouter(<HeroCard hero={hero} dict={DICT.en} lang="en" />);
   expect(screen.getByText('Iris')).toBeInTheDocument();
   expect(screen.getByText('#54')).toBeInTheDocument();
   expect(screen.getByText('Mythic')).toBeInTheDocument();
@@ -32,25 +33,25 @@ test('shows the English name, rank, power and stats', () => {
 });
 
 test('lists artifacts and the talisman', () => {
-  render(<HeroCard hero={hero} dict={DICT.en} lang="en" />);
+  renderWithRouter(<HeroCard hero={hero} dict={DICT.en} lang="en" />);
   expect(screen.getByText('Weapon')).toBeInTheDocument();
   expect(screen.getByText('Lv100 ★5')).toBeInTheDocument();
   expect(screen.getByText(/Talisman #110 · lvl\. 50 · 4 traits/)).toBeInTheDocument();
 });
 
 test('uses the Ukrainian name and labels in ua', () => {
-  render(<HeroCard hero={hero} dict={DICT.ua} lang="ua" />);
+  renderWithRouter(<HeroCard hero={hero} dict={DICT.ua} lang="ua" />);
   expect(screen.getByText('Айрис')).toBeInTheDocument();
   expect(screen.getByText('Зброя')).toBeInTheDocument();
 });
 
 test('falls back to an initial when the hero has no image', () => {
-  render(<HeroCard hero={hero} dict={DICT.en} lang="en" />);
+  renderWithRouter(<HeroCard hero={hero} dict={DICT.en} lang="en" />);
   expect(screen.queryByRole('img')).not.toBeInTheDocument();
   expect(screen.getByText('I')).toBeInTheDocument();
 });
 
 test('renders the image when present', () => {
-  render(<HeroCard hero={{ ...hero, img: 'https://example.test/a.webp' }} dict={DICT.en} lang="en" />);
+  renderWithRouter(<HeroCard hero={{ ...hero, img: 'https://example.test/a.webp' }} dict={DICT.en} lang="en" />);
   expect(screen.getByRole('img', { name: 'Iris' })).toHaveAttribute('src', 'https://example.test/a.webp');
 });

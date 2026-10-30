@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Status
 
-Vite 8 + React 19 + TypeScript 5.9 (strict) + Tailwind CSS v4 + shadcn/ui. Started from the Create React App template and migrated. The only screen is the hero collection (ported from a saved HTML page): `src/App.tsx` renders `src/components/HeroCollection.tsx`, which owns all state; pure logic lives in `src/lib/` (`heroFilters`, `profileImport`, `i18n`, `heroes`) and the 81-hero dataset in `src/data/heroes.json`. There is no routing, global state or API layer; JSON dumps are imported client-side through the upload panel.
+Vite 8 + React 19 + TypeScript 5.9 (strict) + Tailwind CSS v4 + shadcn/ui. Started from the Create React App template and migrated. Screens: the hero collection (ported from a saved HTML page) and a per-hero counters page (`src/components/HeroPage.tsx`, data from `src/data/hero-counters.json` via `src/lib/heroCounters.ts`). Routing is `react-router` with `HashRouter` (`src/index.tsx`; routes `/` and `/hero/:id` are declared in `HeroCollection.tsx`, which owns all state so filters survive navigation); pure logic lives in `src/lib/` (`heroFilters`, `profileImport`, `i18n`, `heroes`) and the 81-hero dataset in `src/data/heroes.json`. There is no global state or API layer. The upload panel (`UploadPanel.tsx`, `profileImport`, `readJsonFile`) is currently unwired from `HeroCollection` on purpose; the pieces are kept for later. Tests render components inside `renderWithRouter` (`src/test-utils/`). The UI defaults to English.
 
 The app entry is `index.html` in the repo root (Vite convention), which loads `/src/index.tsx`. Static assets in `public/` are served from `/`.
 

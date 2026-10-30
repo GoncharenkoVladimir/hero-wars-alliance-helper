@@ -1,46 +1,28 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useState, type ComponentProps } from 'react';
+import { Route, Routes, useParams } from 'react-router';
 import { INITIAL_PLAYER } from '@/data/player';
 import { ALL, computeStats, filterHeroes, sortHeroes, type SortKey } from '@/lib/heroFilters';
-import { FACTION_IDS, heroFaction, HEROES, type Lang, type PlayerInfo } from '@/lib/heroes';
+import { FACTION_IDS, heroFaction, HEROES, type Lang } from '@/lib/heroes';
 import { DICT } from '@/lib/i18n';
-import {
-  extractFromProfileDump,
-  extractNameMapFromConfig,
-  mergeHeroes,
-  toPlayerInfo,
-  type RawHero,
-} from '@/lib/profileImport';
-import { readJsonFile } from '@/lib/readJsonFile';
 import { Controls } from './Controls';
 import { HeroCard } from './HeroCard';
+import { HeroPage } from './HeroPage';
 import { LangSwitch } from './LangSwitch';
 import { StatsBar } from './StatsBar';
-import { UploadPanel, type UploadStatus } from './UploadPanel';
-
-interface Uploads {
-  heroDict: Record<string, RawHero> | null;
-  nameMap: Record<number, string> | null;
-  player: PlayerInfo | null;
-}
 
 export function HeroCollection() {
-  const [lang, setLang] = useState<Lang>('ua');
+  const [lang, setLang] = useState<Lang>('en');
   const [search, setSearch] = useState('');
   const [color, setColor] = useState(ALL);
   const [star, setStar] = useState(ALL);
   const [faction, setFaction] = useState(ALL);
   const [role, setRole] = useState(ALL);
   const [sortBy, setSortBy] = useState<SortKey>('power_desc');
-  const [uploads, setUploads] = useState<Uploads>({ heroDict: null, nameMap: null, player: null });
-  const [status, setStatus] = useState<UploadStatus | null>(null);
 
   const dict = DICT[lang];
-  const player = uploads.player ?? INITIAL_PLAYER;
+  const player = INITIAL_PLAYER;
 
-  const heroes = useMemo(
-    () => mergeHeroes(HEROES, uploads.heroDict, uploads.nameMap),
-    [uploads.heroDict, uploads.nameMap],
-  );
+  const heroes = HEROES;
   const visible = useMemo(
     () => sortHeroes(filterHeroes(heroes, { search, color, star, faction, role }, lang), sortBy, lang),
     [heroes, search, color, star, faction, role, sortBy, lang],
@@ -63,41 +45,8 @@ export function HeroCollection() {
     document.title = dict.title(player);
   }, [dict, player]);
 
-  async function importProfile(file: File) {
-    try {
-      const { player: rawPlayer, heroDict } = extractFromProfileDump(await readJsonFile(file));
-      if (!heroDict) {
-        setStatus({ kind: 'err', text: dict.uploadNoHeroes });
-        return;
-      }
-      const today = new Date().toISOString().slice(0, 10);
-      const nextPlayer = rawPlayer ? toPlayerInfo(rawPlayer, today) : null;
-      setUploads((prev) => ({ ...prev, heroDict, player: nextPlayer ?? prev.player }));
-      setStatus({
-        kind: 'ok',
-        text: dict.uploadOk(Object.keys(heroDict).length, (nextPlayer ?? uploads.player)?.name ?? ''),
-      });
-    } catch {
-      setStatus({ kind: 'err', text: dict.uploadBadJson });
-    }
-  }
-
-  async function importConfig(file: File) {
-    try {
-      const nameMap = extractNameMapFromConfig(await readJsonFile(file));
-      if (!nameMap) {
-        setStatus({ kind: 'err', text: dict.uploadBadJson });
-        return;
-      }
-      setUploads((prev) => ({ ...prev, nameMap }));
-      const count = mergeHeroes(HEROES, uploads.heroDict, nameMap).length;
-      setStatus({ kind: 'ok', text: dict.uploadOk(count, uploads.player?.name ?? '') });
-    } catch {
-      setStatus({ kind: 'err', text: dict.uploadBadJson });
-    }
-  }
-
-  return (
+  // Filters live in this component, so they survive a visit to a hero page.
+  const collection = (
     <div className="min-h-screen bg-hw-bg font-sans text-hw-text">
       <header className="border-b border-hw-border bg-linear-to-br from-[#1d2130] to-[#14161c] px-8 py-6">
         <div className="flex items-start justify-between gap-4">
@@ -127,7 +76,6 @@ export function HeroCollection() {
         sortBy={sortBy}
         onSort={setSortBy}
       />
-      <UploadPanel dict={dict} status={status} onProfile={importProfile} onConfig={importConfig} />
       <main className="grid grid-cols-[repeat(auto-fill,minmax(260px,1fr))] gap-3.5 px-8 py-6">
         {visible.length === 0 ? (
           <p className="col-span-full p-10 text-center text-hw-dim">{dict.emptyMsg}</p>
@@ -137,4 +85,18 @@ export function HeroCollection() {
       </main>
     </div>
   );
+
+  return (
+    <Routes>
+      <Route
+        path="/hero/:id"
+        element={<HeroRoute heroes={heroes} dict={dict} lang={lang} onLang={setLang} />}
+      />
+      <Route path="*" element={collection} />
+    </Routes>
+  );
+}
+
+function HeroRoute(props: Omit<ComponentProps<typeof HeroPage>, 'heroId'>) {
+  return <HeroPage heroId={Number(useParams().id)} {...props} />;
 }

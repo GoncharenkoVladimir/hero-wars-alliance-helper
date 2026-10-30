@@ -1,7 +1,8 @@
-import { render, screen } from '@testing-library/react';
+import { screen } from '@testing-library/react';
+import { renderWithRouter } from '@/test-utils/renderWithRouter';
 import App from './App';
 
 test('renders the hero collection', () => {
-  render(<App />);
-  expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent('Колекція героїв — Kragen');
+  renderWithRouter(<App />);
+  expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent('Hero Collection — Kragen');
 });

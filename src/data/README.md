@@ -10,6 +10,7 @@
 | `game-data.sanitized.json` | так | Санітизований дамп: білий список блоків, без облікових даних, id псевдонімізовані (257 KB). |
 | `configs/*.json` | лише 12 потрібних | Підмножина статичних remote-конфігів гри з CDN (388 KB) + `configs/_index.json` (id індексу, хеш, URL, розмір кожного). Решта ігнорується через `.gitignore`. |
 | `heroes.json` | так | Герої для застосунку (82, формат як блок `heroes` + `name`/`nameEn`/`img`). Синхронізовано з дампом 2026-10-30 через `mergeHeroes`; для героя 78 немає `img`, а `nameEn` = `Vodrin` (транслітерація, офіційну англійську назву не перевірено). |
+| `hero-counters.json` | так | Таблиця «Best Hero Counters Quick List» з omg.rocks (80 героїв). `counters` — список варіантів; вкладений масив = комбо (`Orion + Mojo`), `raw` — оригінальний текст клітинки. `id` із `heroes.json`, `null` для невідомих (Elmir, Ninja Turtles) і категорії `AoE heroes`. Для 37 героїв є `howToCounter` (секція «How to counter <hero>»): `title`, `sectionId`, `detailsUrl` («More details»), `entries[]` з `label` (жирне ім'я контр-героя або назва зв'язки на кшталт `Way of Eternity`), `labelId`, `text` (опис) і `mentionedIds` (інші герої з тексту, без самого героя). Записи без жирного імені (Cleaver, Fafnir, Julius, Octavia, Tristan) мають `label: null`; у решти героїв `howToCounter: null`. |
 | `player.ts` | так | `INITIAL_PLAYER` (Kragen, 120, сервер 1175, дата дампа 2026-10-30). |
 
 Скрипти (корінь репо):
