@@ -25,6 +25,7 @@
     "start": "vite",
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview",
+    "decode-texture": "node scripts/decode-texture.mjs",
     "lint": "eslint .",
     "test": "vitest"
   },
