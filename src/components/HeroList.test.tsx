@@ -1,6 +1,7 @@
 import { screen, within } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import { renderWithRouter } from '@/test-utils/renderWithRouter';
+import { HEROES } from '@/lib/heroes';
 import { HeroCollection } from './HeroCollection';
 
 beforeAll(() => {
@@ -10,8 +11,8 @@ beforeAll(() => {
 test('lists every hero without any player stats', () => {
   renderWithRouter(<HeroCollection />);
   expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent('All heroes');
-  expect(screen.getAllByRole('listitem')).toHaveLength(82);
-  expect(screen.getByText('82 heroes')).toBeInTheDocument();
+  expect(screen.getAllByRole('listitem')).toHaveLength(HEROES.length);
+  expect(screen.getByText(`${HEROES.length} heroes`)).toBeInTheDocument();
   expect(screen.queryByText(/Power/i)).not.toBeInTheDocument();
   expect(screen.queryByText(/Level/i)).not.toBeInTheDocument();
 });

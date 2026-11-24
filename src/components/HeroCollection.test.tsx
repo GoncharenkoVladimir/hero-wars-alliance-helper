@@ -1,11 +1,12 @@
 import { screen } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import { renderWithRouter } from '@/test-utils/renderWithRouter';
+import { HEROES } from '@/lib/heroes';
 import { HeroCollection } from './HeroCollection';
 
 test('renders every hero, sorted by power', () => {
   renderWithRouter(<HeroCollection />, '/my-heroes');
-  expect(screen.getAllByRole('article')).toHaveLength(82);
+  expect(screen.getAllByRole('article')).toHaveLength(HEROES.length);
   expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent('Hero Collection — Kragen');
 });
 

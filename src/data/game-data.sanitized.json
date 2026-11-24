@@ -6,18 +6,18 @@
     "response": {
      "gameTimeShift": "02:00:00",
      "index": {
-      "id": "trunk:0.847.0:1793232000::en",
+      "id": "trunk:0.991.0:1795507200::en",
       "configs": {
        "renderBudget": {
         "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/renderBudget/c262c7e87e994dabc314fc105da30dcf.json",
         "preload": false
        },
        "newbieGiftsSettings": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/newbieGiftsSettings/1a536f27baac17f5eda8f90cd8eb5e22.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/newbieGiftsSettings/e78de9a253a9396c8c871c4b0676227e.json",
         "preload": true
        },
        "battlepassView": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battlepassView/a6a9298031038168de20389801cecb68.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battlepassView/7a7437c6b5fbaa7f06848d2fed874c9e.json",
         "preload": false
        },
        "gachaChest": {
@@ -25,7 +25,11 @@
         "preload": false
        },
        "building": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/building/6079f8c3c425fbbef1d81bc09c925533.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/building/3c471c298931f782688e0f13987cfe87.json",
+        "preload": false
+       },
+       "chatRules": {
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/chatRules/5baf67a8f49754ea2f1362e62ada2390.json",
         "preload": false
        },
        "squadHeroSkillLevel": {
@@ -33,7 +37,7 @@
         "preload": false
        },
        "gachaPool": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/gachaPool/47eca306e4e417dfd1b13b16cebd3cf4.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/gachaPool/9f6d738b696dfaaf1579ecfa1091afba.json",
         "preload": false
        },
        "clanVersusLeagues": {
@@ -41,7 +45,7 @@
         "preload": false
        },
        "selectableOfferView": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/selectableOfferView/9753a3c8b87582837014bee05b475e3b.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/selectableOfferView/eff6d863b4e7a984cf73ae82d890f433.json",
         "preload": false
        },
        "clanVersusBattles": {
@@ -53,31 +57,31 @@
         "preload": false
        },
        "startPopup": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/startPopup/3cde7b60f2e846dc8f9e6e4d40451a1d.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/startPopup/777f04b726c4a19e430466616c5c6570.json",
         "preload": false
        },
        "gachaWheelView": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/gachaWheelView/63de1dc77671e44a76aa7558a5cf60ba.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/gachaWheelView/9cb848aaf62ab053e15ba216907ac218.json",
         "preload": false
        },
        "clanClashDescription": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/clanClashDescription/dbe459fc11fe7c655e3b063ffa178e55.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/clanClashDescription/bc4c6c7ba6168513e21f8ddb737dbf28.json",
         "preload": false
        },
        "clanClashFaction": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/clanClashFaction/9e0492269111ad4bc4881628605686b6.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/clanClashFaction/c687c8cde3b56b8ce2a4946d93d46c51.json",
         "preload": false
        },
        "globalMapCamp": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapCamp/f45fde890a6683ceef09053f5b636c0b.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapCamp/8f71dc35d366af306f6f00da1a318906.json",
         "preload": false
        },
        "outpostMapSlot": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/outpostMapSlot/5a3c15c4e45bc9c511d6a9b8f225b4bc.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/outpostMapSlot/348a6fd5f8f99e3a58856f617db98bbb.json",
         "preload": false
        },
        "resourcePreset": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/resourcePreset/a177041f9278664f07be6135f42c64d0.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/resourcePreset/e0ef26c9b239a96bee46c3c1bc91f159.json",
         "preload": false
        },
        "bankOffer": {
@@ -129,7 +133,7 @@
         "preload": false
        },
        "liveOpsSettings": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/liveOpsSettings/c7a6ab3a6c02f809c6d8f763b6ba3439.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/liveOpsSettings/ec59932eb83956220ba3f6860028d932.json",
         "preload": false
        },
        "buildingInitial": {
@@ -145,31 +149,35 @@
         "preload": false
        },
        "fortress": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortress/77a7d10fe1d3ac8d9875f5c2b4ab752e.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortress/b5d0f143cbf24b027e39ac2fe99dc751.json",
         "preload": false
        },
        "selectableOffer": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/selectableOffer/8f9de0e2e8661f0e3ba0df1f82ed67b8.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/selectableOffer/34f7decbc7419c2dcd39c743596b27ef.json",
         "preload": false
        },
        "hero": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/hero/0b87a6e1caacbff06871b9763a17d687.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/hero/e6ab3e437a78a575269cdc835de41220.json",
         "preload": false
        },
        "gacha": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/gacha/97e3717253b3d92ca0e335df4e45d0bf.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/gacha/7216cad60769f9fd4f321bd2c5504235.json",
         "preload": false
        },
        "bundleCarouselBundleView": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/bundleCarouselBundleView/551ecc9ba2f46073f294e180dc1cd94c.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/bundleCarouselBundleView/c11a030bbd479e8e50e21acca7c8fe2a.json",
         "preload": false
        },
        "heroBattleStat": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/heroBattleStat/43b2a0610b6d6c389c33f1e072882eff.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/heroBattleStat/b479bef34f0b43c444a7024a42206944.json",
+        "preload": false
+       },
+       "unitTrainingUnlockView": {
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/unitTrainingUnlockView/d75d339559f98a57e5456eb3b4324371.json",
         "preload": false
        },
        "clanVersusCommonConfig": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/clanVersusCommonConfig/b560a356ec98a395d5986ac2f1c899fa.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/clanVersusCommonConfig/28bb3cbaf8d922e9f35c793e131e3b46.json",
         "preload": false
        },
        "squadSetting": {
@@ -177,23 +185,23 @@
         "preload": false
        },
        "unitTraining": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/unitTraining/eab91bad1476a3757fc8705f50a37179.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/unitTraining/b9ce751e3ffb13de3d4015dda1a24076.json",
         "preload": false
        },
        "globalMapMobSettings": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapMobSettings/a0240ae4dfba091552659f21efa76b9d.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapMobSettings/8aa79c7fe0efbd32af74ba6542a887d4.json",
         "preload": false
        },
        "selectableOfferCells": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/selectableOfferCells/125835fa578def3e9d15fa319574ae29.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/selectableOfferCells/a31814225c0277302b51e292e4a2ce04.json",
         "preload": false
        },
        "globalMapMobRallySearchView": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapMobRallySearchView/3ce244b4f77a2f870b84f1da1e95d394.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapMobRallySearchView/292a6ce29a4f63f8dca71693743fc74a.json",
         "preload": false
        },
        "gachaAdvancedCost": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/gachaAdvancedCost/9ee3d9bd65061d3b75a674e87fcedf02.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/gachaAdvancedCost/9a96dacb0eda85dd92edda5d7f795664.json",
         "preload": false
        },
        "globalMapSpawn": {
@@ -204,12 +212,16 @@
         "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/clanVersusLeaguesIdent/854b6d8dedfe0bea1943716e7b267762.json",
         "preload": false
        },
+       "buildingViewOverride": {
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/buildingViewOverride/007f2fc45fd0b87fef183d518929daaf.json",
+        "preload": false
+       },
        "oldBankOffer": {
         "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/oldBankOffer/6b4b800cea8137c56b448621e2c228b8.json",
         "preload": false
        },
        "globalMapRouteSpeed": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapRouteSpeed/bf274ee69395a819c4ff918a55ee9c29.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapRouteSpeed/17a729b2ad861031cc743acf709ba00e.json",
         "preload": false
        },
        "speedUpDurationCost": {
@@ -224,12 +236,16 @@
         "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/bankOfferView/87f670f12db6d1f868a000665494745b.json",
         "preload": false
        },
+       "battlepassTrackResourceView": {
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battlepassTrackResourceView/856b9c91a66760cd7a2ba919ecb2ffbe.json",
+        "preload": true
+       },
        "globalMapMineView": {
         "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapMineView/1b203c81fc9688710909bad3163d75ae.json",
         "preload": false
        },
        "fortressEventFortUnlockSchedule": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressEventFortUnlockSchedule/a1dcd067842c0b8554f821b196e44845.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressEventFortUnlockSchedule/3cebf7d2ccb178219e4f707f7972a2b9.json",
         "preload": false
        },
        "heroChestRollLotView": {
@@ -237,7 +253,7 @@
         "preload": false
        },
        "singleOffer": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/singleOffer/e7c39ad628304d465f3e500741dfdb46.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/singleOffer/d1af213db488e6e61d03b0461040d76c.json",
         "preload": false
        },
        "subscriptionHubGroupView": {
@@ -249,7 +265,7 @@
         "preload": false
        },
        "seasonPopup": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/seasonPopup/f20f6c3e7f62d96a890653766d1a0f1e.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/seasonPopup/47c36a8bd830017e4806d034e8a146ed.json",
         "preload": false
        },
        "globalMapFortress": {
@@ -261,7 +277,7 @@
         "preload": false
        },
        "buildingConstructionSite": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/buildingConstructionSite/3ad040937b441fa85375c44134c9a6fa.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/buildingConstructionSite/b54292daf235f4f2c70abc2622f54636.json",
         "preload": false
        },
        "globalMapRoutePresetByObjectType": {
@@ -277,15 +293,15 @@
         "preload": false
        },
        "globalMapMobRally": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapMobRally/4a3a6b4b20ba7c5a1dab9c073c940eaf.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapMobRally/e479e406c437cf5ce3766194f94ae855.json",
         "preload": false
        },
        "battleStatHeroFactionBonusType": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battleStatHeroFactionBonusType/10b1f82c2e10f308f2989507491a1219.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battleStatHeroFactionBonusType/8e6acc74ee6b137ca8b92d55491a5fcd.json",
         "preload": false
        },
        "globalMapMobView": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapMobView/805f16a1336ad0c3a14cd9a087bf0e77.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapMobView/a5975fbeb99f9586f7606ee881b5d78c.json",
         "preload": false
        },
        "squadBattleHeroStarBonus": {
@@ -293,11 +309,15 @@
         "preload": false
        },
        "fortressPresidentPosts": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressPresidentPosts/9b2802fe9527248f309ab00af00eac4c.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressPresidentPosts/32bb21fd64041f9703d784b3203b72e2.json",
         "preload": false
        },
        "fortressGuard": {
         "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressGuard/a659545c4c65a5c01f138ce727caf67b.json",
+        "preload": false
+       },
+       "globalMapRouteSpeedUpSettings": {
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapRouteSpeedUpSettings/af546f3f1814c62099b4334e4894ba94.json",
         "preload": false
        },
        "townGateMinigames": {
@@ -309,7 +329,7 @@
         "preload": false
        },
        "subscriptionHub": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/subscriptionHub/0938330c1f4df7d2817f005018424de4.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/subscriptionHub/40d06df30fc89c680c1e32c61b77361f.json",
         "preload": false
        },
        "globalMapPartPlacement": {
@@ -317,7 +337,7 @@
         "preload": false
        },
        "rulesScreenPresets": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/rulesScreenPresets/c98f8ab7ebeffcba9c10e1216fbfaec3.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/rulesScreenPresets/a50897889f48162884de1779d04bada2.json",
         "preload": false
        },
        "playerEmailCollect": {
@@ -333,7 +353,7 @@
         "preload": false
        },
        "gachaPoolReward": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/gachaPoolReward/1b97e855b7f395686c55a113e663b435.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/gachaPoolReward/c70fc3aa786ac563275a878699613086.json",
         "preload": false
        },
        "resourceProducingBuilding": {
@@ -353,7 +373,7 @@
         "preload": false
        },
        "fortressCaptureRewards": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressCaptureRewards/21639522cd0b7f7c55d73ddb9f5e40e9.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressCaptureRewards/8d83365e219cbec125b0a9dd72688bc8.json",
         "preload": false
        },
        "subscriptionHubPassiveBonus": {
@@ -365,15 +385,19 @@
         "preload": false
        },
        "liveOpsContextualOffers": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/liveOpsContextualOffers/15f3c3ff0c3f4ab7ecfc1f92cef3ccd0.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/liveOpsContextualOffers/633e98e9ef586b4e64dc081f38d02b39.json",
         "preload": false
        },
        "multipleHeroEvolutionEvent": {
         "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/multipleHeroEvolutionEvent/91d368205cec644311eacf22de4edbe2.json",
         "preload": false
        },
+       "battlepassTrackOffer": {
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battlepassTrackOffer/95e38707d6d5f7d0b853b9de623e475e.json",
+        "preload": false
+       },
        "globalMapMobSolo": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapMobSolo/7bc90ab77a2c9a649c8b4ca1bdb9083f.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapMobSolo/7afd4f982f6439538036ee5d4aad3222.json",
         "preload": false
        },
        "globalMapRouteEntityView": {
@@ -393,27 +417,27 @@
         "preload": false
        },
        "subscriptionHubPeriodicReward": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/subscriptionHubPeriodicReward/f7459f2164fa61620365cec037d3dd1e.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/subscriptionHubPeriodicReward/22f6dcaee02e4d466f888783fe6818d3.json",
         "preload": false
        },
        "entrypoint": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/entrypoint/16005286e1dc5293f4bd2950a95f661c.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/entrypoint/9ea4ad5e6491d83aa26e41f98480c8e5.json",
         "preload": false
        },
        "fortressLevelView": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressLevelView/bf9153ffefae29e1925fdda9203de357.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressLevelView/299844e44a41dcb013342525e5a98b38.json",
         "preload": false
        },
        "activityCompositionSlot": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/activityCompositionSlot/691d65574a20cd48d7b8abaf3682f7a4.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/activityCompositionSlot/760227374a65bd3dd8c084f37c05325b.json",
         "preload": false
        },
        "fortressPresidentRewards": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressPresidentRewards/c93dae4abc22866e943bffcfaf350b53.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressPresidentRewards/caa72595210b76f0ae48bcd05aeb6f56.json",
         "preload": false
        },
        "buildingSlot": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/buildingSlot/f11d2289a6e85be8176ae3616090af4b.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/buildingSlot/3934d03dceeac34e9fd9f9242dae5c9e.json",
         "preload": false
        },
        "clanVersusGuildLeagueReward": {
@@ -421,7 +445,7 @@
         "preload": false
        },
        "periodicHeroOffer": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/periodicHeroOffer/6ee6edf966fb578db4bb2760f7a90bdf.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/periodicHeroOffer/04a0f1a0b1c82d1739b703ac2bc736d0.json",
         "preload": false
        },
        "fortressPresidentTimers": {
@@ -437,7 +461,7 @@
         "preload": false
        },
        "activityHub": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/activityHub/e9116b166f748e06e2bec74415bb3f49.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/activityHub/4db3e39cca4979eab96c9b7f19d6114d.json",
         "preload": false
        },
        "globalMapMarchRecall": {
@@ -461,7 +485,7 @@
         "preload": false
        },
        "ladderOfferSlot": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/ladderOfferSlot/e7acd1ed7c39ef802e85f4005d8984c0.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/ladderOfferSlot/924e2d1191909a0c0c33a7a9ef73eb4a.json",
         "preload": false
        },
        "globalMapMarchStage": {
@@ -473,11 +497,11 @@
         "preload": false
        },
        "globalMapMineSettings": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapMineSettings/85e347296135b056253ae3dd60aabbfd.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapMineSettings/e8d2dafe3ea47d147b1ff426021f4bbe.json",
         "preload": false
        },
        "selectableOfferViewSlots": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/selectableOfferViewSlots/c42f84af165bcf01a0fa27877d8e0dce.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/selectableOfferViewSlots/3de20168b36a37a71f3f4a29b9078034.json",
         "preload": false
        },
        "battleDropItems": {
@@ -485,7 +509,7 @@
         "preload": false
        },
        "battlepassPointsView": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battlepassPointsView/7e908576ad74a1a429a72c716e987e11.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battlepassPointsView/a34a490099960d17a5595741f4afe1d8.json",
         "preload": true
        },
        "guaranteedOffer": {
@@ -501,15 +525,15 @@
         "preload": false
        },
        "buildingView": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/buildingView/b3576888233ba016c0101f3de769edea.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/buildingView/51996bf44041ed8be635ea205cae0440.json",
         "preload": false
        },
        "selectableOfferSlots": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/selectableOfferSlots/9c639da66846c1569491bad493af54fc.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/selectableOfferSlots/8a6fc8e5156b98957e9aa1a63cda87d0.json",
         "preload": false
        },
        "fortressEventDescription": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressEventDescription/b7148d54add86d92e45d97ead8759416.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressEventDescription/1d6ca535540cc57e5c4d2857a6fd8dcf.json",
         "preload": false
        },
        "gachaChestInfoView": {
@@ -517,11 +541,11 @@
         "preload": false
        },
        "bundleCarouselView": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/bundleCarouselView/649c1f93564d82d97c2779e05d4cc1e0.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/bundleCarouselView/1d160d9307da831830f0ebe06aedec4e.json",
         "preload": false
        },
        "resourceView": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/resourceView/aefbd8de791361677f7374f290362d72.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/resourceView/3d659fe9763369d84a474aa73352192e.json",
         "preload": false
        },
        "battleDropTables": {
@@ -549,7 +573,7 @@
         "preload": false
        },
        "ladderOfferSlotItem": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/ladderOfferSlotItem/01115b82a79f55da8dd8552c6cad756b.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/ladderOfferSlotItem/f0d5e336415cb9bff20286b878c054db.json",
         "preload": false
        },
        "speedUpResearch": {
@@ -557,11 +581,11 @@
         "preload": false
        },
        "fortressFeatureFlags": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressFeatureFlags/abcfb25b163f99e93ee9ac0860a7abc9.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressFeatureFlags/a822b4e1e49e39187b6a48218f749ed2.json",
         "preload": true
        },
        "battlepassReward": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battlepassReward/ab4ed4415803179b2bfa967577dcee56.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battlepassReward/112bb525b5b3b3b55fb46ec0dcca14c3.json",
         "preload": false
        },
        "clanVersusTranslations": {
@@ -569,23 +593,23 @@
         "preload": false
        },
        "questGuideViewPriority": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/questGuideViewPriority/5012697a4e725b0acf7dce332106eac0.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/questGuideViewPriority/347c471523f74eae6aa0782be9bdd553.json",
         "preload": false
        },
        "outpostGarrisonWallSettings": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/outpostGarrisonWallSettings/ebf4b3028bc25f1865eca6bc01778dea.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/outpostGarrisonWallSettings/03174aa4268cc5c9e6bf240aae6721aa.json",
         "preload": false
        },
        "battlepassEndlessReward": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battlepassEndlessReward/146d698a0e2915f9ca496850cd6b743b.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battlepassEndlessReward/e596b08dc20fc8193c82998e87bb86ff.json",
         "preload": false
        },
        "buildingDecoration": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/buildingDecoration/fb89ce193a01edcd0165b0683849b19b.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/buildingDecoration/9cf0f1c1665dd8c872e7ea6ff40df767.json",
         "preload": false
        },
        "specialQuestEventView": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/specialQuestEventView/08dae4fade55f7a459a05a8f3a9ff0ce.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/specialQuestEventView/5f4259b4ed335a933be8b224c038acaf.json",
         "preload": false
        },
        "unitHealingLogic": {
@@ -593,7 +617,7 @@
         "preload": false
        },
        "promoLink": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/promoLink/a08cfd6ded24004cf228b8256e2c12f6.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/promoLink/65c932e662f9745212d835d6dffb181a.json",
         "preload": false
        },
        "clanVersusChests": {
@@ -605,7 +629,7 @@
         "preload": false
        },
        "webshopRule": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/webshopRule/3b08515886c4cf5180d27cbddfebfa81.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/webshopRule/cf216fa1b2a10ebd3ad01c0b8e05e842.json",
         "preload": false
        },
        "globalMapMine": {
@@ -613,7 +637,7 @@
         "preload": false
        },
        "battleStatBonusesByBonusType": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battleStatBonusesByBonusType/5c0091a0eaf9917642b9cb2f01f965a1.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battleStatBonusesByBonusType/734827b57cbc35c82a988eb5faf9643e.json",
         "preload": false
        },
        "achievementStoreMapping": {
@@ -637,8 +661,12 @@
         "preload": false
        },
        "clanVersusRounds": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/clanVersusRounds/b43f2d5e8e3cc37d3ca9bef19888e6d3.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/clanVersusRounds/1165227588f16fc13179d69356be13b2.json",
         "preload": false
+       },
+       "battlePreset": {
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battlePreset/583403622a08e46dfccc37a45f63de79.json",
+        "preload": true
        },
        "refillableResource": {
         "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/refillableResource/d1c4aa4d0df38068cf7b1330a257f745.json",
@@ -649,7 +677,7 @@
         "preload": false
        },
        "material": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/material/20ed75b1f26873cc37278c72eca55d50.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/material/9ad35d94da3a4d840d63a179cad2e926.json",
         "preload": false
        },
        "globalMapMineSyncSettingsView": {
@@ -665,11 +693,11 @@
         "preload": false
        },
        "ladderOfferSingleView": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/ladderOfferSingleView/1143978863d6c0301b3bb4109a92a9dd.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/ladderOfferSingleView/1dde48fc756ed62a44b1632347399758.json",
         "preload": false
        },
        "clanVersusChallenge": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/clanVersusChallenge/bff167054486b008e56f8ec9040d39e0.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/clanVersusChallenge/ce95ce84574a73b737fa0d2a5d0e0244.json",
         "preload": false
        },
        "bankOfferSlots": {
@@ -689,15 +717,19 @@
         "preload": false
        },
        "predefinedSquad": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/predefinedSquad/a9b3fbcba9bb649c2ea354ce3ce38360.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/predefinedSquad/fa93276a9d8a7eba85bde9fbc80e56e9.json",
+        "preload": false
+       },
+       "buildingGroups": {
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/buildingGroups/b162ee6b573557025b7197f7b9fab53a.json",
         "preload": false
        },
        "subscriptionHubView": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/subscriptionHubView/6bdec9a2e815489f8a47213074b8838f.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/subscriptionHubView/73d99f9faadcccd2803e2d64c769acd7.json",
         "preload": false
        },
        "artifact": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/artifact/3231f98546da038f74aa095ba3673f22.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/artifact/33be9cac993a8d70c3e9a891611cba9e.json",
         "preload": true
        },
        "unitsCapacityBonusMap": {
@@ -717,11 +749,11 @@
         "preload": false
        },
        "quest": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/quest/c4f4ae7c2dce7c9be7c2e4f24dd1dc37.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/quest/120755cd1a3e2679762044fdd09871e7.json",
         "preload": false
        },
        "exchange": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/exchange/1909f85916a71780a7f2296e6ea12d28.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/exchange/2b21bb2b3852bb40376c6b0c668535f6.json",
         "preload": false
        },
        "globalMapView": {
@@ -733,7 +765,7 @@
         "preload": false
        },
        "battlepassMain": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battlepassMain/4a85993078eb61e02d97e1cfbe7aadeb.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battlepassMain/3f127b4c3d4d5421d241bb2a9caed097.json",
         "preload": false
        },
        "speedUpConstruction": {
@@ -745,19 +777,23 @@
         "preload": false
        },
        "battleFeatures": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battleFeatures/a5d2fdb6fdf3c4f24aab61bcce64c994.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battleFeatures/707022edcf1376b04335c4710e47987f.json",
         "preload": true
        },
+       "chatSystemMessageRoleColors": {
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/chatSystemMessageRoleColors/17212aa1f5292de83aace22ae2e31ded.json",
+        "preload": false
+       },
        "offerAggregator": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/offerAggregator/9b709f495c313aa23a4414c54172d388.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/offerAggregator/a0c8ea4c5fc03edc30bb19a05c9cd898.json",
         "preload": false
        },
        "bundleArtifactReward": {
         "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/bundleArtifactReward/90f97d0d260f6552c6c706865c2c9ff1.json",
-        "preload": false
+        "preload": true
        },
        "ladderOffer": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/ladderOffer/93899d44bb30a23f51f08a40a79b5146.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/ladderOffer/e5279b53c88aaee473df76c8750e34a1.json",
         "preload": false
        },
        "outpostViewSettings": {
@@ -769,7 +805,7 @@
         "preload": false
        },
        "assetView": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/assetView/bafa339a1b6a3dac7cd92292227ccae6.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/assetView/f27585a3cb6dca65cff5b0003fac2702.json",
         "preload": false
        },
        "luckyChestLevel": {
@@ -777,7 +813,7 @@
         "preload": false
        },
        "globalMapOutpostSettings": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapOutpostSettings/90d19ede6a646ce153498cc5c88ead1d.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapOutpostSettings/eb815f5dd7e0f4a0dd397f9ae8587a94.json",
         "preload": false
        },
        "buildingType": {
@@ -785,19 +821,23 @@
         "preload": false
        },
        "featureFlags": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/featureFlags/67318d9e6149b0466d57b8f395ac770a.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/featureFlags/7e879e5822e33f584b318abf4de9a542.json",
         "preload": true
+       },
+       "battlegroundView": {
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battlegroundView/530541dd60d006a9a6455e79ed02fd6c.json",
+        "preload": false
        },
        "questDelayedRequestSettings": {
         "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/questDelayedRequestSettings/98d54a95d2ec6070b0ebe35d4705cb5a.json",
         "preload": false
        },
        "personalResearchTypeLocked": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/personalResearchTypeLocked/92d1f8fc7da664f7d734e1c1867df90f.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/personalResearchTypeLocked/3f0a6fdc9add381e4a8cf654f27747d2.json",
         "preload": false
        },
        "offerAggregatorSlot": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/offerAggregatorSlot/f42331d2a10743f06aab361dff9aca6e.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/offerAggregatorSlot/ba43ad980e8bd0a00e6c41b0849cfef3.json",
         "preload": false
        },
        "artifactType": {
@@ -805,7 +845,7 @@
         "preload": true
        },
        "fortressLevel": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressLevel/5546ad2c82c42ec6a72e09f2613f34fb.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressLevel/c9f43d21755ab36b354e4683d5a61956.json",
         "preload": false
        },
        "heroChestStartRewardInfoPopup": {
@@ -817,19 +857,23 @@
         "preload": false
        },
        "artifactBattleEffect": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/artifactBattleEffect/f7845fb43218a6d0ea39a0451cc4d417.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/artifactBattleEffect/7ca3af930c5c0534b830a4fa0b2909c4.json",
         "preload": true
        },
        "battlepassTrack": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battlepassTrack/58330d59f62871e62a7f4c00fc9cc1d2.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battlepassTrack/bb16a1a818488216d7c79f782101e771.json",
         "preload": false
        },
        "clanClashCycleRewards": {
         "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/clanClashCycleRewards/e9fcfa981a4a1f8c82e74308813891b8.json",
         "preload": false
        },
+       "heroFactionByHero": {
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/heroFactionByHero/c173c374317d2e2ca85da2664d0d762f.json",
+        "preload": true
+       },
        "coin": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/coin/ee88fc4005cc0f0a049648cc7a4ca9d7.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/coin/e78739c071e5da536db4605d6608c1f0.json",
         "preload": true
        },
        "buildingHeroLevel": {
@@ -853,15 +897,19 @@
         "preload": false
        },
        "buildingRequirementsReward": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/buildingRequirementsReward/01b2c8ad46a2a2cdefc1bc61bac4f9a5.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/buildingRequirementsReward/6e04f08555d8dda7bf0fbbb507649340.json",
+        "preload": false
+       },
+       "fortressCapitalWarsSchedule": {
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressCapitalWarsSchedule/a3ac15b827c5889405730951a278184b.json",
         "preload": false
        },
        "activityComposition": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/activityComposition/731b1f511f82d359455ba65f26a1b78f.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/activityComposition/d7d36cd4d23630681e9f41e7eff268d5.json",
         "preload": false
        },
        "eventHubPopup": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/eventHubPopup/51858fcf8f70745f1a58a26a80318dd4.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/eventHubPopup/a68fcfd7ee9271d07eb7722a29c0dc12.json",
         "preload": false
        },
        "residentOutpostZone": {
@@ -873,7 +921,7 @@
         "preload": false
        },
        "clanVersus": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/clanVersus/8f5d6b8c819d90680d993f1fa9b934af.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/clanVersus/34b00789b99ebcdc991eb728c36aea1f.json",
         "preload": false
        },
        "globalMapRoute": {
@@ -881,19 +929,19 @@
         "preload": false
        },
        "purchasedResource": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/purchasedResource/0dc5827e9142fb9c23fd4c02e389b16d.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/purchasedResource/c842fc52235403990285e81b12bf23e5.json",
         "preload": false
        },
        "legacyHeroChestRule": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/legacyHeroChestRule/96a5880e9f0d86f69d937774fae49c5f.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/legacyHeroChestRule/8ca352bc817b2c3a8c386ec1d584cc43.json",
         "preload": false
        },
        "battleConfig": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battleConfig/1ac639b6c522aaffce24bbd94f2e4b2a.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battleConfig/a4b3bfd115d0c4669eb71af143a0df68.json",
         "preload": true
        },
        "fortressView": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressView/4e63a0df6493e8621affb31a69f5035d.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressView/d0f8ac7d56d10922d8a4f471a90792d8.json",
         "preload": false
        },
        "navigationGuard": {
@@ -909,7 +957,7 @@
         "preload": false
        },
        "entryPointSchedule": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/entryPointSchedule/cdb1c074cafdd50d95f1b2366eedf3ed.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/entryPointSchedule/baf45523a9c38c8b21965bc4b7cd46a4.json",
         "preload": false
        },
        "fortressRatingRewardsType": {
@@ -929,7 +977,7 @@
         "preload": false
        },
        "singleOfferView": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/singleOfferView/f54953ee42decd974fe72a2509c3e775.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/singleOfferView/ea6ce67c272379c68325ab6251cdaa7e.json",
         "preload": false
        },
        "markers": {
@@ -941,11 +989,11 @@
         "preload": false
        },
        "personalResearchType": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/personalResearchType/2e86de14b4b42786d2d2db7f848a0c3f.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/personalResearchType/9cadec04a42c496b7c649db2ed58da05.json",
         "preload": false
        },
        "outpostShieldPvpPolicy": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/outpostShieldPvpPolicy/99914b932bd37a50b983c5e7c90ae93b.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/outpostShieldPvpPolicy/59c748747f840e3cc54c8a6923b859bc.json",
         "preload": false
        },
        "globalMapSortingGroups": {
@@ -957,7 +1005,7 @@
         "preload": false
        },
        "bonus": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/bonus/ea971ab94960e0606c25e03fedce1bab.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/bonus/a9a9048d06c276e43e356f96c70687a6.json",
         "preload": false
        },
        "retentionOfferRewardItem": {
@@ -969,7 +1017,7 @@
         "preload": false
        },
        "clanClashSettings": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/clanClashSettings/5fc1941da7259028012d7b37e2e5db63.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/clanClashSettings/5ead9009c097f4f44870e53bddf51f4e.json",
         "preload": false
        },
        "resourceSet": {
@@ -985,7 +1033,7 @@
         "preload": false
        },
        "globalMapAssetView": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapAssetView/42116941d6348923fdeb174bc849cf72.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapAssetView/5d57f2761e4133efc0068a7a73430f34.json",
         "preload": false
        },
        "globalMapOutpostView": {
@@ -993,7 +1041,7 @@
         "preload": false
        },
        "personalResearchLevel": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/personalResearchLevel/b587adca0646f9a24abf202da822c321.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/personalResearchLevel/9208cc36ee789ffb3da461d1ba325264.json",
         "preload": false
        },
        "hapticCues": {
@@ -1017,7 +1065,7 @@
         "preload": true
        },
        "questGrowth": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/questGrowth/c08aa93bb9f56d6f567c05b63175f676.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/questGrowth/86b7d02a261b2a8eeabcb059626d399c.json",
         "preload": false
        },
        "squadBattleBonusMap": {
@@ -1025,7 +1073,7 @@
         "preload": false
        },
        "selectableOfferRewards": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/selectableOfferRewards/96fe51bbf78af5dfd7781bd6dad9d404.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/selectableOfferRewards/4833035321153e7e06f431b37208a9e3.json",
         "preload": false
        },
        "globalMapCampBattleSetting": {
@@ -1037,7 +1085,7 @@
         "preload": false
        },
        "skill": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/skill/e5170283e567035ffc64c34ad7264ff2.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/skill/7095c1dd1dd71f8309ecc2f6ab63be98.json",
         "preload": true
        },
        "speedUpUniversal": {
@@ -1052,6 +1100,10 @@
         "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/unitHealing/7bb1bceb5515df43ecf378d584c94e21.json",
         "preload": false
        },
+       "battlepassFallbackOffer": {
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battlepassFallbackOffer/8593c9096c6644387d5fa79e2e3f30ef.json",
+        "preload": false
+       },
        "achievement": {
         "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/achievement/6f55269ec0090f0e6b1f830994c41ad1.json",
         "preload": false
@@ -1061,15 +1113,15 @@
         "preload": false
        },
        "bundleSinglePageView": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/bundleSinglePageView/443b7cb64d013b383ec89f27b7e2a07a.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/bundleSinglePageView/d6eef3c77c009cc57ab4dc12ad5f6e49.json",
         "preload": false
        },
        "battleUnit": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battleUnit/e48747c3931aff33509484623800923c.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battleUnit/db6f35b627bf4eaf850542319848ac8c.json",
         "preload": true
        },
        "battlepassLevel": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battlepassLevel/e930f552b460280e172949b62c996684.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battlepassLevel/0116acd3d8d253ca23e96aa7ea36f4cd.json",
         "preload": false
        },
        "clanClashStateType": {
@@ -1089,7 +1141,7 @@
         "preload": false
        },
        "wendysGiftView": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/wendysGiftView/20c920bf994d3dd8a9223137ef4ab6df.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/wendysGiftView/5b05618937d6c77b75e916312f2cbf35.json",
         "preload": false
        },
        "serverDay": {
@@ -1097,7 +1149,7 @@
         "preload": false
        },
        "outpostShield": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/outpostShield/99914b932bd37a50b983c5e7c90ae93b.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/outpostShield/845c02a438e290a2271441c63c649d09.json",
         "preload": false
        },
        "unitSkillView": {
@@ -1105,7 +1157,7 @@
         "preload": false
        },
        "patronSkill": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/patronSkill/113c0b743024ef89aeeb7dc827cea3a1.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/patronSkill/f5c1d2b239a670a22f83f9861432aeaf.json",
         "preload": true
        },
        "squadBattlePowerArmyByStat": {
@@ -1113,7 +1165,7 @@
         "preload": false
        },
        "personalResearch": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/personalResearch/425c231329ff4019db45b26d11344492.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/personalResearch/8620ff90333563e4f527f07d933a5a33.json",
         "preload": false
        },
        "globalMapMobSyncSettingsView": {
@@ -1125,11 +1177,11 @@
         "preload": false
        },
        "battleEffect": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battleEffect/1f4102454f20c8b0ad4d542cbbed43d1.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battleEffect/d90aa3073b91d6207e5e17a62f49ee57.json",
         "preload": true
        },
        "dataStorageMode": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/dataStorageMode/88ade5bc7cf51b33c0fbdbc1469efc56.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/dataStorageMode/02e0a2dd248583f99a83e0acfadc8286.json",
         "preload": true
        },
        "squadBattleAdvantageSetting": {
@@ -1145,7 +1197,7 @@
         "preload": false
        },
        "buildingLevel": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/buildingLevel/8f8820e1d76bbfa899e8bdf9241880bf.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/buildingLevel/715119c171b3b7edddbc6d228d07dda2.json",
         "preload": false
        },
        "fortressRatingRewards": {
@@ -1153,15 +1205,15 @@
         "preload": false
        },
        "liveOpsNavigation": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/liveOpsNavigation/d01d05f2ecee0bb4f4ba78b16b16a074.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/liveOpsNavigation/8d2d8827ef4b3d0023c4bd2f6c240c20.json",
         "preload": false
        },
        "questChain": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/questChain/4e537811d46f654c83a57dbc79bf7ee0.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/questChain/a6a5a0ce192702e3fcf8973fd69dfe2b.json",
         "preload": false
        },
        "techConfig": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/techConfig/cdd252c472be38c006267d5ed6c8138f.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/techConfig/a9db8d3049bf54704b920411789be14c.json",
         "preload": true
        },
        "lootboxChanced": {
@@ -1173,11 +1225,11 @@
         "preload": false
        },
        "directCheckoutConfig": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/directCheckoutConfig/0c3d96f4220a8b38f5010762fbacfa4d.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/directCheckoutConfig/0f794892c5c3a308887a7cc29e79f3c7.json",
         "preload": false
        },
        "questCondition": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/questCondition/77aaa411dcaed96d34387d51ce95a4e3.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/questCondition/eb7e3429ed327050a9f273c97cc5fee4.json",
         "preload": false
        },
        "unit": {
@@ -1185,11 +1237,7 @@
         "preload": false
        },
        "globalMapMobSoloSearchView": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapMobSoloSearchView/5942d5e46ba834a2710de7b22770a081.json",
-        "preload": false
-       },
-       "clanVersusQuestPoint": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/clanVersusQuestPoint/212e811179d115717e4a1ef7bf332d6e.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapMobSoloSearchView/e45b585673698cf08b2ae7bf82551541.json",
         "preload": false
        },
        "playerEmailCollectStateFlow": {
@@ -1205,7 +1253,7 @@
         "preload": false
        },
        "fortressSettings": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressSettings/65a536adca967956b73b7541d520b5b4.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressSettings/b4d7ba2c603f44ab6b11eb1380dec3bf.json",
         "preload": false
        },
        "heroClass": {
@@ -1217,7 +1265,7 @@
         "preload": false
        },
        "globalMapBlockedTiles": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapBlockedTiles/d2a78537fdb876ba5c5b27a939b742b6.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/globalMapBlockedTiles/7135f6006e3b7cbcf916fa9b1ec95b6d.json",
         "preload": false
        },
        "globalMapCampSpawnView": {
@@ -1225,7 +1273,7 @@
         "preload": false
        },
        "battlepass": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battlepass/201cf11b4c5f7fc79b204a419f0339df.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battlepass/396e141917335663a61297ff7b1012cd.json",
         "preload": false
        },
        "clanClashStateDescription": {
@@ -1245,7 +1293,7 @@
         "preload": false
        },
        "bonusType": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/bonusType/e1e6bca201ba516f6b01d9ad63859242.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/bonusType/a1d95758af6a22cd9bd86616a191a648.json",
         "preload": false
        },
        "clanClashBooster": {
@@ -1265,23 +1313,27 @@
         "preload": false
        },
        "guaranteedOfferView": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/guaranteedOfferView/9c342cf2d87c18cfba4eac1ddc603c66.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/guaranteedOfferView/a210d01ea0b5b201935db8e67bfae04f.json",
         "preload": false
        },
        "fortressLocalization": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressLocalization_en/c32b640ea35034aed48458d3cf678d32.json",
-        "preload": false
-       },
-       "legacyLocalization": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/legacyLocalization_en/522d0d63475e1233681e1f9bf64da295.json",
-        "preload": true
-       },
-       "battlepassLocalization": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battlepassLocalization_en/35946b035128ca45be62391cc8d85b72.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/fortressLocalization_en/72e34145f7aa16aeed23369822e7e2a3.json",
         "preload": false
        },
        "gachaLocalization": {
-        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/gachaLocalization_en/47cab7aa2f0d85bf1add463d929d8f8f.json",
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/gachaLocalization_en/635301c729fa4e60dfe2112be8ceb787.json",
+        "preload": false
+       },
+       "strategicLocalization": {
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/strategicLocalization_en/5987ba26eadb03754697acb5494551a4.json",
+        "preload": false
+       },
+       "legacyLocalization": {
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/legacyLocalization_en/dec88d64db298099021a12c32b78487f.json",
+        "preload": true
+       },
+       "battlepassLocalization": {
+        "url": "https://hwmb-remote-config-cdn.nextersglobal.com/config/battlepassLocalization_en/89b7e23cfe7757c9e4111e7933b6f088.json",
         "preload": false
        }
       }
@@ -1296,7 +1348,7 @@
      "id": "user1",
      "accountId": "sanitized",
      "name": "Kragen",
-     "lastLoginTime": "1793350965",
+     "lastLoginTime": "1795528570",
      "serverId": "1175",
      "level": "120",
      "clanId": "clan2",
@@ -1306,328 +1358,328 @@
      "isChatModerator": false,
      "frameId": 3,
      "battleIsAllowed": true,
-     "flagId": 17,
+     "flagId": 1,
      "timeZone": 3,
-     "starMoney": 64792,
-     "vipPoints": "184040",
-     "gold": 304633418,
+     "starMoney": 108427,
+     "vipPoints": "209090",
+     "gold": 442900977,
      "refillable": [
       {
        "id": 1,
-       "amount": 16,
-       "lastRefill": 1793351539,
+       "amount": 3,
+       "lastRefill": 1795528601,
        "boughtToday": 0
       },
       {
        "id": 2,
-       "amount": 8,
-       "lastRefill": 1793351547,
+       "amount": 20,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 3,
        "amount": 1,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 4,
        "amount": 1,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 5,
        "amount": 150,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 6,
-       "amount": 0,
-       "lastRefill": 1793351684,
-       "boughtToday": 1
+       "amount": 5,
+       "lastRefill": 1795528622,
+       "boughtToday": 0
       },
       {
        "id": 7,
        "amount": 1,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 8,
        "amount": 1,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 10,
        "amount": 0,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 1
       },
       {
        "id": 11,
        "amount": 0,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 12,
        "amount": 0,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 13,
        "amount": 0,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 1
       },
       {
        "id": 14,
        "amount": 0,
-       "lastRefill": 1793351684,
-       "boughtToday": 1
+       "lastRefill": 1795528622,
+       "boughtToday": 0
       },
       {
        "id": 15,
        "amount": 0,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 1
       },
       {
        "id": 16,
        "amount": 0,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 17,
        "amount": 0,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 1
       },
       {
        "id": 18,
        "amount": 0,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 1
       },
       {
        "id": 19,
        "amount": 0,
-       "lastRefill": 1793351684,
-       "boughtToday": 3
+       "lastRefill": 1795528622,
+       "boughtToday": 0
       },
       {
        "id": 20,
        "amount": 100,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 21,
        "amount": 5,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 22,
        "amount": 0,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 23,
        "amount": 2,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 24,
        "amount": 1,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 25,
        "amount": 2,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 26,
        "amount": 1,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 27,
        "amount": 5,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 28,
        "amount": 1,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 29,
        "amount": 5,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 30,
        "amount": 1,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 31,
        "amount": 5,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 32,
        "amount": 1,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 33,
        "amount": 1,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 2
       },
       {
        "id": 34,
        "amount": 3,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 35,
        "amount": 1,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 36,
        "amount": 5,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 37,
        "amount": 0,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 1
       },
       {
        "id": 38,
        "amount": 0,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 1
       },
       {
        "id": 39,
        "amount": 1,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 40,
        "amount": 1,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 41,
        "amount": 1,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 42,
        "amount": 1,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 43,
        "amount": 1,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 44,
        "amount": 1,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 45,
        "amount": 1,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 50,
        "amount": 5,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 51,
        "amount": 0,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 52,
        "amount": 3,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 53,
        "amount": 1,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 54,
        "amount": 0,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 1
       },
       {
        "id": 55,
        "amount": 1,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 56,
        "amount": 8,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
        "id": 57,
        "amount": 0,
-       "lastRefill": 1793351684,
-       "boughtToday": 0
+       "lastRefill": 1795528622,
+       "boughtToday": 1
       },
       {
        "id": 58,
-       "amount": 63,
-       "lastRefill": 1793351449,
+       "amount": 200,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
@@ -1638,8 +1690,8 @@
       },
       {
        "id": 60,
-       "amount": 10,
-       "lastRefill": 1793351684,
+       "amount": 9,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
@@ -1651,7 +1703,7 @@
       {
        "id": 62,
        "amount": 1,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
@@ -1663,7 +1715,7 @@
       {
        "id": 65,
        "amount": 10,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
@@ -1681,7 +1733,7 @@
       {
        "id": 68,
        "amount": 5,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
@@ -1717,7 +1769,7 @@
       {
        "id": 78,
        "amount": 1,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
        "boughtToday": 0
       },
       {
@@ -1729,8 +1781,8 @@
       {
        "id": 73,
        "amount": 0,
-       "lastRefill": 1793351684,
-       "boughtToday": 0
+       "lastRefill": 1795528622,
+       "boughtToday": 1
       },
       {
        "id": 76,
@@ -1830,20 +1882,26 @@
       },
       {
        "id": 512,
-       "amount": 8,
-       "lastRefill": 1793349405,
+       "amount": 0,
+       "lastRefill": 1795397596,
        "boughtToday": 0
       },
       {
        "id": 88,
        "amount": 0,
-       "lastRefill": 1793351684,
+       "lastRefill": 1795528622,
+       "boughtToday": 0
+      },
+      {
+       "id": 513,
+       "amount": 14,
+       "lastRefill": 1795528466,
        "boughtToday": 0
       }
      ],
      "flags": "8",
      "tutorialStep": "9999",
-     "nextDayTs": 1793412000,
+     "nextDayTs": 1795572000,
      "experience": "0",
      "maxLevel": 120,
      "region": 1,
@@ -1858,249 +1916,254 @@
    "result": {
     "response": {
      "consumable": {
-      "9": 173,
-      "10": 940,
-      "11": 398,
-      "12": 445,
+      "9": 261,
+      "10": 10869,
+      "11": 5603,
+      "12": 2099,
       "14": 4,
-      "16": 1,
-      "20": 74925,
-      "24": 2960,
-      "29": 30,
-      "30": 159,
-      "31": 81,
-      "32": 122,
-      "33": 205,
-      "34": 327,
-      "35": 180,
-      "36": 77,
-      "37": 131,
-      "38": 207,
-      "39": 726,
-      "40": 256,
-      "41": 136,
-      "42": 98,
-      "43": 199,
-      "44": 55,
-      "45": 13,
-      "46": 161,
-      "51": 347,
-      "62": 23,
-      "63": 23,
-      "64": 23,
-      "65": 178,
-      "211": 6,
-      "276": 330,
+      "16": 6,
+      "20": 26625,
+      "24": 48680,
+      "29": 274,
+      "30": 225,
+      "31": 139,
+      "32": 112,
+      "33": 228,
+      "34": 303,
+      "35": 348,
+      "36": 171,
+      "37": 65,
+      "38": 195,
+      "39": 180,
+      "40": 293,
+      "41": 160,
+      "42": 134,
+      "43": 108,
+      "44": 131,
+      "45": 42,
+      "46": 53,
+      "51": 137,
+      "62": 90,
+      "63": 55,
+      "64": 103,
+      "65": 298,
+      "102": 4,
+      "210": 1,
+      "211": 5,
+      "276": 380,
       "318": 1,
-      "367": 54,
-      "410": 88,
-      "1001": 1215,
+      "367": 62,
+      "410": 105,
+      "1001": 1257,
       "40175": 4,
-      "40228": 403,
-      "40229": 5,
-      "40230": 132,
-      "40232": 2
+      "40228": 411,
+      "40229": 40,
+      "40230": 33
      },
      "gear": {
-      "1": 175,
-      "2": 127,
-      "3": 98,
-      "4": 70,
-      "5": 78,
-      "7": 141,
-      "8": 339,
-      "9": 122,
-      "10": 765,
-      "11": 132,
-      "12": 162,
-      "13": 78,
-      "14": 69,
-      "15": 107,
-      "16": 75,
-      "17": 90,
-      "21": 53,
-      "22": 120,
-      "23": 65,
-      "24": 108,
-      "25": 4,
-      "26": 40,
-      "27": 18,
-      "28": 38,
-      "29": 207,
-      "30": 212,
-      "31": 112,
-      "32": 183,
-      "47": 59,
-      "48": 40,
-      "49": 50,
-      "50": 45,
+      "1": 183,
+      "2": 134,
+      "3": 100,
+      "4": 83,
+      "5": 100,
+      "7": 149,
+      "8": 344,
+      "9": 134,
+      "10": 775,
+      "11": 137,
+      "12": 174,
+      "13": 90,
+      "14": 83,
+      "15": 117,
+      "16": 94,
+      "17": 101,
+      "21": 64,
+      "22": 129,
+      "23": 74,
+      "24": 117,
+      "25": 15,
+      "26": 49,
+      "27": 25,
+      "28": 44,
+      "29": 217,
+      "30": 226,
+      "31": 115,
+      "32": 189,
+      "33": 1,
+      "36": 2,
+      "42": 1,
+      "45": 1,
+      "46": 1,
+      "47": 62,
+      "48": 44,
+      "49": 52,
+      "50": 51,
       "55": 2,
-      "58": 4,
-      "67": 1,
+      "58": 3,
+      "67": 2,
       "77": 1,
-      "91": 17,
-      "93": 30,
-      "94": 4,
-      "95": 2,
-      "96": 2,
-      "98": 6,
-      "100": 1,
+      "91": 18,
+      "93": 42,
+      "95": 1,
+      "96": 1,
+      "98": 7,
+      "100": 2,
       "101": 1,
-      "102": 2,
-      "115": 3,
+      "102": 6,
+      "114": 2,
+      "115": 1,
       "116": 2,
-      "117": 2,
-      "119": 5,
-      "120": 1,
-      "121": 4,
+      "117": 3,
+      "119": 6,
+      "120": 2,
+      "121": 5,
       "123": 1,
       "124": 2,
-      "126": 2,
-      "168": 1,
-      "169": 1,
+      "125": 2,
+      "126": 3,
+      "167": 2,
       "171": 2,
       "174": 2,
-      "178": 1,
-      "179": 5,
-      "180": 1,
-      "183": 1,
-      "213": 1
+      "175": 1,
+      "178": 2,
+      "179": 2,
+      "180": 2,
+      "182": 2,
+      "185": 1,
+      "201": 1,
+      "208": 1
      },
      "fragmentHero": {
-      "1": 64,
+      "1": 77,
       "3": 256,
-      "4": 174,
-      "7": 138,
-      "8": 66,
-      "9": 35,
-      "11": 135,
+      "4": 184,
+      "7": 143,
+      "8": 77,
+      "9": 51,
+      "11": 145,
       "14": 28,
       "15": 58,
       "18": 4,
-      "19": 25,
+      "19": 63,
       "20": 148,
-      "22": 66,
-      "23": 46,
-      "25": 105,
-      "27": 135,
-      "30": 42,
+      "22": 69,
+      "23": 54,
+      "25": 71,
+      "27": 145,
+      "30": 55,
       "31": 25,
-      "32": 57,
-      "33": 241,
-      "34": 270,
-      "38": 24,
-      "39": 8,
-      "41": 40,
-      "42": 138,
-      "43": 43,
-      "44": 57,
-      "47": 32,
-      "52": 45,
-      "53": 28,
-      "59": 13,
-      "62": 180,
+      "32": 68,
+      "33": 246,
+      "34": 280,
+      "38": 37,
+      "39": 33,
+      "41": 43,
+      "42": 2,
+      "43": 54,
+      "44": 75,
+      "47": 48,
+      "52": 48,
+      "53": 44,
+      "62": 188,
       "63": 70,
       "73": 26,
-      "74": 128,
-      "77": 119,
-      "78": 140,
-      "504": 170
+      "77": 250
      },
      "coin": {
-      "1": 3285,
-      "2": 1049,
-      "3": 8441,
-      "4": 216495,
-      "5": 46800,
-      "8": 3830,
-      "9": 75278,
-      "10": 5395,
-      "13": 75,
-      "14": 11145,
-      "15": 710,
-      "18": 104385,
-      "19": 980,
-      "20": 34630,
-      "21": 385,
-      "22": 75185,
-      "23": 726554,
-      "105": 29943,
-      "106": 159,
-      "1010": 35,
-      "1032": 47,
-      "2006": 13315,
-      "40065": 7250,
-      "40067": 5035,
-      "40077": 153265,
-      "40078": 15320,
+      "1": 6880,
+      "2": 672,
+      "3": 8280,
+      "4": 2200,
+      "5": 62940,
+      "8": 505,
+      "9": 223,
+      "10": 10,
+      "13": 15,
+      "14": 51775,
+      "15": 460,
+      "18": 211462,
+      "19": 12135,
+      "20": 16140,
+      "21": 905,
+      "22": 86635,
+      "23": 286517,
+      "105": 27143,
+      "106": 1127,
+      "1010": 34,
+      "1032": 57,
+      "2006": 14265,
+      "40065": 9045,
+      "40067": 4890,
+      "40077": 42105,
+      "40078": 8645,
       "40141": 8,
-      "40188": 250,
-      "40192": 145,
-      "40202": 46750,
-      "40209": 13600,
-      "100011": 54400
+      "40181": 74650,
+      "40191": 189,
+      "40192": 125,
+      "40194": 10700,
+      "40202": 57000
      },
      "scroll": {
-      "141": 173,
-      "142": 149,
-      "143": 141,
-      "144": 145,
-      "145": 118,
+      "141": 182,
+      "142": 160,
+      "143": 168,
+      "144": 156,
+      "145": 122,
       "152": 2,
       "154": 1,
-      "155": 3,
+      "155": 4,
       "156": 1,
-      "157": 1,
-      "159": 1,
-      "160": 5,
-      "162": 1,
+      "157": 6,
+      "158": 1,
+      "159": 5,
+      "160": 6,
+      "161": 1,
+      "162": 5,
       "163": 1,
-      "165": 6,
-      "166": 2,
-      "190": 2,
-      "191": 1,
+      "164": 3,
+      "165": 11,
+      "166": 6,
+      "195": 1,
       "204": 1,
-      "205": 1,
       "218": 1,
-      "223": 1,
-      "285": 1
+      "222": 1,
+      "223": 1
      },
      "fragmentGear": {
-      "47": 283,
-      "48": 1634,
-      "49": 221,
-      "50": 199,
-      "56": 379,
+      "47": 293,
+      "48": 1642,
+      "49": 229,
+      "50": 209,
+      "56": 573,
       "57": 2210,
-      "58": 389,
-      "59": 1323,
-      "60": 1771,
-      "61": 5584,
-      "62": 294,
-      "74": 2788,
-      "75": 185,
-      "76": 750,
-      "77": 937,
-      "91": 145,
-      "92": 9,
-      "93": 165,
-      "94": 36,
-      "95": 13,
-      "96": 12,
-      "97": 728,
-      "98": 580,
-      "167": 30,
-      "168": 91,
-      "169": 56,
-      "170": 861,
-      "171": 1158,
-      "172": 1242,
-      "173": 1045,
-      "174": 891,
-      "175": 634,
-      "176": 688,
-      "177": 26,
-      "178": 528
+      "58": 499,
+      "59": 1479,
+      "60": 1844,
+      "61": 6450,
+      "62": 321,
+      "74": 2816,
+      "75": 311,
+      "76": 769,
+      "77": 959,
+      "91": 202,
+      "92": 86,
+      "93": 253,
+      "94": 20,
+      "95": 24,
+      "96": 22,
+      "97": 613,
+      "98": 651,
+      "167": 26,
+      "169": 112,
+      "170": 602,
+      "171": 1715,
+      "172": 1938,
+      "173": 1357,
+      "174": 1174,
+      "175": 616,
+      "176": 1015,
+      "177": 120,
+      "178": 670
      },
      "border": {
       "1": 1,
@@ -2111,236 +2174,245 @@
       "40021": 1,
       "40023": 1,
       "40024": 1,
-      "127492": 1
+      "127492": 1,
+      "127493": 1
      },
      "fragmentScroll": {
-      "146": 518,
-      "147": 645,
-      "148": 85,
-      "149": 280,
-      "150": 327,
-      "151": 1659,
-      "152": 579,
-      "153": 2451,
-      "154": 1364,
-      "155": 1362,
-      "156": 2237,
-      "157": 1071,
-      "158": 575,
-      "159": 356,
-      "160": 238,
-      "162": 34,
-      "163": 9,
-      "164": 4,
-      "165": 14,
-      "166": 519,
-      "190": 60,
-      "191": 17,
-      "192": 42,
-      "194": 14,
-      "195": 52,
-      "196": 563,
-      "197": 142,
-      "198": 138,
-      "199": 49,
-      "200": 3,
-      "204": 545,
-      "205": 333,
-      "206": 241,
-      "214": 121,
-      "215": 217,
-      "216": 78,
-      "217": 280,
-      "218": 310,
-      "219": 410,
-      "220": 230,
-      "221": 35,
-      "222": 442,
-      "223": 284,
-      "224": 847,
-      "225": 753,
-      "226": 108,
-      "227": 123,
+      "146": 874,
+      "147": 707,
+      "148": 102,
+      "149": 291,
+      "150": 356,
+      "151": 1695,
+      "152": 724,
+      "153": 2483,
+      "154": 1603,
+      "155": 1377,
+      "156": 3333,
+      "157": 1098,
+      "158": 653,
+      "159": 441,
+      "160": 283,
+      "161": 11,
+      "162": 49,
+      "163": 20,
+      "164": 7,
+      "165": 25,
+      "166": 539,
+      "191": 41,
+      "192": 122,
+      "194": 52,
+      "195": 26,
+      "196": 682,
+      "197": 503,
+      "198": 178,
+      "199": 10,
+      "200": 13,
+      "204": 325,
+      "205": 241,
+      "206": 473,
+      "214": 50,
+      "215": 15,
+      "216": 110,
+      "217": 314,
+      "218": 550,
+      "219": 570,
+      "220": 350,
+      "221": 85,
+      "222": 166,
+      "223": 311,
+      "224": 1395,
+      "225": 465,
+      "226": 129,
+      "227": 232,
       "228": 63,
-      "229": 327,
-      "230": 185,
-      "231": 140,
+      "229": 27,
+      "230": 325,
+      "231": 295,
       "232": 27,
       "233": 160,
-      "243": 105,
+      "243": 155,
       "244": 10,
       "247": 185,
       "248": 200,
-      "249": 20,
-      "250": 20,
+      "249": 45,
+      "250": 45,
       "251": 180,
-      "252": 10,
+      "252": 52,
       "253": 55,
       "254": 34,
       "255": 80,
       "256": 75,
-      "285": 374
+      "258": 25,
+      "285": 471
      },
      "fragmentArtifact": {
-      "1001": 7,
+      "1001": 9,
       "1002": 20,
-      "1003": 24,
+      "1003": 28,
       "1004": 15,
       "1005": 8,
-      "1006": 2,
-      "1007": 4,
+      "1006": 7,
+      "1007": 5,
       "1008": 9,
       "1009": 8,
-      "1010": 11,
+      "1010": 12,
       "1011": 10,
-      "1012": 6,
-      "1013": 6,
-      "1014": 7,
+      "1012": 12,
+      "1013": 8,
+      "1014": 10,
       "1015": 10,
-      "1016": 16,
-      "1017": 6,
-      "1018": 9,
-      "1019": 7,
-      "1020": 8,
+      "1016": 19,
+      "1017": 7,
+      "1018": 10,
+      "1019": 8,
+      "1020": 12,
       "1021": 6,
       "1022": 16,
-      "1023": 9,
+      "1023": 15,
       "1024": 4,
       "1025": 13,
-      "1026": 9,
+      "1026": 11,
       "1027": 113,
-      "1028": 7,
+      "1028": 8,
       "1029": 10,
       "1030": 23,
-      "1031": 5,
+      "1031": 6,
       "1032": 17,
-      "1033": 4,
-      "1034": 11,
-      "1035": 19,
-      "1036": 9,
+      "1033": 6,
+      "1034": 14,
+      "1035": 25,
+      "1036": 11,
       "1037": 2,
-      "1038": 15,
+      "1038": 17,
       "1039": 15,
       "1040": 73,
       "1041": 5,
-      "1042": 7,
+      "1042": 8,
       "1043": 13,
-      "1044": 27,
+      "1044": 30,
       "1045": 13,
-      "1046": 6,
+      "1046": 7,
       "1047": 15,
-      "1049": 26,
-      "1050": 17,
+      "1049": 29,
+      "1050": 28,
       "1051": 5,
-      "1052": 2,
-      "1053": 17,
-      "1054": 33,
-      "1055": 3,
+      "1052": 3,
+      "1053": 19,
+      "1054": 35,
+      "1055": 103,
       "1057": 7,
       "1058": 8,
       "1059": 8,
       "1060": 17,
-      "1061": 27,
+      "1061": 29,
       "1062": 17,
       "1063": 15,
       "1065": 1,
-      "1067": 7,
+      "1067": 48,
       "1068": 73,
       "1069": 112,
       "1070": 50,
       "1071": 1,
-      "1072": 9,
+      "1072": 10,
       "1073": 1,
       "1074": 2,
       "1075": 170,
-      "1076": 104,
+      "1076": 201,
       "1077": 65,
-      "1079": 999,
-      "1500": 16,
-      "1501": 2,
-      "1502": 11,
-      "1503": 6,
-      "1504": 85,
-      "2001": 21,
-      "2002": 42,
-      "2003": 1,
-      "2004": 17,
-      "2005": 7,
-      "2006": 27,
-      "2008": 3,
-      "2009": 607,
-      "2010": 5,
-      "2011": 1,
+      "1079": 1156,
+      "1500": 17,
+      "1501": 3,
+      "1502": 13,
+      "1503": 7,
+      "1504": 15,
+      "2002": 48,
+      "2003": 7,
+      "2004": 23,
+      "2005": 18,
+      "2006": 29,
+      "2007": 50,
+      "2008": 7,
+      "2009": 676,
+      "2010": 7,
+      "2011": 4,
       "2012": 75,
       "2014": 71,
-      "2015": 4,
-      "3001": 2,
-      "3002": 11,
-      "3003": 49,
-      "11001": 8250,
-      "11002": 2940,
-      "11003": 3365,
-      "11004": 4335,
-      "11005": 3800,
-      "11006": 2855,
-      "11007": 3120,
-      "11008": 11575,
-      "11009": 285,
-      "11010": 3825,
-      "11011": 3375,
-      "11012": 3750,
-      "11013": 2505,
-      "11014": 8975,
-      "11015": 3340,
-      "11016": 3785,
-      "11017": 2150,
-      "11018": 16530,
-      "11019": 15115,
-      "11020": 3895,
-      "11021": 2555,
-      "11022": 3850,
-      "11023": 3435,
-      "11024": 3645,
-      "11025": 2735,
-      "11026": 4960,
-      "11027": 9965,
+      "2015": 19,
+      "3001": 18,
+      "3002": 1,
+      "3003": 10,
+      "11001": 9180,
+      "11002": 3295,
+      "11003": 3685,
+      "11004": 4735,
+      "11005": 4310,
+      "11006": 3320,
+      "11007": 3600,
+      "11008": 12415,
+      "11009": 730,
+      "11010": 4290,
+      "11011": 3695,
+      "11012": 4105,
+      "11013": 2930,
+      "11014": 12625,
+      "11015": 3805,
+      "11016": 4235,
+      "11017": 2570,
+      "11018": 17025,
+      "11019": 15570,
+      "11020": 4210,
+      "11021": 2970,
+      "11022": 4535,
+      "11023": 3905,
+      "11024": 4035,
+      "11025": 3170,
+      "11026": 5005,
+      "11027": 9980,
       "11028": 600,
       "11029": 23150,
-      "12001": 13255,
-      "12002": 18190,
-      "12003": 14350,
-      "12004": 19005,
-      "12005": 16120,
-      "12006": 9970,
-      "13001": 18235,
-      "13002": 17315,
-      "13003": 7085,
-      "13004": 14965,
-      "13005": 2730,
-      "13006": 11420,
-      "13007": 1800
-     },
-     "fragmentTitan": {
-      "4020": 75,
-      "4034": 1417,
-      "4050": 16,
-      "4053": 1254
+      "11030": 500,
+      "12001": 15020,
+      "12002": 20440,
+      "12003": 16370,
+      "12004": 20890,
+      "12005": 18145,
+      "12006": 12015,
+      "13001": 20455,
+      "13002": 19570,
+      "13003": 9330,
+      "13004": 16785,
+      "13005": 2850,
+      "13006": 13585,
+      "13007": 3800
      },
      "patron": {
-      "1": 52,
-      "2": 26,
-      "3": 7,
-      "4": 34,
-      "5": 15,
-      "6": 9,
-      "7": 34,
-      "8": 4,
-      "13": 34,
-      "14": 32,
-      "18": 6,
-      "20": 4,
+      "1": 20,
+      "2": 33,
+      "3": 38,
+      "4": 5,
+      "5": 6,
+      "6": 47,
+      "7": 37,
+      "8": 10,
+      "9": 25,
+      "13": 50,
+      "14": 34,
+      "15": 5,
+      "16": 35,
+      "17": 9,
+      "18": 15,
+      "19": 8,
+      "20": 15,
+      "21": 13,
+      "22": 8,
       "25": 2,
-      "57": 12
+      "27": 30,
+      "57": 32,
+      "61": 70
+     },
+     "fragmentTitan": {
+      "4054": 50
      }
     }
    }
@@ -2366,7 +2438,7 @@
        "4": 120,
        "5": 120
       },
-      "power": 38856,
+      "power": 38976,
       "star": 4,
       "runes": [
        0,
@@ -2426,11 +2498,11 @@
       },
       "skills": {
        "270": 8,
-       "271": 8,
-       "272": 21,
-       "273": 41
+       "271": 85,
+       "272": 120,
+       "273": 120
       },
-      "power": 36754,
+      "power": 42113,
       "star": 6,
       "runes": [
        0,
@@ -2444,8 +2516,12 @@
        "2": 1
       },
       "currentSkin": 2,
-      "titanGiftLevel": 0,
-      "titanCoinsSpent": null,
+      "titanGiftLevel": 5,
+      "titanCoinsSpent": {
+       "consumable": {
+        "24": 1350
+       }
+      },
       "artifacts": [
        {
         "level": 1,
@@ -2478,12 +2554,12 @@
        0
       ],
       "skills": {
-       "260": 85,
-       "261": 85,
-       "262": 85,
-       "263": 85
+       "260": 120,
+       "261": 120,
+       "262": 120,
+       "263": 120
       },
-      "power": 43080,
+      "power": 45920,
       "star": 5,
       "runes": [
        0,
@@ -2552,7 +2628,7 @@
        "257": 120,
        "258": 120
       },
-      "power": 50515,
+      "power": 50635,
       "star": 5,
       "runes": [
        0,
@@ -2616,13 +2692,13 @@
        "5": 0
       },
       "skills": {
-       "10236": 1,
-       "10237": 1,
-       "10238": 21,
-       "10239": 41,
+       "10236": 120,
+       "10237": 120,
+       "10238": 120,
+       "10239": 120,
        "10240": 120
       },
-      "power": 45156,
+      "power": 53904,
       "star": 6,
       "runes": [
        0,
@@ -2662,7 +2738,7 @@
       "baseSkinId": 5,
       "skinsInfo": [],
       "currentSkinRank": 0,
-      "patronLevel": 5,
+      "patronLevel": 6,
       "upgradedSkills": []
      },
      "6": {
@@ -2678,7 +2754,7 @@
        "492": 120,
        "10164": 120
       },
-      "power": 105794,
+      "power": 109635,
       "star": 6,
       "runes": [
        0,
@@ -2690,16 +2766,16 @@
       "hero_runes": {
        "0": 40,
        "2": 40,
-       "3": 1,
+       "3": 3,
        "4": 27
       },
       "skins": {
-       "6": 20,
-       "63": 20,
-       "116": 3,
+       "6": 32,
+       "63": 22,
+       "116": 11,
        "202": 2,
        "254": 1,
-       "402": 6
+       "402": 14
       },
       "currentSkin": 116,
       "titanGiftLevel": 30,
@@ -2728,8 +2804,10 @@
       "baseSkinId": 6,
       "skinsInfo": [],
       "currentSkinRank": 0,
-      "patronLevel": 5,
-      "upgradedSkills": [],
+      "patronLevel": 10,
+      "upgradedSkills": [
+       10164
+      ],
       "talisman": {
        "id": 34,
        "level": 50,
@@ -2758,7 +2836,7 @@
        "34": 120,
        "35": 120
       },
-      "power": 42452,
+      "power": 42594,
       "star": 5,
       "runes": [
        0,
@@ -2820,7 +2898,7 @@
        "283": 41,
        "10165": 21
       },
-      "power": 27579,
+      "power": 27612,
       "star": 3,
       "runes": [
        0,
@@ -2933,7 +3011,7 @@
        "49": 120,
        "50": 120
       },
-      "power": 46831,
+      "power": 46861,
       "star": 6,
       "runes": [
        0,
@@ -2998,7 +3076,7 @@
        "54": 21,
        "55": 41
       },
-      "power": 30092,
+      "power": 30212,
       "star": 4,
       "runes": [
        0,
@@ -3061,13 +3139,13 @@
        "4": 0
       },
       "skills": {
-       "57": 1,
-       "58": 14,
+       "57": 119,
+       "58": 120,
        "59": 120,
        "60": 120,
        "417": 120
       },
-      "power": 52990,
+      "power": 57530,
       "star": 6,
       "runes": [
        0,
@@ -3129,7 +3207,7 @@
        "64": 120,
        "65": 120
       },
-      "power": 45419,
+      "power": 45420,
       "star": 6,
       "runes": [
        0,
@@ -3188,7 +3266,7 @@
        "277": 21,
        "278": 41
       },
-      "power": 27101,
+      "power": 27133,
       "star": 3,
       "runes": [
        0,
@@ -3242,7 +3320,7 @@
        "74": 21,
        "75": 41
       },
-      "power": 29661,
+      "power": 29691,
       "star": 4,
       "runes": [
        0,
@@ -3292,7 +3370,7 @@
        "293": 120,
        "482": 120
       },
-      "power": 132282,
+      "power": 132524,
       "star": 6,
       "runes": [
        0,
@@ -3371,7 +3449,7 @@
        "84": 120,
        "85": 120
       },
-      "power": 70905,
+      "power": 70940,
       "star": 6,
       "runes": [
        0,
@@ -3448,7 +3526,7 @@
        "89": 120,
        "90": 120
       },
-      "power": 41775,
+      "power": 41805,
       "star": 5,
       "runes": [
        0,
@@ -3507,7 +3585,7 @@
        "94": 21,
        "95": 41
       },
-      "power": 30071,
+      "power": 30100,
       "star": 4,
       "runes": [
        0,
@@ -3562,7 +3640,7 @@
        "99": 21,
        "100": 41
       },
-      "power": 30953,
+      "power": 31099,
       "star": 4,
       "runes": [
        0,
@@ -3577,8 +3655,12 @@
        "472": 1
       },
       "currentSkin": 80,
-      "titanGiftLevel": 0,
-      "titanCoinsSpent": null,
+      "titanGiftLevel": 5,
+      "titanCoinsSpent": {
+       "consumable": {
+        "24": 1350
+       }
+      },
       "artifacts": [
        {
         "level": 1,
@@ -3621,7 +3703,7 @@
        "287": 120,
        "288": 120
       },
-      "power": 66256,
+      "power": 66376,
       "star": 6,
       "runes": [
        0,
@@ -3690,7 +3772,7 @@
        "112": 21,
        "113": 41
       },
-      "power": 27010,
+      "power": 27038,
       "star": 3,
       "runes": [
        0,
@@ -3745,7 +3827,7 @@
        "10162": 120,
        "10163": 120
       },
-      "power": 45471,
+      "power": 45518,
       "star": 4,
       "runes": [
        0,
@@ -3805,7 +3887,7 @@
        "123": 120,
        "502": 120
       },
-      "power": 58563,
+      "power": 58683,
       "star": 6,
       "runes": [
        0,
@@ -3855,8 +3937,8 @@
      },
      "25": {
       "id": 25,
-      "xp": 174100,
-      "level": 61,
+      "xp": 907250,
+      "level": 86,
       "color": 7,
       "slots": {
        "0": 0,
@@ -3870,8 +3952,8 @@
        "127": 21,
        "128": 41
       },
-      "power": 22714,
-      "star": 2,
+      "power": 25555,
+      "star": 3,
       "runes": [
        0,
        0,
@@ -3929,7 +4011,7 @@
        "132": 21,
        "133": 41
       },
-      "power": 37143,
+      "power": 37232,
       "star": 6,
       "runes": [
        0,
@@ -3941,10 +4023,10 @@
       "hero_runes": [],
       "skins": [],
       "currentSkin": 0,
-      "titanGiftLevel": 1,
+      "titanGiftLevel": 5,
       "titanCoinsSpent": {
        "consumable": {
-        "24": 250
+        "24": 1350
        }
       },
       "artifacts": [
@@ -3987,7 +4069,7 @@
        "137": 21,
        "138": 41
       },
-      "power": 33495,
+      "power": 33703,
       "star": 5,
       "runes": [
        0,
@@ -4001,10 +4083,10 @@
        "375": 1
       },
       "currentSkin": 375,
-      "titanGiftLevel": 1,
+      "titanGiftLevel": 5,
       "titanCoinsSpent": {
        "consumable": {
-        "24": 250
+        "24": 1350
        }
       },
       "artifacts": [
@@ -4047,7 +4129,7 @@
        "267": 120,
        "268": 120
       },
-      "power": 46183,
+      "power": 46345,
       "star": 6,
       "runes": [
        0,
@@ -4113,7 +4195,7 @@
        "148": 120,
        "494": 120
       },
-      "power": 57092,
+      "power": 57400,
       "star": 6,
       "runes": [
        0,
@@ -4125,11 +4207,13 @@
       "hero_runes": [],
       "skins": {
        "29": 1,
+       "72": 1,
        "88": 1,
        "147": 1,
+       "211": 1,
        "464": 1
       },
-      "currentSkin": 147,
+      "currentSkin": 211,
       "titanGiftLevel": 30,
       "titanCoinsSpent": {
        "consumable": {
@@ -4231,7 +4315,7 @@
        "157": 21,
        "158": 41
       },
-      "power": 30658,
+      "power": 30787,
       "star": 4,
       "runes": [
        0,
@@ -4245,8 +4329,12 @@
        "422": 1
       },
       "currentSkin": 422,
-      "titanGiftLevel": 0,
-      "titanCoinsSpent": null,
+      "titanGiftLevel": 2,
+      "titanCoinsSpent": {
+       "consumable": {
+        "24": 510
+       }
+      },
       "artifacts": [
        {
         "level": 1,
@@ -4287,7 +4375,7 @@
        "162": 21,
        "163": 41
       },
-      "power": 27787,
+      "power": 27874,
       "star": 3,
       "runes": [
        0,
@@ -4342,7 +4430,7 @@
        "167": 120,
        "168": 120
       },
-      "power": 46881,
+      "power": 46891,
       "star": 5,
       "runes": [
        0,
@@ -4404,7 +4492,7 @@
        "172": 120,
        "173": 120
       },
-      "power": 44259,
+      "power": 44700,
       "star": 5,
       "runes": [
        0,
@@ -4419,9 +4507,10 @@
        "4": 20
       },
       "skins": {
+       "123": 1,
        "330": 6
       },
-      "currentSkin": 330,
+      "currentSkin": 123,
       "titanGiftLevel": 5,
       "titanCoinsSpent": {
        "consumable": {
@@ -4467,7 +4556,7 @@
        "177": 120,
        "178": 120
       },
-      "power": 48056,
+      "power": 48436,
       "star": 6,
       "runes": [
        0,
@@ -4481,10 +4570,11 @@
       ],
       "skins": {
        "48": 2,
+       "79": 1,
        "181": 1,
        "420": 1
       },
-      "currentSkin": 420,
+      "currentSkin": 79,
       "titanGiftLevel": 6,
       "titanCoinsSpent": {
        "consumable": {
@@ -4527,7 +4617,7 @@
        "183": 120,
        "469": 120
       },
-      "power": 84531,
+      "power": 84692,
       "star": 6,
       "runes": [
        0,
@@ -4602,7 +4692,7 @@
        "187": 120,
        "188": 120
       },
-      "power": 104543,
+      "power": 104802,
       "star": 6,
       "runes": [
        0,
@@ -4682,7 +4772,7 @@
        "192": 21,
        "193": 41
       },
-      "power": 27237,
+      "power": 27387,
       "star": 3,
       "runes": [
        0,
@@ -4735,7 +4825,7 @@
        "198": 41,
        "11002": 21
       },
-      "power": 29722,
+      "power": 29842,
       "star": 4,
       "runes": [
        0,
@@ -4785,7 +4875,7 @@
        "203": 120,
        "593": 120
       },
-      "power": 77130,
+      "power": 82046,
       "star": 6,
       "runes": [
        0,
@@ -4811,7 +4901,7 @@
       },
       "artifacts": [
        {
-        "level": 2,
+        "level": 3,
         "star": 1,
         "artifactType": "weapon"
        },
@@ -4821,7 +4911,7 @@
         "artifactType": "book"
        },
        {
-        "level": 21,
+        "level": 25,
         "star": 1,
         "artifactType": "ring"
        }
@@ -4833,9 +4923,11 @@
       "upgradedSkills": [],
       "talisman": {
        "id": 6,
-       "level": 1,
+       "level": 23,
        "traitIds": [
-        1
+        1,
+        18,
+        148
        ]
       }
      },
@@ -4857,7 +4949,7 @@
        "207": 21,
        "208": 41
       },
-      "power": 28238,
+      "power": 28389,
       "star": 3,
       "runes": [
        0,
@@ -4913,8 +5005,8 @@
        "10233": 120,
        "10234": 120
       },
-      "power": 38585,
-      "star": 4,
+      "power": 42005,
+      "star": 5,
       "runes": [
        0,
        0,
@@ -4973,7 +5065,7 @@
        "217": 38,
        "218": 41
       },
-      "power": 31805,
+      "power": 31912,
       "star": 4,
       "runes": [
        0,
@@ -4985,10 +5077,10 @@
       "hero_runes": [],
       "skins": [],
       "currentSkin": 98,
-      "titanGiftLevel": 4,
+      "titanGiftLevel": 5,
       "titanCoinsSpent": {
        "consumable": {
-        "24": 1060
+        "24": 1350
        }
       },
       "artifacts": [
@@ -5031,7 +5123,7 @@
        "222": 21,
        "223": 41
       },
-      "power": 29548,
+      "power": 29577,
       "star": 4,
       "runes": [
        0,
@@ -5087,7 +5179,7 @@
        "228": 120,
        "496": 120
       },
-      "power": 54055,
+      "power": 54061,
       "star": 6,
       "runes": [
        0,
@@ -5153,7 +5245,7 @@
        "232": 120,
        "233": 120
       },
-      "power": 72049,
+      "power": 72199,
       "star": 6,
       "runes": [
        0,
@@ -5223,7 +5315,7 @@
        "238": 41,
        "11003": 1
       },
-      "power": 30064,
+      "power": 30092,
       "star": 4,
       "runes": [
        0,
@@ -5277,7 +5369,7 @@
        "298": 120,
        "478": 120
       },
-      "power": 158203,
+      "power": 170606,
       "star": 6,
       "runes": [
        0,
@@ -5297,7 +5389,7 @@
        "179": 60,
        "186": 60,
        "218": 60,
-       "271": 1,
+       "271": 60,
        "297": 60,
        "390": 60
       },
@@ -5326,20 +5418,25 @@
        }
       ],
       "baseSkinId": 179,
-      "skinsInfo": [],
+      "skinsInfo": {
+       "297": {
+        "rank": 1,
+        "skinColorsIds": []
+       }
+      },
       "currentSkinRank": 0,
       "patronLevel": 10,
       "upgradedSkills": [
        295
       ],
       "talisman": {
-       "id": 85,
+       "id": 13,
        "level": 50,
        "traitIds": [
-        11,
-        83,
-        44,
-        83
+        1,
+        23,
+        114,
+        88
        ]
       }
      },
@@ -5361,7 +5458,7 @@
        "302": 120,
        "303": 120
       },
-      "power": 45594,
+      "power": 45924,
       "star": 6,
       "runes": [
        0,
@@ -5371,8 +5468,10 @@
        0
       ],
       "hero_runes": [],
-      "skins": [],
-      "currentSkin": 1009,
+      "skins": {
+       "362": 1
+      },
+      "currentSkin": 362,
       "titanGiftLevel": 5,
       "titanCoinsSpent": {
        "consumable": {
@@ -5426,7 +5525,7 @@
        "307": 120,
        "308": 120
       },
-      "power": 52268,
+      "power": 52275,
       "star": 6,
       "runes": [
        0,
@@ -5493,7 +5592,7 @@
        "312": 120,
        "313": 120
       },
-      "power": 35687,
+      "power": 35772,
       "star": 3,
       "runes": [
        0,
@@ -5551,7 +5650,7 @@
        "317": 120,
        "318": 120
       },
-      "power": 42357,
+      "power": 42756,
       "star": 5,
       "runes": [
        0,
@@ -5563,9 +5662,10 @@
       "hero_runes": [],
       "skins": {
        "296": 1,
-       "344": 1
+       "344": 1,
+       "484": 1
       },
-      "currentSkin": 296,
+      "currentSkin": 484,
       "titanGiftLevel": 5,
       "titanCoinsSpent": {
        "consumable": {
@@ -5611,7 +5711,7 @@
        "323": 120,
        "476": 120
       },
-      "power": 187205,
+      "power": 187345,
       "star": 6,
       "runes": [
        0,
@@ -5691,7 +5791,7 @@
        "327": 120,
        "328": 120
       },
-      "power": 60469,
+      "power": 60934,
       "star": 6,
       "runes": [
        0,
@@ -5707,12 +5807,13 @@
       "skins": {
        "255": 4,
        "257": 1,
+       "269": 1,
        "292": 1,
        "332": 1,
        "355": 1,
        "451": 1
       },
-      "currentSkin": 292,
+      "currentSkin": 269,
       "titanGiftLevel": 21,
       "titanCoinsSpent": {
        "consumable": {
@@ -5755,7 +5856,9 @@
       "xp": 2948945,
       "level": 120,
       "color": 16,
-      "slots": [],
+      "slots": [
+       0
+      ],
       "skills": {
        "330": 120,
        "331": 120,
@@ -5763,7 +5866,7 @@
        "333": 120,
        "597": 120
       },
-      "power": 133451,
+      "power": 152925,
       "star": 6,
       "runes": [
        0,
@@ -5782,10 +5885,10 @@
       "skins": {
        "256": 60,
        "270": 1,
-       "291": 2,
+       "291": 60,
        "308": 1,
        "340": 60,
-       "373": 1,
+       "373": 19,
        "428": 60
       },
       "currentSkin": 428,
@@ -5797,7 +5900,7 @@
       },
       "artifacts": [
        {
-        "level": 95,
+        "level": 100,
         "star": 3,
         "artifactType": "weapon"
        },
@@ -5808,20 +5911,26 @@
        },
        {
         "level": 100,
-        "star": 4,
+        "star": 5,
         "artifactType": "ring"
        }
       ],
       "baseSkinId": 256,
       "skinsInfo": {
+       "291": {
+        "rank": 1,
+        "skinColorsIds": []
+       },
        "428": {
         "rank": 1,
         "skinColorsIds": []
        }
       },
       "currentSkinRank": 1,
-      "patronLevel": 2,
-      "upgradedSkills": [],
+      "patronLevel": 10,
+      "upgradedSkills": [
+       330
+      ],
       "talisman": {
        "id": 135,
        "level": 50,
@@ -5846,7 +5955,7 @@
        "338": 120,
        "480": 120
       },
-      "power": 128975,
+      "power": 129306,
       "star": 6,
       "runes": [
        0,
@@ -5922,7 +6031,7 @@
        "342": 120,
        "343": 120
       },
-      "power": 132929,
+      "power": 133123,
       "star": 6,
       "runes": [
        0,
@@ -6008,8 +6117,8 @@
        "348": 120,
        "498": 120
       },
-      "power": 49476,
-      "star": 5,
+      "power": 53468,
+      "star": 6,
       "runes": [
        0,
        0,
@@ -6019,10 +6128,12 @@
       ],
       "hero_runes": [],
       "skins": {
+       "300": 1,
+       "346": 1,
        "412": 1,
        "465": 1
       },
-      "currentSkin": 465,
+      "currentSkin": 346,
       "titanGiftLevel": 5,
       "titanCoinsSpent": {
        "consumable": {
@@ -6066,7 +6177,7 @@
        "352": 120,
        "353": 120
       },
-      "power": 142437,
+      "power": 143203,
       "star": 6,
       "runes": [
        0,
@@ -6149,7 +6260,7 @@
        "358": 120,
        "484": 120
       },
-      "power": 145945,
+      "power": 146514,
       "star": 6,
       "runes": [
        0,
@@ -6234,7 +6345,7 @@
        "362": 120,
        "363": 120
       },
-      "power": 42121,
+      "power": 42515,
       "star": 5,
       "runes": [
        0,
@@ -6245,9 +6356,10 @@
       ],
       "hero_runes": [],
       "skins": {
+       "342": 1,
        "388": 2
       },
-      "currentSkin": 388,
+      "currentSkin": 342,
       "titanGiftLevel": 5,
       "titanCoinsSpent": {
        "consumable": {
@@ -6294,7 +6406,7 @@
        "367": 120,
        "368": 120
       },
-      "power": 42122,
+      "power": 42160,
       "star": 5,
       "runes": [
        0,
@@ -6353,7 +6465,7 @@
        "373": 120,
        "465": 120
       },
-      "power": 133227,
+      "power": 133716,
       "star": 6,
       "runes": [
        0,
@@ -6404,7 +6516,7 @@
       "baseSkinId": 325,
       "skinsInfo": [],
       "currentSkinRank": 0,
-      "patronLevel": 3,
+      "patronLevel": 4,
       "upgradedSkills": [],
       "talisman": {
        "id": 77,
@@ -6430,7 +6542,7 @@
        "378": 120,
        "490": 120
       },
-      "power": 114680,
+      "power": 115429,
       "star": 6,
       "runes": [
        0,
@@ -6499,14 +6611,16 @@
       "xp": 2948945,
       "level": 120,
       "color": 16,
-      "slots": [],
+      "slots": {
+       "2": 0
+      },
       "skills": {
        "390": 120,
        "391": 120,
        "392": 120,
        "393": 120
       },
-      "power": 104798,
+      "power": 109558,
       "star": 6,
       "runes": [
        0,
@@ -6541,12 +6655,12 @@
        },
        {
         "level": 100,
-        "star": 3,
+        "star": 4,
         "artifactType": "book"
        },
        {
         "level": 100,
-        "star": 1,
+        "star": 3,
         "artifactType": "ring"
        }
       ],
@@ -6583,7 +6697,7 @@
        "383": 120,
        "500": 120
       },
-      "power": 54956,
+      "power": 55136,
       "star": 6,
       "runes": [
        0,
@@ -6648,7 +6762,7 @@
        "398": 120,
        "581": 120
       },
-      "power": 120781,
+      "power": 136308,
       "star": 6,
       "runes": [
        0,
@@ -6657,14 +6771,17 @@
        0,
        0
       ],
-      "hero_runes": [
-       2
-      ],
+      "hero_runes": {
+       "0": 40,
+       "2": 40,
+       "3": 2,
+       "4": 32
+      },
       "skins": {
        "394": 60,
        "398": 1,
-       "399": 1,
-       "400": 1,
+       "399": 60,
+       "400": 5,
        "401": 1,
        "413": 60,
        "471": 60
@@ -6684,12 +6801,12 @@
        },
        {
         "level": 100,
-        "star": 2,
+        "star": 5,
         "artifactType": "book"
        },
        {
         "level": 100,
-        "star": 4,
+        "star": 5,
         "artifactType": "ring"
        }
       ],
@@ -6722,7 +6839,7 @@
        "403": 120,
        "415": 120
       },
-      "power": 113452,
+      "power": 113493,
       "star": 6,
       "runes": [
        0,
@@ -6801,7 +6918,7 @@
        "408": 120,
        "419": 120
       },
-      "power": 144491,
+      "power": 147492,
       "star": 6,
       "runes": [
        0,
@@ -6821,7 +6938,7 @@
        "418": 60,
        "427": 60,
        "434": 60,
-       "448": 41,
+       "448": 60,
        "458": 1
       },
       "currentSkin": 448,
@@ -6879,7 +6996,7 @@
        "413": 120,
        "421": 120
       },
-      "power": 175135,
+      "power": 178919,
       "star": 6,
       "runes": [
        0,
@@ -6891,7 +7008,7 @@
       "hero_runes": [
        70,
        70,
-       65,
+       70,
        70,
        70
       ],
@@ -6899,9 +7016,10 @@
        "425": 60,
        "429": 60,
        "435": 60,
-       "450": 60
+       "450": 60,
+       "486": 27
       },
-      "currentSkin": 425,
+      "currentSkin": 486,
       "titanGiftLevel": 30,
       "titanCoinsSpent": {
        "consumable": {
@@ -6926,8 +7044,13 @@
        }
       ],
       "baseSkinId": 435,
-      "skinsInfo": [],
-      "currentSkinRank": 0,
+      "skinsInfo": {
+       "486": {
+        "rank": 1,
+        "skinColorsIds": []
+       }
+      },
+      "currentSkinRank": 1,
       "patronLevel": 20,
       "upgradedSkills": [
        412,
@@ -6961,7 +7084,7 @@
        "426": 21,
        "427": 41
       },
-      "power": 26374,
+      "power": 26546,
       "star": 2,
       "runes": [
        0,
@@ -6978,8 +7101,12 @@
        "491": 1
       },
       "currentSkin": 490,
-      "titanGiftLevel": 0,
-      "titanCoinsSpent": null,
+      "titanGiftLevel": 1,
+      "titanCoinsSpent": {
+       "consumable": {
+        "24": 250
+       }
+      },
       "artifacts": [
        {
         "level": 1,
@@ -7012,14 +7139,14 @@
       "id": 74,
       "xp": 2948945,
       "level": 120,
-      "color": 7,
-      "slots": [
-       0,
-       0,
-       0,
-       0,
-       0
-      ],
+      "color": 9,
+      "slots": {
+       "0": 0,
+       "1": 0,
+       "2": 0,
+       "3": 0,
+       "4": 0
+      },
       "skills": {
        "431": 120,
        "432": 120,
@@ -7027,8 +7154,8 @@
        "434": 120,
        "435": 120
       },
-      "power": 49381,
-      "star": 5,
+      "power": 56208,
+      "star": 6,
       "runes": [
        0,
        0,
@@ -7044,10 +7171,10 @@
        "468": 1
       },
       "currentSkin": 468,
-      "titanGiftLevel": 5,
+      "titanGiftLevel": 20,
       "titanCoinsSpent": {
        "consumable": {
-        "24": 1350
+        "24": 26150
        }
       },
       "artifacts": [
@@ -7158,7 +7285,7 @@
        "448": 120,
        "449": 120
       },
-      "power": 52468,
+      "power": 54849,
       "star": 6,
       "runes": [
        0,
@@ -7174,16 +7301,16 @@
        "565": 1
       },
       "currentSkin": 481,
-      "titanGiftLevel": 5,
+      "titanGiftLevel": 23,
       "titanCoinsSpent": {
        "consumable": {
-        "24": 1350
+        "24": 36050
        }
       },
       "artifacts": [
        {
         "level": 1,
-        "star": 1,
+        "star": 2,
         "artifactType": "weapon"
        },
        {
@@ -7206,7 +7333,14 @@
       },
       "currentSkinRank": 1,
       "patronLevel": 1,
-      "upgradedSkills": []
+      "upgradedSkills": [],
+      "talisman": {
+       "id": 155,
+       "level": 1,
+       "traitIds": [
+        1
+       ]
+      }
      },
      "77": {
       "id": 77,
@@ -7221,7 +7355,7 @@
        "455": 120,
        "456": 120
       },
-      "power": 95773,
+      "power": 97111,
       "star": 5,
       "runes": [
        0,
@@ -7238,8 +7372,8 @@
        40
       ],
       "skins": {
-       "443": 57,
-       "477": 3,
+       "443": 60,
+       "477": 25,
        "568": 1
       },
       "currentSkin": 568,
@@ -7276,78 +7410,16 @@
       "id": 78,
       "xp": 2948945,
       "level": 120,
-      "color": 11,
-      "slots": [
-       0
-      ],
+      "color": 16,
+      "slots": [],
       "skills": {
-       "459": 2,
-       "460": 3,
+       "459": 120,
+       "460": 120,
        "461": 120,
-       "462": 120
+       "462": 120,
+       "463": 120
       },
-      "power": 54666,
-      "star": 4,
-      "runes": [
-       0,
-       0,
-       0,
-       0,
-       0
-      ],
-      "hero_runes": [],
-      "skins": {
-       "444": 60
-      },
-      "currentSkin": 444,
-      "titanGiftLevel": 28,
-      "titanCoinsSpent": {
-       "consumable": {
-        "24": 56050
-       }
-      },
-      "artifacts": [
-       {
-        "level": 100,
-        "star": 3,
-        "artifactType": "weapon"
-       },
-       {
-        "level": 100,
-        "star": 2,
-        "artifactType": "book"
-       },
-       {
-        "level": 100,
-        "star": 1,
-        "artifactType": "ring"
-       }
-      ],
-      "baseSkinId": 444,
-      "skinsInfo": [],
-      "currentSkinRank": 0,
-      "patronLevel": 0,
-      "upgradedSkills": []
-     },
-     "79": {
-      "id": 79,
-      "xp": 2948945,
-      "level": 120,
-      "color": 14,
-      "slots": {
-       "0": 0,
-       "1": 0,
-       "2": 0,
-       "3": 0,
-       "4": 0
-      },
-      "skills": {
-       "472": 120,
-       "473": 120,
-       "474": 120,
-       "475": 120
-      },
-      "power": 76792,
+      "power": 117785,
       "star": 6,
       "runes": [
        0,
@@ -7357,7 +7429,75 @@
        0
       ],
       "hero_runes": [
-       1
+       50,
+       50,
+       50,
+       50,
+       50
+      ],
+      "skins": {
+       "444": 60,
+       "485": 60
+      },
+      "currentSkin": 485,
+      "titanGiftLevel": 30,
+      "titanCoinsSpent": {
+       "consumable": {
+        "24": 65150
+       }
+      },
+      "artifacts": [
+       {
+        "level": 100,
+        "star": 5,
+        "artifactType": "weapon"
+       },
+       {
+        "level": 100,
+        "star": 5,
+        "artifactType": "book"
+       },
+       {
+        "level": 100,
+        "star": 5,
+        "artifactType": "ring"
+       }
+      ],
+      "baseSkinId": 444,
+      "skinsInfo": [],
+      "currentSkinRank": 0,
+      "patronLevel": 6,
+      "upgradedSkills": []
+     },
+     "79": {
+      "id": 79,
+      "xp": 2948945,
+      "level": 120,
+      "color": 16,
+      "slots": {
+       "2": 0
+      },
+      "skills": {
+       "472": 120,
+       "473": 120,
+       "474": 120,
+       "475": 120
+      },
+      "power": 117716,
+      "star": 6,
+      "runes": [
+       0,
+       0,
+       0,
+       0,
+       0
+      ],
+      "hero_runes": [
+       50,
+       50,
+       50,
+       50,
+       50
       ],
       "skins": {
        "489": 60
@@ -7371,18 +7511,18 @@
       },
       "artifacts": [
        {
-        "level": 1,
+        "level": 100,
         "star": 5,
         "artifactType": "weapon"
        },
        {
-        "level": 3,
+        "level": 100,
         "star": 5,
         "artifactType": "book"
        },
        {
-        "level": 2,
-        "star": 1,
+        "level": 100,
+        "star": 5,
         "artifactType": "ring"
        }
       ],
@@ -7414,7 +7554,7 @@
        "11000": 120,
        "11001": 120
       },
-      "power": 114282,
+      "power": 114426,
       "star": 6,
       "runes": [
        0,
@@ -7495,7 +7635,7 @@
        "11009": 120,
        "11010": 120
       },
-      "power": 47625,
+      "power": 47745,
       "star": 6,
       "runes": [
        0,
@@ -7560,7 +7700,7 @@
        "10229": 120,
        "11014": 120
       },
-      "power": 45966,
+      "power": 46133,
       "star": 6,
       "runes": [
        0,
@@ -7624,7 +7764,7 @@
        "11018": 120,
        "11019": 120
       },
-      "power": 44996,
+      "power": 45078,
       "star": 6,
       "runes": [
        0,
@@ -7674,22 +7814,22 @@
       "id": 504,
       "xp": 2948945,
       "level": 120,
-      "color": 7,
+      "color": 13,
       "slots": {
        "0": 0,
        "1": 0,
        "2": 0,
-       "3": 0
+       "5": 0
       },
       "skills": {
        "504": 120,
-       "11052": 119,
+       "11052": 120,
        "11053": 120,
        "11054": 120,
        "11055": 120
       },
-      "power": 48742,
-      "star": 5,
+      "power": 104528,
+      "star": 6,
       "runes": [
        0,
        0,
@@ -7699,28 +7839,34 @@
       ],
       "hero_runes": [],
       "skins": {
-       "470": 1
+       "205": 39,
+       "225": 3,
+       "246": 5,
+       "290": 60,
+       "414": 1,
+       "470": 1,
+       "1008": 60
       },
-      "currentSkin": 470,
-      "titanGiftLevel": 5,
+      "currentSkin": 205,
+      "titanGiftLevel": 30,
       "titanCoinsSpent": {
        "consumable": {
-        "24": 1350
+        "24": 65150
        }
       },
       "artifacts": [
        {
-        "level": 2,
-        "star": 2,
+        "level": 100,
+        "star": 5,
         "artifactType": "weapon"
        },
        {
-        "level": 6,
-        "star": 1,
+        "level": 100,
+        "star": 3,
         "artifactType": "book"
        },
        {
-        "level": 2,
+        "level": 100,
         "star": 1,
         "artifactType": "ring"
        }
@@ -7732,9 +7878,12 @@
       "upgradedSkills": [],
       "talisman": {
        "id": 105,
-       "level": 1,
+       "level": 50,
        "traitIds": [
-        7
+        7,
+        18,
+        135,
+        44
        ]
       }
      }
@@ -7808,13 +7957,13 @@
      },
      "4002": {
       "id": 4002,
-      "xp": 5500,
-      "level": 26,
+      "xp": 16970,
+      "level": 44,
       "star": 6,
       "skills": {
-       "4005": 26
+       "4005": 44
       },
-      "power": 5587,
+      "power": 12086,
       "artifacts": [
        {
         "level": 1,
@@ -8305,7 +8454,7 @@
        "4043": 120,
        "4044": 120
       },
-      "power": 76220,
+      "power": 77573,
       "artifacts": [
        {
         "level": 24,
@@ -8316,7 +8465,7 @@
         "star": 2
        },
        {
-        "level": 85,
+        "level": 97,
         "star": 2
        }
       ],
@@ -8331,12 +8480,12 @@
       "id": 4034,
       "xp": 0,
       "level": 1,
-      "star": 5,
+      "star": 6,
       "skills": {
        "4058": 1,
        "4059": 1
       },
-      "power": 156,
+      "power": 162,
       "artifacts": [
        {
         "level": 1,
@@ -8459,7 +8608,7 @@
        "4036": 120,
        "4037": 120
       },
-      "power": 73852,
+      "power": 73872,
       "artifacts": [
        {
         "level": 1,
@@ -8467,11 +8616,11 @@
        },
        {
         "level": 1,
-        "star": 0
+        "star": 1
        },
        {
         "level": 1,
-        "star": 0
+        "star": 1
        }
       ],
       "skins": {
@@ -8543,13 +8692,13 @@
      },
      "4051": {
       "id": 4051,
-      "xp": 0,
-      "level": 1,
+      "xp": 686760,
+      "level": 120,
       "star": 6,
       "skills": {
-       "4061": 1
+       "4061": 120
       },
-      "power": 249,
+      "power": 69780,
       "artifacts": [
        {
         "level": 1,
@@ -8564,8 +8713,10 @@
         "star": 1
        }
       ],
-      "skins": [],
-      "currentSkin": 0,
+      "skins": {
+       "10053": 60
+      },
+      "currentSkin": 10053,
       "skinsInfo": [],
       "currentSkinRank": 0
      },
@@ -8577,7 +8728,7 @@
       "skills": {
        "4063": 120
       },
-      "power": 55163,
+      "power": 60478,
       "artifacts": [
        {
         "level": 1,
@@ -8593,39 +8744,40 @@
        }
       ],
       "skins": {
-       "10061": 1
+       "10060": 10,
+       "10061": 44
       },
-      "currentSkin": 10061,
+      "currentSkin": 10060,
       "skinsInfo": [],
       "currentSkinRank": 0
      },
      "4053": {
       "id": 4053,
-      "xp": 474450,
-      "level": 111,
-      "star": 5,
+      "xp": 686760,
+      "level": 120,
+      "star": 6,
       "skills": {
-       "4067": 111,
-       "4068": 111
+       "4067": 120,
+       "4068": 120
       },
-      "power": 53775,
+      "power": 102688,
       "artifacts": [
        {
-        "level": 1,
+        "level": 75,
         "star": 1
        },
        {
-        "level": 1,
+        "level": 75,
         "star": 1
        },
        {
-        "level": 1,
+        "level": 81,
         "star": 1
        }
       ],
       "skins": {
-       "10064": 52,
-       "10065": 13
+       "10064": 60,
+       "10065": 60
       },
       "currentSkin": 10065,
       "skinsInfo": {
@@ -8635,6 +8787,37 @@
        }
       },
       "currentSkinRank": 1
+     },
+     "4054": {
+      "id": 4054,
+      "xp": 234010,
+      "level": 95,
+      "star": 3,
+      "skills": {
+       "4070": 95,
+       "4082": 95
+      },
+      "power": 28983,
+      "artifacts": [
+       {
+        "level": 1,
+        "star": 0
+       },
+       {
+        "level": 1,
+        "star": 0
+       },
+       {
+        "level": 1,
+        "star": 0
+       }
+      ],
+      "skins": {
+       "10068": 60
+      },
+      "currentSkin": 10068,
+      "skinsInfo": [],
+      "currentSkinRank": 0
      }
     }
    }
@@ -8880,7 +9063,7 @@
      {
       "id": 28,
       "stars": 3,
-      "triesSpent": 0,
+      "triesSpent": 1,
       "resetToday": 0
      },
      {
@@ -9762,7 +9945,7 @@
      {
       "id": 174,
       "stars": 3,
-      "triesSpent": 272,
+      "triesSpent": 0,
       "resetToday": 0
      },
      {
@@ -9792,7 +9975,7 @@
      {
       "id": 179,
       "stars": 3,
-      "triesSpent": 0,
+      "triesSpent": 175,
       "resetToday": 0
      },
      {
@@ -9810,7 +9993,7 @@
      {
       "id": 182,
       "stars": 3,
-      "triesSpent": 0,
+      "triesSpent": 99,
       "resetToday": 0
      },
      {
@@ -9840,7 +10023,7 @@
      {
       "id": 187,
       "stars": 3,
-      "triesSpent": 59,
+      "triesSpent": 0,
       "resetToday": 0
      },
      {
@@ -10045,8 +10228,8 @@
       58
      ],
      "dungeon_earth": [
+      4050,
       4020,
-      4022,
       4024,
       4023,
       4021
@@ -10060,9 +10243,9 @@
      ],
      "clanDefence_heroes": [
       71,
-      49,
+      79,
       72,
-      69,
+      65,
       54
      ],
      "clanDefence_titans": [
@@ -10083,15 +10266,15 @@
       [
        55,
        72,
-       51,
+       17,
        10,
        58
       ],
       [
+       21,
        61,
        16,
-       17,
-       46,
+       40,
        60
       ]
      ],
@@ -10124,20 +10307,13 @@
       57
      ],
      "dungeon_fire": [
+      4010,
       4051,
-      4011,
       4013,
       4014,
       4012
      ],
      "grand": [
-      [
-       58,
-       67,
-       64,
-       57,
-       56
-      ],
       [
        6,
        54,
@@ -10151,14 +10327,21 @@
        16,
        49,
        61
+      ],
+      [
+       58,
+       67,
+       64,
+       57,
+       56
       ]
      ],
      "brawl": [
-      61,
-      49,
-      16,
-      69,
-      60
+      4050,
+      4051,
+      4052,
+      4053,
+      4054
      ],
      "champClanDefence_heroes": [
       [
@@ -10205,18 +10388,18 @@
       4021
      ],
      "clan_pvp_hero": [
-      58,
+      6,
       54,
       65,
       72,
-      56
+      71
      ],
      "clan_pvp_titan": [
-      4021,
-      4023,
-      4024,
-      4020,
-      4050
+      4003,
+      4004,
+      4052,
+      4001,
+      4000
      ],
      "eternal_story": [
       61,
@@ -10236,25 +10419,48 @@
      "arenaPlace": "11796",
      "arenaHeroes": [
       {
-       "id": 56,
+       "id": 71,
        "level": 120,
        "color": 16,
        "star": 6,
-       "power": 133451,
+       "power": 147492,
        "skinData": {
-        "id": 428,
-        "rank": 1,
+        "id": 448,
+        "rank": 0,
         "color": 0
        },
-       "patron": 2,
+       "patron": 11,
        "talisman": {
-        "id": 135,
+        "id": 143,
         "level": 50,
         "traitIds": [
-         5,
+         2,
          184,
-         174,
-         177
+         179,
+         174
+        ]
+       }
+      },
+      {
+       "id": 79,
+       "level": 120,
+       "color": 16,
+       "star": 6,
+       "power": 117716,
+       "skinData": {
+        "id": 489,
+        "rank": 0,
+        "color": 0
+       },
+       "patron": 0,
+       "talisman": {
+        "id": 163,
+        "level": 50,
+        "traitIds": [
+         1,
+         134,
+         30,
+         43
         ]
        }
       },
@@ -10263,10 +10469,10 @@
        "level": 120,
        "color": 16,
        "star": 6,
-       "power": 175135,
+       "power": 178919,
        "skinData": {
-        "id": 425,
-        "rank": 0,
+        "id": 486,
+        "rank": 1,
         "color": 0
        },
        "patron": 20,
@@ -10282,11 +10488,34 @@
        }
       },
       {
+       "id": 65,
+       "level": 120,
+       "color": 16,
+       "star": 6,
+       "power": 115429,
+       "skinData": {
+        "id": 352,
+        "rank": 0,
+        "color": 0
+       },
+       "patron": 2,
+       "talisman": {
+        "id": 141,
+        "level": 50,
+        "traitIds": [
+         173,
+         82,
+         17,
+         134
+        ]
+       }
+      },
+      {
        "id": 54,
        "level": 120,
        "color": 16,
        "star": 6,
-       "power": 187205,
+       "power": 187345,
        "skinData": {
         "id": 295,
         "rank": 0,
@@ -10303,55 +10532,9 @@
          130
         ]
        }
-      },
-      {
-       "id": 67,
-       "level": 120,
-       "color": 16,
-       "star": 6,
-       "power": 104798,
-       "skinData": {
-        "id": 423,
-        "rank": 0,
-        "color": 0
-       },
-       "patron": 0,
-       "talisman": {
-        "id": 147,
-        "level": 50,
-        "traitIds": [
-         3,
-         213,
-         209,
-         205
-        ]
-       }
-      },
-      {
-       "id": 58,
-       "level": 120,
-       "color": 16,
-       "star": 6,
-       "power": 132909,
-       "skinData": {
-        "id": 463,
-        "rank": 1,
-        "color": 0
-       },
-       "patron": 0,
-       "talisman": {
-        "id": 64,
-        "level": 50,
-        "traitIds": [
-         3,
-         58,
-         149,
-         19
-        ]
-       }
       }
      ],
-     "grandPlace": "88",
+     "grandPlace": "92",
      "grandHeroes": [
       [
        {
@@ -10359,13 +10542,13 @@
         "level": 120,
         "color": 16,
         "star": 6,
-        "power": 105794,
+        "power": 109635,
         "skinData": {
          "id": 116,
          "rank": 0,
          "color": 0
         },
-        "patron": 5,
+        "patron": 10,
         "talisman": {
          "id": 34,
          "level": 50,
@@ -10382,7 +10565,7 @@
         "level": 120,
         "color": 16,
         "star": 6,
-        "power": 187205,
+        "power": 187345,
         "skinData": {
          "id": 295,
          "rank": 0,
@@ -10405,7 +10588,7 @@
         "level": 120,
         "color": 16,
         "star": 6,
-        "power": 114680,
+        "power": 115429,
         "skinData": {
          "id": 352,
          "rank": 0,
@@ -10428,10 +10611,10 @@
         "level": 120,
         "color": 16,
         "star": 6,
-        "power": 175135,
+        "power": 178919,
         "skinData": {
-         "id": 425,
-         "rank": 0,
+         "id": 486,
+         "rank": 1,
          "color": 0
         },
         "patron": 20,
@@ -10451,7 +10634,7 @@
         "level": 120,
         "color": 16,
         "star": 6,
-        "power": 144491,
+        "power": 147492,
         "skinData": {
          "id": 448,
          "rank": 0,
@@ -10476,7 +10659,7 @@
         "level": 120,
         "color": 16,
         "star": 6,
-        "power": 132909,
+        "power": 133123,
         "skinData": {
          "id": 463,
          "rank": 1,
@@ -10499,7 +10682,7 @@
         "level": 120,
         "color": 16,
         "star": 6,
-        "power": 104798,
+        "power": 109558,
         "skinData": {
          "id": 423,
          "rank": 0,
@@ -10522,13 +10705,13 @@
         "level": 120,
         "color": 16,
         "star": 6,
-        "power": 133227,
+        "power": 133716,
         "skinData": {
          "id": 455,
          "rank": 0,
          "color": 0
         },
-        "patron": 3,
+        "patron": 4,
         "talisman": {
          "id": 77,
          "level": 50,
@@ -10545,7 +10728,7 @@
         "level": 120,
         "color": 16,
         "star": 6,
-        "power": 128975,
+        "power": 129306,
         "skinData": {
          "id": 356,
          "rank": 0,
@@ -10568,13 +10751,13 @@
         "level": 120,
         "color": 16,
         "star": 6,
-        "power": 133451,
+        "power": 152925,
         "skinData": {
          "id": 428,
          "rank": 1,
          "color": 0
         },
-        "patron": 2,
+        "patron": 10,
         "talisman": {
          "id": 135,
          "level": 50,
@@ -10593,7 +10776,7 @@
         "level": 120,
         "color": 16,
         "star": 6,
-        "power": 142437,
+        "power": 143203,
         "skinData": {
          "id": 333,
          "rank": 1,
@@ -10616,7 +10799,7 @@
         "level": 120,
         "color": 16,
         "star": 6,
-        "power": 120781,
+        "power": 136308,
         "skinData": {
          "id": 471,
          "rank": 0,
@@ -10639,7 +10822,7 @@
         "level": 120,
         "color": 16,
         "star": 6,
-        "power": 132282,
+        "power": 132524,
         "skinData": {
          "id": 176,
          "rank": 0,
@@ -10662,7 +10845,7 @@
         "level": 120,
         "color": 16,
         "star": 6,
-        "power": 158203,
+        "power": 170606,
         "skinData": {
          "id": 390,
          "rank": 0,
@@ -10670,13 +10853,13 @@
         },
         "patron": 10,
         "talisman": {
-         "id": 85,
+         "id": 13,
          "level": 50,
          "traitIds": [
-          11,
-          83,
-          44,
-          83
+          1,
+          23,
+          114,
+          88
          ]
         }
        },
@@ -10685,7 +10868,7 @@
         "level": 120,
         "color": 16,
         "star": 6,
-        "power": 145945,
+        "power": 146514,
         "skinData": {
          "id": 336,
          "rank": 0,
@@ -10705,10 +10888,10 @@
        }
       ]
      ],
-     "grandCoin": 25.635177777778,
-     "grandCoinTime": 1793351684,
-     "arenaPower": "733498",
-     "grandPower": "2060313",
+     "grandCoin": 189.71955555556,
+     "grandCoinTime": 1795528622,
+     "arenaPower": "748062",
+     "grandPower": "2127604",
      "arenaBest": "11796",
      "grandBest": "8"
     }
@@ -10720,27 +10903,27 @@
     "response": {
      "clanData": {
       "stat": {
-       "todayActivity": 4010,
-       "activitySum": 30452,
-       "dungeonActivitySum": 2430,
+       "todayActivity": 3446,
+       "activitySum": 46536,
+       "dungeonActivitySum": 3510,
        "raidDamage": {
-        "20": 106981939,
+        "20": 19756320,
         "21": 106981939,
-        "24": 106981939
+        "29": 105518943
        },
        "todayItemsActivity": 0,
        "todayDungeonActivity": 0,
        "activityForRuneAvailable": false
       },
-      "serverResetTime": 1793412000,
-      "clanWarEndSeasonTime": 1793437200,
+      "serverResetTime": 1795572000,
+      "clanWarEndSeasonTime": 1795856400,
       "freeClanChangeInterval": {
-       "start": 1793440800,
-       "end": 1793613600
+       "start": 1795860000,
+       "end": 1796032800
       },
       "clan": {
        "id": "clan2",
-       "ownerId": "user20",
+       "ownerId": "user21",
        "level": "1",
        "title": "Mystic Black Cats ",
        "description": null,
@@ -10757,31 +10940,31 @@
        "serverId": "1175",
        "membersCount": "30",
        "disbanding": false,
-       "topActivity": "815963",
-       "topDungeon": "582158",
+       "topActivity": "987137",
+       "topDungeon": "592456",
        "roleNames": [],
        "frameId": 3,
        "news": "Welcome to Mystic Black Cats 😃  Success through teamwork 🤝 ",
-       "activityPoints": 32680,
-       "dungeonPoints": 20730,
-       "giftsCount": 802,
+       "activityPoints": 71236,
+       "dungeonPoints": 53874,
+       "giftsCount": 804,
        "league": "1",
        "isInBlackList": false,
        "members": {
         "user3": {
          "id": "user3",
          "name": "user3",
-         "lastLoginTime": "1793351383",
+         "lastLoginTime": "1795501039",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
          "clanRole": "2",
-         "avatarId": "1232",
-         "borderId": 0,
+         "avatarId": "1583",
+         "borderId": null,
          "isChatModerator": false,
          "frameId": 3,
          "battleIsAllowed": true,
-         "flagId": 49,
+         "flagId": 16,
          "clanTitle": "Mystic Black Cats ",
          "clanIcon": {
           "flagColor1": 3,
@@ -10795,17 +10978,17 @@
         "user4": {
          "id": "user4",
          "name": "user4",
-         "lastLoginTime": "1793325592",
+         "lastLoginTime": "1795527156",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
          "clanRole": "2",
-         "avatarId": "1714",
-         "borderId": null,
+         "avatarId": "1232",
+         "borderId": 0,
          "isChatModerator": false,
          "frameId": 3,
          "battleIsAllowed": true,
-         "flagId": 2,
+         "flagId": 1,
          "clanTitle": "Mystic Black Cats ",
          "clanIcon": {
           "flagColor1": 3,
@@ -10819,13 +11002,37 @@
         "user5": {
          "id": "user5",
          "name": "user5",
-         "lastLoginTime": "1793349805",
+         "lastLoginTime": "1795525177",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
          "clanRole": "2",
-         "avatarId": "11236",
-         "borderId": 40024,
+         "avatarId": "1714",
+         "borderId": null,
+         "isChatModerator": false,
+         "frameId": 3,
+         "battleIsAllowed": true,
+         "flagId": 1,
+         "clanTitle": "Mystic Black Cats ",
+         "clanIcon": {
+          "flagColor1": 3,
+          "flagColor2": 7,
+          "flagShape": 24,
+          "iconColor": 3,
+          "iconShape": 21,
+          "border": 322
+         }
+        },
+        "user6": {
+         "id": "user6",
+         "name": "user6",
+         "lastLoginTime": "1795524776",
+         "serverId": "1175",
+         "level": "120",
+         "clanId": "clan2",
+         "clanRole": "2",
+         "avatarId": "11256",
+         "borderId": 79,
          "isChatModerator": false,
          "frameId": 3,
          "battleIsAllowed": true,
@@ -10843,7 +11050,7 @@
         "user1": {
          "id": "user1",
          "name": "user1",
-         "lastLoginTime": "1793350965",
+         "lastLoginTime": "1795528570",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
@@ -10853,31 +11060,7 @@
          "isChatModerator": false,
          "frameId": 3,
          "battleIsAllowed": true,
-         "flagId": 17,
-         "clanTitle": "Mystic Black Cats ",
-         "clanIcon": {
-          "flagColor1": 3,
-          "flagColor2": 7,
-          "flagShape": 24,
-          "iconColor": 3,
-          "iconShape": 21,
-          "border": 322
-         }
-        },
-        "user6": {
-         "id": "user6",
-         "name": "user6",
-         "lastLoginTime": "1793350170",
-         "serverId": "1175",
-         "level": "120",
-         "clanId": "clan2",
-         "clanRole": "3",
-         "avatarId": "2242",
-         "borderId": 0,
-         "isChatModerator": false,
-         "frameId": 3,
-         "battleIsAllowed": true,
-         "flagId": 22,
+         "flagId": 1,
          "clanTitle": "Mystic Black Cats ",
          "clanIcon": {
           "flagColor1": 3,
@@ -10891,7 +11074,31 @@
         "user7": {
          "id": "user7",
          "name": "user7",
-         "lastLoginTime": "1793317538",
+         "lastLoginTime": "1795526083",
+         "serverId": "1175",
+         "level": "120",
+         "clanId": "clan2",
+         "clanRole": "3",
+         "avatarId": "2242",
+         "borderId": 40023,
+         "isChatModerator": false,
+         "frameId": 3,
+         "battleIsAllowed": true,
+         "flagId": 66,
+         "clanTitle": "Mystic Black Cats ",
+         "clanIcon": {
+          "flagColor1": 3,
+          "flagColor2": 7,
+          "flagShape": 24,
+          "iconColor": 3,
+          "iconShape": 21,
+          "border": 322
+         }
+        },
+        "user8": {
+         "id": "user8",
+         "name": "user8",
+         "lastLoginTime": "1795520645",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
@@ -10912,10 +11119,10 @@
           "border": 322
          }
         },
-        "user8": {
-         "id": "user8",
-         "name": "user8",
-         "lastLoginTime": "1793342813",
+        "user9": {
+         "id": "user9",
+         "name": "user9",
+         "lastLoginTime": "1795521428",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
@@ -10936,10 +11143,10 @@
           "border": 322
          }
         },
-        "user9": {
-         "id": "user9",
-         "name": "user9",
-         "lastLoginTime": "1793331424",
+        "user10": {
+         "id": "user10",
+         "name": "user10",
+         "lastLoginTime": "1795525980",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
@@ -10960,16 +11167,16 @@
           "border": 322
          }
         },
-        "user10": {
-         "id": "user10",
-         "name": "user10",
-         "lastLoginTime": "1793348460",
+        "user11": {
+         "id": "user11",
+         "name": "user11",
+         "lastLoginTime": "1795525369",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
          "clanRole": "2",
          "avatarId": "2129",
-         "borderId": 134,
+         "borderId": 40021,
          "isChatModerator": false,
          "frameId": 3,
          "battleIsAllowed": true,
@@ -10984,10 +11191,10 @@
           "border": 322
          }
         },
-        "user11": {
-         "id": "user11",
-         "name": "user11",
-         "lastLoginTime": "1793346990",
+        "user12": {
+         "id": "user12",
+         "name": "user12",
+         "lastLoginTime": "1795528578",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
@@ -10997,7 +11204,7 @@
          "isChatModerator": false,
          "frameId": 3,
          "battleIsAllowed": true,
-         "flagId": 22,
+         "flagId": 1,
          "clanTitle": "Mystic Black Cats ",
          "clanIcon": {
           "flagColor1": 3,
@@ -11008,10 +11215,10 @@
           "border": 322
          }
         },
-        "user12": {
-         "id": "user12",
-         "name": "user12",
-         "lastLoginTime": "1793341336",
+        "user13": {
+         "id": "user13",
+         "name": "user13",
+         "lastLoginTime": "1795525352",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
@@ -11032,10 +11239,10 @@
           "border": 322
          }
         },
-        "user13": {
-         "id": "user13",
-         "name": "user13",
-         "lastLoginTime": "1793317484",
+        "user14": {
+         "id": "user14",
+         "name": "user14",
+         "lastLoginTime": "1795521764",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
@@ -11056,10 +11263,10 @@
           "border": 322
          }
         },
-        "user14": {
-         "id": "user14",
-         "name": "user14",
-         "lastLoginTime": "1793349382",
+        "user15": {
+         "id": "user15",
+         "name": "user15",
+         "lastLoginTime": "1795522119",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
@@ -11069,7 +11276,7 @@
          "isChatModerator": false,
          "frameId": 3,
          "battleIsAllowed": true,
-         "flagId": 152,
+         "flagId": 1,
          "clanTitle": "Mystic Black Cats ",
          "clanIcon": {
           "flagColor1": 3,
@@ -11080,10 +11287,10 @@
           "border": 322
          }
         },
-        "user15": {
-         "id": "user15",
-         "name": "user15",
-         "lastLoginTime": "1793347299",
+        "user16": {
+         "id": "user16",
+         "name": "user16",
+         "lastLoginTime": "1795527926",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
@@ -11104,10 +11311,10 @@
           "border": 322
          }
         },
-        "user16": {
-         "id": "user16",
-         "name": "user16",
-         "lastLoginTime": "1793346311",
+        "user17": {
+         "id": "user17",
+         "name": "user17",
+         "lastLoginTime": "1795528270",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
@@ -11117,7 +11324,7 @@
          "isChatModerator": false,
          "frameId": 3,
          "battleIsAllowed": true,
-         "flagId": 30,
+         "flagId": 1,
          "clanTitle": "Mystic Black Cats ",
          "clanIcon": {
           "flagColor1": 3,
@@ -11128,10 +11335,10 @@
           "border": 322
          }
         },
-        "user17": {
-         "id": "user17",
-         "name": "user17",
-         "lastLoginTime": "1793349785",
+        "user18": {
+         "id": "user18",
+         "name": "user18",
+         "lastLoginTime": "1795522475",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
@@ -11152,10 +11359,10 @@
           "border": 322
          }
         },
-        "user18": {
-         "id": "user18",
-         "name": "user18",
-         "lastLoginTime": "1793293651",
+        "user19": {
+         "id": "user19",
+         "name": "user19",
+         "lastLoginTime": "1795516253",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
@@ -11176,16 +11383,16 @@
           "border": 322
          }
         },
-        "user19": {
-         "id": "user19",
-         "name": "user19",
-         "lastLoginTime": "1793322186",
+        "user20": {
+         "id": "user20",
+         "name": "user20",
+         "lastLoginTime": "1795521331",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
          "clanRole": "4",
-         "avatarId": "1409",
-         "borderId": 41,
+         "avatarId": "1824",
+         "borderId": 127493,
          "isChatModerator": false,
          "frameId": 3,
          "battleIsAllowed": true,
@@ -11200,10 +11407,10 @@
           "border": 322
          }
         },
-        "user20": {
-         "id": "user20",
-         "name": "user20",
-         "lastLoginTime": "1793351036",
+        "user21": {
+         "id": "user21",
+         "name": "user21",
+         "lastLoginTime": "1795522612",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
@@ -11213,7 +11420,7 @@
          "isChatModerator": false,
          "frameId": 3,
          "battleIsAllowed": true,
-         "flagId": 49,
+         "flagId": 1,
          "clanTitle": "Mystic Black Cats ",
          "clanIcon": {
           "flagColor1": 3,
@@ -11224,10 +11431,10 @@
           "border": 322
          }
         },
-        "user21": {
-         "id": "user21",
-         "name": "user21",
-         "lastLoginTime": "1793328119",
+        "user22": {
+         "id": "user22",
+         "name": "user22",
+         "lastLoginTime": "1795492993",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
@@ -11248,10 +11455,10 @@
           "border": 322
          }
         },
-        "user22": {
-         "id": "user22",
-         "name": "user22",
-         "lastLoginTime": "1793348157",
+        "user23": {
+         "id": "user23",
+         "name": "user23",
+         "lastLoginTime": "1795509274",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
@@ -11272,20 +11479,20 @@
           "border": 322
          }
         },
-        "user23": {
-         "id": "user23",
-         "name": "user23",
-         "lastLoginTime": "1793318731",
+        "user24": {
+         "id": "user24",
+         "name": "user24",
+         "lastLoginTime": "1795513378",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
-         "clanRole": "4",
-         "avatarId": "139",
-         "borderId": 0,
+         "clanRole": "2",
+         "avatarId": "11229",
+         "borderId": 40021,
          "isChatModerator": false,
          "frameId": 3,
          "battleIsAllowed": true,
-         "flagId": 2,
+         "flagId": 32,
          "clanTitle": "Mystic Black Cats ",
          "clanIcon": {
           "flagColor1": 3,
@@ -11296,16 +11503,40 @@
           "border": 322
          }
         },
-        "user24": {
-         "id": "user24",
-         "name": "user24",
-         "lastLoginTime": "1793349718",
+        "user25": {
+         "id": "user25",
+         "name": "user25",
+         "lastLoginTime": "1795522726",
+         "serverId": "1175",
+         "level": "120",
+         "clanId": "clan2",
+         "clanRole": "4",
+         "avatarId": "139",
+         "borderId": 0,
+         "isChatModerator": false,
+         "frameId": 3,
+         "battleIsAllowed": true,
+         "flagId": 1,
+         "clanTitle": "Mystic Black Cats ",
+         "clanIcon": {
+          "flagColor1": 3,
+          "flagColor2": 7,
+          "flagShape": 24,
+          "iconColor": 3,
+          "iconShape": 21,
+          "border": 322
+         }
+        },
+        "user26": {
+         "id": "user26",
+         "name": "user26",
+         "lastLoginTime": "1795528328",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
          "clanRole": "2",
          "avatarId": "2177",
-         "borderId": 1,
+         "borderId": 0,
          "isChatModerator": false,
          "frameId": 3,
          "battleIsAllowed": true,
@@ -11320,10 +11551,10 @@
           "border": 322
          }
         },
-        "user25": {
-         "id": "user25",
-         "name": "user25",
-         "lastLoginTime": "1793351435",
+        "user27": {
+         "id": "user27",
+         "name": "user27",
+         "lastLoginTime": "1795472010",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
@@ -11344,34 +11575,10 @@
           "border": 322
          }
         },
-        "user26": {
-         "id": "user26",
-         "name": "user26",
-         "lastLoginTime": "1793348694",
-         "serverId": "1175",
-         "level": "120",
-         "clanId": "clan2",
-         "clanRole": "2",
-         "avatarId": "1766",
-         "borderId": 178,
-         "isChatModerator": false,
-         "frameId": 3,
-         "battleIsAllowed": true,
-         "flagId": 46,
-         "clanTitle": "Mystic Black Cats ",
-         "clanIcon": {
-          "flagColor1": 3,
-          "flagColor2": 7,
-          "flagShape": 24,
-          "iconColor": 3,
-          "iconShape": 21,
-          "border": 322
-         }
-        },
-        "user27": {
-         "id": "user27",
-         "name": "user27",
-         "lastLoginTime": "1793328379",
+        "user28": {
+         "id": "user28",
+         "name": "user28",
+         "lastLoginTime": "1795503495",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
@@ -11381,7 +11588,7 @@
          "isChatModerator": false,
          "frameId": 3,
          "battleIsAllowed": true,
-         "flagId": 2,
+         "flagId": 1,
          "clanTitle": "Mystic Black Cats ",
          "clanIcon": {
           "flagColor1": 3,
@@ -11392,10 +11599,10 @@
           "border": 322
          }
         },
-        "user28": {
-         "id": "user28",
-         "name": "user28",
-         "lastLoginTime": "1793327935",
+        "user29": {
+         "id": "user29",
+         "name": "user29",
+         "lastLoginTime": "1795522931",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
@@ -11416,34 +11623,10 @@
           "border": 322
          }
         },
-        "user29": {
-         "id": "user29",
-         "name": "user29",
-         "lastLoginTime": "1793346799",
-         "serverId": "1175",
-         "level": "120",
-         "clanId": "clan2",
-         "clanRole": "3",
-         "avatarId": "11229",
-         "borderId": 41,
-         "isChatModerator": false,
-         "frameId": 3,
-         "battleIsAllowed": true,
-         "flagId": 10,
-         "clanTitle": "Mystic Black Cats ",
-         "clanIcon": {
-          "flagColor1": 3,
-          "flagColor2": 7,
-          "flagShape": 24,
-          "iconColor": 3,
-          "iconShape": 21,
-          "border": 322
-         }
-        },
         "user30": {
          "id": "user30",
          "name": "user30",
-         "lastLoginTime": "1793350956",
+         "lastLoginTime": "1795525838",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
@@ -11453,7 +11636,7 @@
          "isChatModerator": false,
          "frameId": 3,
          "battleIsAllowed": true,
-         "flagId": 70,
+         "flagId": 1,
          "clanTitle": "Mystic Black Cats ",
          "clanIcon": {
           "flagColor1": 3,
@@ -11467,7 +11650,7 @@
         "user31": {
          "id": "user31",
          "name": "user31",
-         "lastLoginTime": "1793333191",
+         "lastLoginTime": "1795527605",
          "serverId": "1175",
          "level": "120",
          "clanId": "clan2",
@@ -11493,196 +11676,238 @@
       "membersStat": [
        {
         "userId": "user3",
-        "activitySum": 39418,
-        "todayActivity": 1706,
-        "dungeonActivitySum": 4224,
-        "todayDungeonActivity": 168,
+        "activitySum": 21654,
+        "todayActivity": 0,
+        "dungeonActivitySum": 3576,
+        "todayDungeonActivity": 558,
         "raidDamage": {
-         "1": 5651537,
-         "2": 5946906,
-         "3": 5946906,
          "4": 5946906,
-         "20": 106981939,
-         "25": 441213792,
-         "26": 661820688,
-         "27": 566479323,
-         "28": 220606896,
-         "29": 220606896
+         "20": 408171436,
+         "26": 207505491,
+         "30": 161718442
         },
         "wasChampion": false
        },
        {
         "userId": "user4",
-        "activitySum": 26564,
-        "todayActivity": 0,
-        "dungeonActivitySum": 10740,
-        "todayDungeonActivity": 0,
+        "activitySum": 43778,
+        "todayActivity": 380,
+        "dungeonActivitySum": 2452,
+        "todayDungeonActivity": 150,
         "raidDamage": {
-         "1": 5946906,
          "2": 5946906,
          "3": 5946906,
-         "4": 5946906,
          "5": 5946906,
          "6": 5946906,
-         "20": 748873573,
-         "21": 748873573,
-         "24": 748873573,
-         "30": 220606896
+         "7": 70798920,
+         "8": 53099190,
+         "9": 53099190,
+         "10": 17699730,
+         "12": 17699730,
+         "13": 54533157,
+         "16": 50634014,
+         "18": 109066314,
+         "21": 106981939,
+         "24": 106981939,
+         "25": 220606896,
+         "27": 220606896,
+         "29": 114608749
         },
         "wasChampion": false
        },
        {
         "userId": "user5",
-        "activitySum": 16008,
-        "todayActivity": 1474,
-        "dungeonActivitySum": 1560,
-        "todayDungeonActivity": 0,
-        "raidDamage": [],
-        "wasChampion": false
-       },
-       {
-        "userId": "user1",
-        "activitySum": 30452,
-        "todayActivity": 4010,
-        "dungeonActivitySum": 2130,
+        "activitySum": 33410,
+        "todayActivity": 4650,
+        "dungeonActivitySum": 10446,
         "todayDungeonActivity": 0,
         "raidDamage": {
-         "20": 148872997,
-         "21": 164462534,
-         "24": 141524425,
-         "25": 53117285,
-         "26": 168429483,
-         "27": 94313844,
-         "29": 535659453,
-         "30": 189142601
+         "1": 17840718,
+         "2": 17840718,
+         "3": 17840718,
+         "4": 17840718,
+         "5": 17840718,
+         "6": 17840718,
+         "13": 54533157,
+         "16": 54533157,
+         "17": 54533157,
+         "20": 320945817,
+         "21": 320945817,
+         "22": 106981939,
+         "24": 427927756,
+         "28": 220606896
         },
         "wasChampion": false
        },
        {
         "userId": "user6",
-        "activitySum": 23800,
-        "todayActivity": 2362,
-        "dungeonActivitySum": 1740,
+        "activitySum": 26842,
+        "todayActivity": 3280,
+        "dungeonActivitySum": 2470,
+        "todayDungeonActivity": 330,
+        "raidDamage": [],
+        "wasChampion": false
+       },
+       {
+        "userId": "user1",
+        "activitySum": 46536,
+        "todayActivity": 3446,
+        "dungeonActivitySum": 2922,
         "todayDungeonActivity": 0,
         "raidDamage": {
-         "1": 5946906,
-         "4": 5946906,
-         "6": 17840718,
-         "13": 109066314,
-         "14": 272665785,
-         "15": 218132628,
-         "16": 54533157,
-         "17": 218132628,
-         "18": 109066314
+         "20": 19756320,
+         "21": 427927756,
+         "24": 213963878,
+         "25": 34462056,
+         "26": 320307962,
+         "29": 445220563,
+         "30": 259906880
         },
         "wasChampion": false
        },
        {
         "userId": "user7",
-        "activitySum": 24266,
-        "todayActivity": 0,
-        "dungeonActivitySum": 11124,
+        "activitySum": 22428,
+        "todayActivity": 2824,
+        "dungeonActivitySum": 2490,
+        "todayDungeonActivity": 330,
+        "raidDamage": {
+         "5": 5946906,
+         "7": 17699730,
+         "8": 17699730,
+         "9": 17699730,
+         "14": 327198942,
+         "15": 327198942,
+         "16": 54533157,
+         "17": 327198942,
+         "18": 54533157
+        },
+        "wasChampion": false
+       },
+       {
+        "userId": "user8",
+        "activitySum": 24014,
+        "todayActivity": 48,
+        "dungeonActivitySum": 14736,
         "todayDungeonActivity": 0,
         "raidDamage": {
          "1": 5946906,
          "2": 5946906,
          "3": 5946906,
          "4": 5946906,
-         "21": 164462534,
-         "25": 4061953,
+         "21": 106981939,
+         "25": 54159391,
          "26": 146294491,
          "27": 479440851,
-         "29": 167888612,
+         "29": 177419897,
          "30": 250959530
         },
         "wasChampion": false
        },
        {
-        "userId": "user8",
-        "activitySum": 27368,
-        "todayActivity": 1728,
-        "dungeonActivitySum": 0,
+        "userId": "user9",
+        "activitySum": 18928,
+        "todayActivity": 0,
+        "dungeonActivitySum": 612,
         "todayDungeonActivity": 0,
         "raidDamage": {
-         "20": 65090881,
-         "21": 49501344,
-         "24": 72439453,
-         "26": 154849350,
+         "25": 40576649,
+         "26": 51616450,
+         "28": 40852140,
+         "29": 134671860,
          "30": 1103034480
         },
         "wasChampion": false
        },
        {
-        "userId": "user9",
-        "activitySum": 35643,
-        "todayActivity": 2156,
-        "dungeonActivitySum": 6276,
-        "todayDungeonActivity": 0,
-        "raidDamage": {
-         "15": 54533157,
-         "19": 748873573,
-         "22": 748873573,
-         "23": 748873573
-        },
-        "wasChampion": false
-       },
-       {
         "userId": "user10",
-        "activitySum": 12246,
-        "todayActivity": 6,
-        "dungeonActivitySum": 138624,
-        "todayDungeonActivity": 15564,
+        "activitySum": 36537,
+        "todayActivity": 4612,
+        "dungeonActivitySum": 9040,
+        "todayDungeonActivity": 2346,
         "raidDamage": {
-         "13": 54533157,
-         "14": 470042,
-         "16": 54533157,
-         "20": 106981939,
-         "21": 42789670,
-         "25": 179100134,
-         "26": 73021612,
-         "27": 242148643
+         "18": 54533157,
+         "19": 748873573,
+         "22": 641891634,
+         "23": 748873573,
+         "24": 106981939
         },
         "wasChampion": false
        },
        {
         "userId": "user11",
-        "activitySum": 19964,
-        "todayActivity": 2442,
-        "dungeonActivitySum": 18270,
-        "todayDungeonActivity": 2550,
+        "activitySum": 21998,
+        "todayActivity": 2706,
+        "dungeonActivitySum": 101368,
+        "todayDungeonActivity": 20370,
         "raidDamage": {
          "1": 11893812,
+         "2": 5946906,
+         "3": 5946906,
+         "4": 11893812,
+         "5": 5946906,
          "6": 11893812,
-         "15": 12692328,
-         "25": 787358287,
-         "26": 286364442,
-         "27": 382706247,
-         "28": 462471694
+         "7": 17699730,
+         "8": 17699730,
+         "9": 17699730,
+         "10": 17699730,
+         "11": 17699730,
+         "12": 17699730,
+         "14": 13198855,
+         "15": 24172573,
+         "16": 54533157,
+         "18": 54533157,
+         "20": 106981939,
+         "21": 178841196,
+         "24": 34542486,
+         "25": 131513793,
+         "26": 73021612,
+         "28": 105619846,
+         "30": 211781254
         },
         "wasChampion": false
        },
        {
         "userId": "user12",
-        "activitySum": 9342,
-        "todayActivity": 392,
-        "dungeonActivitySum": 708,
-        "todayDungeonActivity": 120,
+        "activitySum": 46224,
+        "todayActivity": 2382,
+        "dungeonActivitySum": 30120,
+        "todayDungeonActivity": 0,
         "raidDamage": {
-         "4": 5946906,
-         "8": 17699730,
-         "9": 17699730,
-         "10": 70798920,
-         "11": 88498650,
-         "12": 70798920,
-         "26": 43839011
+         "1": 11893812,
+         "3": 5946906,
+         "4": 11893812,
+         "6": 5946906,
+         "10": 17699730,
+         "12": 17699730,
+         "25": 441213792,
+         "26": 443176899,
+         "27": 441213792,
+         "28": 661820688,
+         "29": 335694849,
+         "30": 19588470
         },
         "wasChampion": false
        },
        {
         "userId": "user13",
-        "activitySum": 18166,
+        "activitySum": 12290,
+        "todayActivity": 1456,
+        "dungeonActivitySum": 1596,
+        "todayDungeonActivity": 270,
+        "raidDamage": {
+         "10": 106198380,
+         "11": 123898110,
+         "12": 106198380,
+         "15": 12692328
+        },
+        "wasChampion": false
+       },
+       {
+        "userId": "user14",
+        "activitySum": 20916,
         "todayActivity": 0,
-        "dungeonActivitySum": 2100,
+        "dungeonActivitySum": 2742,
         "todayDungeonActivity": 0,
         "raidDamage": {
          "21": 110328243,
@@ -11692,183 +11917,213 @@
         "wasChampion": false
        },
        {
-        "userId": "user14",
-        "activitySum": 39867,
-        "todayActivity": 724,
-        "dungeonActivitySum": 4236,
-        "todayDungeonActivity": 0,
+        "userId": "user15",
+        "activitySum": 60293,
+        "todayActivity": 5998,
+        "dungeonActivitySum": 6990,
+        "todayDungeonActivity": 1266,
         "raidDamage": {
+         "2": 5946906,
+         "3": 5946906,
+         "5": 5946906,
+         "13": 54533157,
          "14": 54533157,
          "15": 54533157,
-         "25": 818557532,
-         "26": 1336764280,
-         "27": 999065474,
-         "28": 1323641376,
-         "29": 1008588819,
-         "30": 472678087
-        },
-        "wasChampion": false
-       },
-       {
-        "userId": "user15",
-        "activitySum": 22194,
-        "todayActivity": 6,
-        "dungeonActivitySum": 11112,
-        "todayDungeonActivity": 0,
-        "raidDamage": {
-         "1": 5946906,
-         "2": 11893812,
-         "3": 11893812,
-         "5": 23787624,
-         "6": 5946906,
-         "7": 17699730,
-         "8": 70798920,
-         "9": 35399460,
-         "11": 17699730,
-         "25": 33326013
+         "16": 109066314,
+         "17": 54533157,
+         "18": 54533157,
+         "21": 106981939,
+         "24": 106981939,
+         "25": 1103034480,
+         "26": 1288446419,
+         "27": 1103034480,
+         "28": 882427584,
+         "29": 804571118,
+         "30": 289153114
         },
         "wasChampion": false
        },
        {
         "userId": "user16",
-        "activitySum": 23710,
-        "todayActivity": 1178,
-        "dungeonActivitySum": 8580,
-        "todayDungeonActivity": 558,
+        "activitySum": 21234,
+        "todayActivity": 3078,
+        "dungeonActivitySum": 13170,
+        "todayDungeonActivity": 0,
         "raidDamage": {
+         "1": 11893812,
+         "2": 11893812,
+         "3": 5946906,
+         "4": 11893812,
+         "5": 11893812,
+         "6": 11893812,
          "7": 17699730,
          "8": 53099190,
          "9": 53099190,
-         "11": 17699730,
-         "13": 138265465,
-         "15": 70562133,
-         "16": 163599471,
-         "17": 54533157,
-         "18": 163599471,
-         "25": 63870052
+         "11": 53099190,
+         "27": 47126112
         },
         "wasChampion": false
        },
        {
         "userId": "user17",
-        "activitySum": 27776,
-        "todayActivity": 1706,
-        "dungeonActivitySum": 1074,
-        "todayDungeonActivity": 0,
+        "activitySum": 48280,
+        "todayActivity": 6206,
+        "dungeonActivitySum": 10008,
+        "todayDungeonActivity": 186,
         "raidDamage": {
-         "20": 41891058,
-         "21": 57480595,
-         "24": 34542486,
-         "25": 406837830,
-         "26": 52177413,
-         "27": 66100781,
-         "28": 398697988,
-         "29": 220606896,
-         "30": 441213792
+         "1": 11893812,
+         "2": 5946906,
+         "4": 5946906,
+         "6": 17840718,
+         "7": 53099190,
+         "8": 35399460,
+         "9": 17699730,
+         "13": 54533157,
+         "14": 54533157,
+         "15": 41840829,
+         "16": 58432300,
+         "18": 109066314,
+         "28": 77113707
         },
         "wasChampion": false
        },
        {
         "userId": "user18",
-        "activitySum": 18910,
-        "todayActivity": 0,
-        "dungeonActivitySum": 1680,
+        "activitySum": 31540,
+        "todayActivity": 2706,
+        "dungeonActivitySum": 0,
         "todayDungeonActivity": 0,
         "raidDamage": {
-         "4": 5946906,
-         "13": 25334006,
-         "14": 107262725,
-         "15": 48412491,
-         "16": 66894494,
-         "17": 131929763,
-         "25": 40349163,
-         "27": 20463577,
-         "29": 118394664
+         "13": 54533157,
+         "16": 19592201,
+         "20": 41891058,
+         "21": 57480595,
+         "24": 34542486,
+         "25": 400637143,
+         "26": 52177413,
+         "28": 578452744,
+         "29": 339879168,
+         "30": 375667843
         },
         "wasChampion": false
        },
        {
         "userId": "user19",
-        "activitySum": 14852,
+        "activitySum": 16906,
         "todayActivity": 0,
-        "dungeonActivitySum": 5410,
+        "dungeonActivitySum": 1146,
         "todayDungeonActivity": 0,
         "raidDamage": {
-         "13": 54533157,
-         "14": 54533157,
-         "16": 54533157,
-         "17": 54533157,
-         "18": 54533157,
-         "20": 28662664,
-         "21": 49953858,
-         "24": 91297214,
-         "28": 50693862,
-         "29": 96443671,
-         "30": 348238817
+         "4": 5946906,
+         "8": 17699730,
+         "13": 25334006,
+         "14": 78109586,
+         "15": 56172437,
+         "16": 37918952,
+         "17": 97374592,
+         "25": 27003572,
+         "26": 18567023,
+         "28": 50092815,
+         "29": 161747970
         },
         "wasChampion": false
        },
        {
         "userId": "user20",
-        "activitySum": 40268,
-        "todayActivity": 6,
-        "dungeonActivitySum": 14118,
+        "activitySum": 18676,
+        "todayActivity": 0,
+        "dungeonActivitySum": 9228,
         "todayDungeonActivity": 0,
         "raidDamage": {
-         "4": 2720391,
-         "25": 296191708,
-         "26": 917388607,
-         "27": 1079648357,
-         "29": 441213792,
-         "30": 341171052
+         "13": 54533157,
+         "14": 54533157,
+         "15": 54533157,
+         "16": 54533157,
+         "17": 54533157,
+         "18": 54533157,
+         "20": 28662664,
+         "21": 49953858,
+         "24": 198279153,
+         "28": 25135341,
+         "29": 65085682,
+         "30": 290724049
         },
         "wasChampion": false
        },
        {
         "userId": "user21",
-        "activitySum": 37576,
-        "todayActivity": 0,
-        "dungeonActivitySum": 8740,
+        "activitySum": 49330,
+        "todayActivity": 6,
+        "dungeonActivitySum": 15984,
         "todayDungeonActivity": 0,
         "raidDamage": {
-         "19": 267077897,
-         "20": 72962377,
-         "21": 73027805,
-         "22": 108905098,
-         "26": 74312405,
-         "27": 244863993,
-         "28": 43526097,
-         "30": 60021717
+         "4": 2720391,
+         "8": 17699730,
+         "25": 296191708,
+         "26": 696781711,
+         "27": 859041461,
+         "29": 220606896,
+         "30": 341171052
         },
         "wasChampion": false
        },
        {
         "userId": "user22",
-        "activitySum": 27354,
-        "todayActivity": 1504,
-        "dungeonActivitySum": 13710,
-        "todayDungeonActivity": 150,
+        "activitySum": 47502,
+        "todayActivity": 0,
+        "dungeonActivitySum": 11000,
+        "todayDungeonActivity": 0,
         "raidDamage": {
-         "2": 17840718,
+         "19": 267077897,
+         "20": 5315492,
+         "21": 38206098,
+         "22": 108905098,
+         "26": 154740083,
+         "27": 244863993,
+         "28": 43526097,
+         "30": 280628613
+        },
+        "wasChampion": false
+       },
+       {
+        "userId": "user23",
+        "activitySum": 36483,
+        "todayActivity": 1288,
+        "dungeonActivitySum": 16416,
+        "todayDungeonActivity": 0,
+        "raidDamage": {
+         "1": 5946906,
+         "2": 11893812,
          "3": 17840718,
-         "5": 11893812,
-         "7": 17699730,
-         "8": 35399460,
-         "9": 35399460,
-         "11": 17699730,
+         "5": 5946906,
+         "8": 17699730,
+         "9": 53099190,
          "13": 109066314,
          "14": 54533157,
-         "16": 54533157,
+         "15": 54533157,
+         "16": 198540427,
          "17": 54533157,
          "18": 54533157
         },
         "wasChampion": false
        },
        {
-        "userId": "user23",
-        "activitySum": 17500,
-        "todayActivity": 0,
-        "dungeonActivitySum": 5478,
+        "userId": "user24",
+        "activitySum": 11623,
+        "todayActivity": 2830,
+        "dungeonActivitySum": 3810,
+        "todayDungeonActivity": 1050,
+        "raidDamage": {
+         "13": 109066314,
+         "18": 109066314
+        },
+        "wasChampion": false
+       },
+       {
+        "userId": "user25",
+        "activitySum": 12506,
+        "todayActivity": 3646,
+        "dungeonActivitySum": 3456,
         "todayDungeonActivity": 0,
         "raidDamage": {
          "1": 5946906,
@@ -11887,28 +12142,29 @@
         "wasChampion": false
        },
        {
-        "userId": "user24",
-        "activitySum": 25342,
-        "todayActivity": 0,
-        "dungeonActivitySum": 1170,
+        "userId": "user26",
+        "activitySum": 47605,
+        "todayActivity": 4394,
+        "dungeonActivitySum": 1290,
         "todayDungeonActivity": 0,
         "raidDamage": {
-         "1": 5946906,
-         "4": 5946906,
-         "6": 5946906,
-         "25": 570738157,
-         "26": 814875319,
-         "27": 935343949,
-         "28": 220606896,
-         "29": 661820688
+         "2": 5946906,
+         "5": 5946906,
+         "13": 54533157,
+         "16": 54533157,
+         "25": 406751736,
+         "26": 441213792,
+         "27": 882427584,
+         "28": 627358569,
+         "29": 734659147
         },
         "wasChampion": false
        },
        {
-        "userId": "user25",
-        "activitySum": 31424,
-        "todayActivity": 1156,
-        "dungeonActivitySum": 7860,
+        "userId": "user27",
+        "activitySum": 37422,
+        "todayActivity": 0,
+        "dungeonActivitySum": 10758,
         "todayDungeonActivity": 0,
         "raidDamage": {
          "19": 21385917,
@@ -11925,33 +12181,10 @@
         "wasChampion": false
        },
        {
-        "userId": "user26",
-        "activitySum": 41622,
-        "todayActivity": 1876,
-        "dungeonActivitySum": 6000,
-        "todayDungeonActivity": 0,
-        "raidDamage": {
-         "1": 11893812,
-         "2": 11893812,
-         "3": 11893812,
-         "4": 17840718,
-         "5": 17840718,
-         "6": 5946906,
-         "7": 35399460,
-         "10": 17699730,
-         "12": 17699730,
-         "13": 54533157,
-         "14": 17757873,
-         "16": 71147362,
-         "17": 10356060
-        },
-        "wasChampion": false
-       },
-       {
-        "userId": "user27",
-        "activitySum": 24962,
+        "userId": "user28",
+        "activitySum": 22683,
         "todayActivity": 0,
-        "dungeonActivitySum": 2580,
+        "dungeonActivitySum": 3180,
         "todayDungeonActivity": 0,
         "raidDamage": {
          "19": 16577984,
@@ -11963,11 +12196,11 @@
         "wasChampion": false
        },
        {
-        "userId": "user28",
-        "activitySum": 37417,
-        "todayActivity": 2150,
-        "dungeonActivitySum": 7260,
-        "todayDungeonActivity": 720,
+        "userId": "user29",
+        "activitySum": 45812,
+        "todayActivity": 5352,
+        "dungeonActivitySum": 7920,
+        "todayDungeonActivity": 840,
         "raidDamage": {
          "13": 109066314,
          "14": 109066314,
@@ -11981,51 +12214,41 @@
         "wasChampion": false
        },
        {
-        "userId": "user29",
-        "activitySum": 16462,
-        "todayActivity": 0,
-        "dungeonActivitySum": 1134,
-        "todayDungeonActivity": 0,
-        "raidDamage": {
-         "20": 213963878,
-         "21": 106981939,
-         "22": 534909695,
-         "23": 534909695,
-         "24": 534909695
-        },
-        "wasChampion": false
-       },
-       {
         "userId": "user30",
-        "activitySum": 48632,
-        "todayActivity": 4638,
-        "dungeonActivitySum": 3780,
-        "todayDungeonActivity": 450,
+        "activitySum": 62130,
+        "todayActivity": 8430,
+        "dungeonActivitySum": 3100,
+        "todayDungeonActivity": 690,
         "raidDamage": {
-         "1": 12189181,
-         "4": 17840718,
-         "5": 5946906,
-         "6": 23787624,
-         "7": 17699730,
-         "12": 17699730,
-         "26": 60884892,
-         "27": 82120390,
-         "30": 9275190
+         "1": 11893812,
+         "2": 17840718,
+         "3": 23787624,
+         "4": 11893812,
+         "5": 17840718,
+         "6": 17840718,
+         "26": 34693330,
+         "27": 960749
         },
         "wasChampion": false
        },
        {
         "userId": "user31",
-        "activitySum": 31352,
-        "todayActivity": 1460,
-        "dungeonActivitySum": 277890,
-        "todayDungeonActivity": 450,
+        "activitySum": 36684,
+        "todayActivity": 1518,
+        "dungeonActivitySum": 289272,
+        "todayDungeonActivity": 25476,
         "raidDamage": {
+         "2": 11893812,
+         "3": 5946906,
+         "5": 11893812,
+         "7": 17699730,
+         "8": 17699730,
+         "9": 17699730,
          "13": 54533157,
          "14": 54533157,
-         "16": 327198942,
-         "17": 327198942,
-         "18": 218132628,
+         "16": 163599471,
+         "17": 163599471,
+         "18": 54533157,
          "29": 90255412,
          "30": 34183825
         },
@@ -12041,189 +12264,182 @@
    "ident": "expeditions",
    "result": {
     "response": {
-     "17": {
-      "id": 17,
+     "240": {
+      "id": 240,
       "slotId": 6,
       "status": 3,
       "heroes": [],
       "endTime": 0,
       "duration": 32400,
-      "day": "20261029",
+      "day": "20261123",
       "reward": {
        "consumable": {
-        "36": 8,
+        "33": 14,
+        "42": 6,
         "44": 3
-       },
-       "fragmentArtifact": {
-        "3002": "1"
        }
       },
-      "power": 337200,
-      "rarity": 2,
-      "storyId": 33,
+      "power": 346400,
+      "rarity": 3,
+      "storyId": 34,
       "attemptsLeft": 3
      },
-     "18": {
-      "id": 18,
+     "241": {
+      "id": 241,
       "slotId": 1,
       "status": 3,
       "heroes": [],
       "endTime": 0,
-      "duration": 360,
-      "day": "20261030",
+      "duration": 480,
+      "day": "20261124",
       "reward": {
        "consumable": {
-        "39": 20,
-        "40": 12
+        "35": 20,
+        "41": 13
        }
       },
-      "power": 648800,
-      "rarity": 1,
-      "storyId": 1,
+      "power": 669400,
+      "rarity": 2,
+      "storyId": 4,
       "attemptsLeft": 0
      },
-     "19": {
-      "id": 19,
+     "242": {
+      "id": 242,
       "slotId": 2,
       "status": 3,
       "heroes": [],
       "endTime": 0,
-      "duration": 360,
-      "day": "20261030",
+      "duration": 480,
+      "day": "20261124",
       "reward": {
        "consumable": {
-        "29": 13,
-        "30": 8,
-        "31": 4
+        "30": 12,
+        "34": 20
        }
       },
-      "power": 648800,
+      "power": 669400,
       "rarity": 1,
-      "storyId": 7,
+      "storyId": 8,
       "attemptsLeft": 0
      },
-     "20": {
-      "id": 20,
+     "243": {
+      "id": 243,
       "slotId": 3,
-      "status": 2,
-      "heroes": [
-       26,
-       32,
-       30,
-       62,
-       38
-      ],
-      "endTime": 1793361164,
+      "status": 3,
+      "heroes": [],
+      "endTime": 0,
       "duration": 21600,
-      "day": "20261030",
+      "day": "20261124",
       "reward": {
        "consumable": {
-        "37": 7,
-        "43": 10
+        "31": 6,
+        "34": 20,
+        "40": 12
        }
       },
-      "power": 162200,
-      "rarity": 3,
-      "storyId": 17,
+      "power": 167300,
+      "rarity": 1,
+      "storyId": 14,
       "attemptsLeft": 0
      },
-     "21": {
-      "id": 21,
+     "244": {
+      "id": 244,
       "slotId": 4,
       "status": 3,
       "heroes": [],
       "endTime": 0,
-      "duration": 1500,
-      "day": "20261030",
+      "duration": 2100,
+      "day": "20261124",
       "reward": {
        "consumable": {
-        "32": 7,
-        "38": 10
+        "32": 6,
+        "35": 6,
+        "36": 9
        }
       },
-      "power": 337200,
-      "rarity": 3,
-      "storyId": 23,
+      "power": 346400,
+      "rarity": 2,
+      "storyId": 22,
       "attemptsLeft": 0
      },
-     "22": {
-      "id": 22,
+     "245": {
+      "id": 245,
       "slotId": 5,
       "status": 3,
       "heroes": [],
       "endTime": 0,
       "duration": 360,
-      "day": "20261030",
+      "day": "20261124",
       "reward": {
        "consumable": {
-        "30": 20,
-        "41": 13
+        "29": 35,
+        "30": 20
        }
       },
-      "power": 648800,
-      "rarity": 2,
-      "storyId": 28,
+      "power": 669400,
+      "rarity": 1,
+      "storyId": 26,
       "attemptsLeft": 0
      },
-     "23": {
-      "id": 23,
+     "246": {
+      "id": 246,
       "slotId": 7,
       "status": 3,
       "heroes": [],
       "endTime": 0,
       "duration": 180,
-      "day": "20261030",
+      "day": "20261124",
       "reward": {
        "consumable": {
-        "30": 24
+        "34": 35,
+        "35": 20
        }
       },
-      "power": 648800,
+      "power": 669400,
       "rarity": 1,
       "storyId": 36,
       "attemptsLeft": 0
      },
-     "24": {
-      "id": 24,
+     "247": {
+      "id": 247,
       "slotId": 8,
       "status": 2,
       "heroes": [],
-      "endTime": 1793369136,
+      "endTime": 1795544805,
       "duration": 21600,
-      "day": "20261030",
+      "day": "20261124",
       "reward": {
        "consumable": {
-        "40": 27,
-        "41": 15
+        "42": 17
        }
       },
-      "power": 8100,
-      "rarity": 1,
-      "storyId": 45,
+      "power": 8400,
+      "rarity": 3,
+      "storyId": 43,
       "attemptsLeft": 0
      },
-     "25": {
-      "id": 25,
+     "248": {
+      "id": 248,
       "slotId": 6,
       "status": 2,
       "heroes": [
-       5,
-       54,
-       76,
-       25,
-       39
+       6,
+       14,
+       15,
+       57,
+       4
       ],
-      "endTime": 1793371944,
+      "endTime": 1795531206,
       "duration": 32400,
-      "day": "20261030",
+      "day": "20261124",
       "reward": {
        "consumable": {
         "37": 11,
-        "38": 18,
+        "43": 18,
         "44": 3
        }
       },
-      "power": 337200,
+      "power": 346400,
       "rarity": 4,
       "storyId": 35,
       "attemptsLeft": 2
@@ -12232,5 +12448,5 @@
    }
   }
  ],
- "date": 1793351685.2811623
+ "date": 1795528622.7449613
 }

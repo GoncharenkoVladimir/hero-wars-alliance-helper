@@ -16,7 +16,7 @@
             "4": 120,
             "5": 120
         },
-        "power": 38856,
+        "power": 38976,
         "star": 4,
         "runes": [
             0,
@@ -79,11 +79,11 @@
         },
         "skills": {
             "270": 8,
-            "271": 8,
-            "272": 21,
-            "273": 41
+            "271": 85,
+            "272": 120,
+            "273": 120
         },
-        "power": 36754,
+        "power": 42113,
         "star": 6,
         "runes": [
             0,
@@ -97,8 +97,12 @@
             "2": 1
         },
         "currentSkin": 2,
-        "titanGiftLevel": 0,
-        "titanCoinsSpent": null,
+        "titanGiftLevel": 5,
+        "titanCoinsSpent": {
+            "consumable": {
+                "24": 1350
+            }
+        },
         "artifacts": [
             {
                 "level": 1,
@@ -134,12 +138,12 @@
             0
         ],
         "skills": {
-            "260": 85,
-            "261": 85,
-            "262": 85,
-            "263": 85
+            "260": 120,
+            "261": 120,
+            "262": 120,
+            "263": 120
         },
-        "power": 43080,
+        "power": 45920,
         "star": 5,
         "runes": [
             0,
@@ -211,7 +215,7 @@
             "257": 120,
             "258": 120
         },
-        "power": 50515,
+        "power": 50635,
         "star": 5,
         "runes": [
             0,
@@ -278,13 +282,13 @@
             "5": 0
         },
         "skills": {
-            "10236": 1,
-            "10237": 1,
-            "10238": 21,
-            "10239": 41,
+            "10236": 120,
+            "10237": 120,
+            "10238": 120,
+            "10239": 120,
             "10240": 120
         },
-        "power": 45156,
+        "power": 53904,
         "star": 6,
         "runes": [
             0,
@@ -324,7 +328,7 @@
         "baseSkinId": 5,
         "skinsInfo": [],
         "currentSkinRank": 0,
-        "patronLevel": 5,
+        "patronLevel": 6,
         "upgradedSkills": [],
         "name": "Кай",
         "nameEn": "Kai",
@@ -343,7 +347,7 @@
             "492": 120,
             "10164": 120
         },
-        "power": 105794,
+        "power": 109635,
         "star": 6,
         "runes": [
             0,
@@ -355,16 +359,16 @@
         "hero_runes": {
             "0": 40,
             "2": 40,
-            "3": 1,
+            "3": 3,
             "4": 27
         },
         "skins": {
-            "6": 20,
-            "63": 20,
-            "116": 3,
+            "6": 32,
+            "63": 22,
+            "116": 11,
             "202": 2,
             "254": 1,
-            "402": 6
+            "402": 14
         },
         "currentSkin": 116,
         "titanGiftLevel": 30,
@@ -393,8 +397,10 @@
         "baseSkinId": 6,
         "skinsInfo": [],
         "currentSkinRank": 0,
-        "patronLevel": 5,
-        "upgradedSkills": [],
+        "patronLevel": 10,
+        "upgradedSkills": [
+            10164
+        ],
         "name": "Фобос",
         "nameEn": "Phobos",
         "img": "https://static-platform.aghanim.com/hub/ec/09/04/e7/ec0904e7-6c05-4867-96ff-a52f200bdd19.webp",
@@ -426,7 +432,7 @@
             "34": 120,
             "35": 120
         },
-        "power": 42452,
+        "power": 42594,
         "star": 5,
         "runes": [
             0,
@@ -491,7 +497,7 @@
             "283": 41,
             "10165": 21
         },
-        "power": 27579,
+        "power": 27612,
         "star": 3,
         "runes": [
             0,
@@ -610,7 +616,7 @@
             "49": 120,
             "50": 120
         },
-        "power": 46831,
+        "power": 46861,
         "star": 6,
         "runes": [
             0,
@@ -678,7 +684,7 @@
             "54": 21,
             "55": 41
         },
-        "power": 30092,
+        "power": 30212,
         "star": 4,
         "runes": [
             0,
@@ -744,13 +750,13 @@
             "4": 0
         },
         "skills": {
-            "57": 1,
-            "58": 14,
+            "57": 119,
+            "58": 120,
             "59": 120,
             "60": 120,
             "417": 120
         },
-        "power": 52990,
+        "power": 57530,
         "star": 6,
         "runes": [
             0,
@@ -815,7 +821,7 @@
             "64": 120,
             "65": 120
         },
-        "power": 45419,
+        "power": 45420,
         "star": 6,
         "runes": [
             0,
@@ -877,7 +883,7 @@
             "277": 21,
             "278": 41
         },
-        "power": 27101,
+        "power": 27133,
         "star": 3,
         "runes": [
             0,
@@ -934,7 +940,7 @@
             "74": 21,
             "75": 41
         },
-        "power": 29661,
+        "power": 29691,
         "star": 4,
         "runes": [
             0,
@@ -987,7 +993,7 @@
             "293": 120,
             "482": 120
         },
-        "power": 132282,
+        "power": 132524,
         "star": 6,
         "runes": [
             0,
@@ -1069,7 +1075,7 @@
             "84": 120,
             "85": 120
         },
-        "power": 70905,
+        "power": 70940,
         "star": 6,
         "runes": [
             0,
@@ -1149,7 +1155,7 @@
             "89": 120,
             "90": 120
         },
-        "power": 41775,
+        "power": 41805,
         "star": 5,
         "runes": [
             0,
@@ -1211,7 +1217,7 @@
             "94": 21,
             "95": 41
         },
-        "power": 30071,
+        "power": 30100,
         "star": 4,
         "runes": [
             0,
@@ -1269,7 +1275,7 @@
             "99": 21,
             "100": 41
         },
-        "power": 30953,
+        "power": 31099,
         "star": 4,
         "runes": [
             0,
@@ -1284,8 +1290,12 @@
             "472": 1
         },
         "currentSkin": 80,
-        "titanGiftLevel": 0,
-        "titanCoinsSpent": null,
+        "titanGiftLevel": 5,
+        "titanCoinsSpent": {
+            "consumable": {
+                "24": 1350
+            }
+        },
         "artifacts": [
             {
                 "level": 1,
@@ -1331,7 +1341,7 @@
             "287": 120,
             "288": 120
         },
-        "power": 66256,
+        "power": 66376,
         "star": 6,
         "runes": [
             0,
@@ -1403,7 +1413,7 @@
             "112": 21,
             "113": 41
         },
-        "power": 27010,
+        "power": 27038,
         "star": 3,
         "runes": [
             0,
@@ -1461,7 +1471,7 @@
             "10162": 120,
             "10163": 120
         },
-        "power": 45471,
+        "power": 45518,
         "star": 4,
         "runes": [
             0,
@@ -1524,7 +1534,7 @@
             "123": 120,
             "502": 120
         },
-        "power": 58563,
+        "power": 58683,
         "star": 6,
         "runes": [
             0,
@@ -1577,8 +1587,8 @@
     },
     {
         "id": 25,
-        "xp": 174100,
-        "level": 61,
+        "xp": 907250,
+        "level": 86,
         "color": 7,
         "slots": {
             "0": 0,
@@ -1592,8 +1602,8 @@
             "127": 21,
             "128": 41
         },
-        "power": 22714,
-        "star": 2,
+        "power": 25555,
+        "star": 3,
         "runes": [
             0,
             0,
@@ -1654,7 +1664,7 @@
             "132": 21,
             "133": 41
         },
-        "power": 37143,
+        "power": 37232,
         "star": 6,
         "runes": [
             0,
@@ -1666,10 +1676,10 @@
         "hero_runes": [],
         "skins": [],
         "currentSkin": 0,
-        "titanGiftLevel": 1,
+        "titanGiftLevel": 5,
         "titanCoinsSpent": {
             "consumable": {
-                "24": 250
+                "24": 1350
             }
         },
         "artifacts": [
@@ -1715,7 +1725,7 @@
             "137": 21,
             "138": 41
         },
-        "power": 33495,
+        "power": 33703,
         "star": 5,
         "runes": [
             0,
@@ -1729,10 +1739,10 @@
             "375": 1
         },
         "currentSkin": 375,
-        "titanGiftLevel": 1,
+        "titanGiftLevel": 5,
         "titanCoinsSpent": {
             "consumable": {
-                "24": 250
+                "24": 1350
             }
         },
         "artifacts": [
@@ -1778,7 +1788,7 @@
             "267": 120,
             "268": 120
         },
-        "power": 46183,
+        "power": 46345,
         "star": 6,
         "runes": [
             0,
@@ -1847,7 +1857,7 @@
             "148": 120,
             "494": 120
         },
-        "power": 57092,
+        "power": 57400,
         "star": 6,
         "runes": [
             0,
@@ -1859,11 +1869,13 @@
         "hero_runes": [],
         "skins": {
             "29": 1,
+            "72": 1,
             "88": 1,
             "147": 1,
+            "211": 1,
             "464": 1
         },
-        "currentSkin": 147,
+        "currentSkin": 211,
         "titanGiftLevel": 30,
         "titanCoinsSpent": {
             "consumable": {
@@ -1971,7 +1983,7 @@
             "157": 21,
             "158": 41
         },
-        "power": 30658,
+        "power": 30787,
         "star": 4,
         "runes": [
             0,
@@ -1985,8 +1997,12 @@
             "422": 1
         },
         "currentSkin": 422,
-        "titanGiftLevel": 0,
-        "titanCoinsSpent": null,
+        "titanGiftLevel": 2,
+        "titanCoinsSpent": {
+            "consumable": {
+                "24": 510
+            }
+        },
         "artifacts": [
             {
                 "level": 1,
@@ -2030,7 +2046,7 @@
             "162": 21,
             "163": 41
         },
-        "power": 27787,
+        "power": 27874,
         "star": 3,
         "runes": [
             0,
@@ -2088,7 +2104,7 @@
             "167": 120,
             "168": 120
         },
-        "power": 46881,
+        "power": 46891,
         "star": 5,
         "runes": [
             0,
@@ -2153,7 +2169,7 @@
             "172": 120,
             "173": 120
         },
-        "power": 44259,
+        "power": 44700,
         "star": 5,
         "runes": [
             0,
@@ -2168,9 +2184,10 @@
             "4": 20
         },
         "skins": {
+            "123": 1,
             "330": 6
         },
-        "currentSkin": 330,
+        "currentSkin": 123,
         "titanGiftLevel": 5,
         "titanCoinsSpent": {
             "consumable": {
@@ -2219,7 +2236,7 @@
             "177": 120,
             "178": 120
         },
-        "power": 48056,
+        "power": 48436,
         "star": 6,
         "runes": [
             0,
@@ -2233,10 +2250,11 @@
         ],
         "skins": {
             "48": 2,
+            "79": 1,
             "181": 1,
             "420": 1
         },
-        "currentSkin": 420,
+        "currentSkin": 79,
         "titanGiftLevel": 6,
         "titanCoinsSpent": {
             "consumable": {
@@ -2282,7 +2300,7 @@
             "183": 120,
             "469": 120
         },
-        "power": 84531,
+        "power": 84692,
         "star": 6,
         "runes": [
             0,
@@ -2360,7 +2378,7 @@
             "187": 120,
             "188": 120
         },
-        "power": 104543,
+        "power": 104802,
         "star": 6,
         "runes": [
             0,
@@ -2443,7 +2461,7 @@
             "192": 21,
             "193": 41
         },
-        "power": 27237,
+        "power": 27387,
         "star": 3,
         "runes": [
             0,
@@ -2498,7 +2516,7 @@
             "198": 41,
             "11002": 21
         },
-        "power": 29722,
+        "power": 29842,
         "star": 4,
         "runes": [
             0,
@@ -2551,7 +2569,7 @@
             "203": 120,
             "593": 120
         },
-        "power": 77130,
+        "power": 82046,
         "star": 6,
         "runes": [
             0,
@@ -2577,7 +2595,7 @@
         },
         "artifacts": [
             {
-                "level": 2,
+                "level": 3,
                 "star": 1,
                 "artifactType": "weapon"
             },
@@ -2587,7 +2605,7 @@
                 "artifactType": "book"
             },
             {
-                "level": 21,
+                "level": 25,
                 "star": 1,
                 "artifactType": "ring"
             }
@@ -2602,9 +2620,11 @@
         "img": "https://static-platform.aghanim.com/hub/03/07/c3/15/0307c315-2007-4140-b1cf-7c88934bb373.webp",
         "talisman": {
             "id": 6,
-            "level": 1,
+            "level": 23,
             "traitIds": [
-                1
+                1,
+                18,
+                148
             ]
         }
     },
@@ -2626,7 +2646,7 @@
             "207": 21,
             "208": 41
         },
-        "power": 28238,
+        "power": 28389,
         "star": 3,
         "runes": [
             0,
@@ -2685,8 +2705,8 @@
             "10233": 120,
             "10234": 120
         },
-        "power": 38585,
-        "star": 4,
+        "power": 42005,
+        "star": 5,
         "runes": [
             0,
             0,
@@ -2748,7 +2768,7 @@
             "217": 38,
             "218": 41
         },
-        "power": 31805,
+        "power": 31912,
         "star": 4,
         "runes": [
             0,
@@ -2760,10 +2780,10 @@
         "hero_runes": [],
         "skins": [],
         "currentSkin": 98,
-        "titanGiftLevel": 4,
+        "titanGiftLevel": 5,
         "titanCoinsSpent": {
             "consumable": {
-                "24": 1060
+                "24": 1350
             }
         },
         "artifacts": [
@@ -2809,7 +2829,7 @@
             "222": 21,
             "223": 41
         },
-        "power": 29548,
+        "power": 29577,
         "star": 4,
         "runes": [
             0,
@@ -2868,7 +2888,7 @@
             "228": 120,
             "496": 120
         },
-        "power": 54055,
+        "power": 54061,
         "star": 6,
         "runes": [
             0,
@@ -2937,7 +2957,7 @@
             "232": 120,
             "233": 120
         },
-        "power": 72049,
+        "power": 72199,
         "star": 6,
         "runes": [
             0,
@@ -3010,7 +3030,7 @@
             "238": 41,
             "11003": 1
         },
-        "power": 30064,
+        "power": 30092,
         "star": 4,
         "runes": [
             0,
@@ -3067,7 +3087,7 @@
             "298": 120,
             "478": 120
         },
-        "power": 158203,
+        "power": 170606,
         "star": 6,
         "runes": [
             0,
@@ -3087,7 +3107,7 @@
             "179": 60,
             "186": 60,
             "218": 60,
-            "271": 1,
+            "271": 60,
             "297": 60,
             "390": 60
         },
@@ -3116,7 +3136,12 @@
             }
         ],
         "baseSkinId": 179,
-        "skinsInfo": [],
+        "skinsInfo": {
+            "297": {
+                "rank": 1,
+                "skinColorsIds": []
+            }
+        },
         "currentSkinRank": 0,
         "patronLevel": 10,
         "upgradedSkills": [
@@ -3126,13 +3151,13 @@
         "nameEn": "Yasmine",
         "img": "https://static-platform.aghanim.com/hub/20/93/fb/82/2093fb82-2e31-4919-a4a1-3fc8cd7ce4b9.webp",
         "talisman": {
-            "id": 85,
+            "id": 13,
             "level": 50,
             "traitIds": [
-                11,
-                83,
-                44,
-                83
+                1,
+                23,
+                114,
+                88
             ]
         }
     },
@@ -3154,7 +3179,7 @@
             "302": 120,
             "303": 120
         },
-        "power": 45594,
+        "power": 45924,
         "star": 6,
         "runes": [
             0,
@@ -3164,8 +3189,10 @@
             0
         ],
         "hero_runes": [],
-        "skins": [],
-        "currentSkin": 1009,
+        "skins": {
+            "362": 1
+        },
+        "currentSkin": 362,
         "titanGiftLevel": 5,
         "titanCoinsSpent": {
             "consumable": {
@@ -3222,7 +3249,7 @@
             "307": 120,
             "308": 120
         },
-        "power": 52268,
+        "power": 52275,
         "star": 6,
         "runes": [
             0,
@@ -3292,7 +3319,7 @@
             "312": 120,
             "313": 120
         },
-        "power": 35687,
+        "power": 35772,
         "star": 3,
         "runes": [
             0,
@@ -3353,7 +3380,7 @@
             "317": 120,
             "318": 120
         },
-        "power": 42357,
+        "power": 42756,
         "star": 5,
         "runes": [
             0,
@@ -3365,9 +3392,10 @@
         "hero_runes": [],
         "skins": {
             "296": 1,
-            "344": 1
+            "344": 1,
+            "484": 1
         },
-        "currentSkin": 296,
+        "currentSkin": 484,
         "titanGiftLevel": 5,
         "titanCoinsSpent": {
             "consumable": {
@@ -3416,7 +3444,7 @@
             "323": 120,
             "476": 120
         },
-        "power": 187205,
+        "power": 187345,
         "star": 6,
         "runes": [
             0,
@@ -3499,7 +3527,7 @@
             "327": 120,
             "328": 120
         },
-        "power": 60469,
+        "power": 60934,
         "star": 6,
         "runes": [
             0,
@@ -3515,12 +3543,13 @@
         "skins": {
             "255": 4,
             "257": 1,
+            "269": 1,
             "292": 1,
             "332": 1,
             "355": 1,
             "451": 1
         },
-        "currentSkin": 292,
+        "currentSkin": 269,
         "titanGiftLevel": 21,
         "titanCoinsSpent": {
             "consumable": {
@@ -3566,7 +3595,9 @@
         "xp": 2948945,
         "level": 120,
         "color": 16,
-        "slots": [],
+        "slots": [
+            0
+        ],
         "skills": {
             "330": 120,
             "331": 120,
@@ -3574,7 +3605,7 @@
             "333": 120,
             "597": 120
         },
-        "power": 133451,
+        "power": 152925,
         "star": 6,
         "runes": [
             0,
@@ -3593,10 +3624,10 @@
         "skins": {
             "256": 60,
             "270": 1,
-            "291": 2,
+            "291": 60,
             "308": 1,
             "340": 60,
-            "373": 1,
+            "373": 19,
             "428": 60
         },
         "currentSkin": 428,
@@ -3608,7 +3639,7 @@
         },
         "artifacts": [
             {
-                "level": 95,
+                "level": 100,
                 "star": 3,
                 "artifactType": "weapon"
             },
@@ -3619,20 +3650,26 @@
             },
             {
                 "level": 100,
-                "star": 4,
+                "star": 5,
                 "artifactType": "ring"
             }
         ],
         "baseSkinId": 256,
         "skinsInfo": {
+            "291": {
+                "rank": 1,
+                "skinColorsIds": []
+            },
             "428": {
                 "rank": 1,
                 "skinColorsIds": []
             }
         },
         "currentSkinRank": 1,
-        "patronLevel": 2,
-        "upgradedSkills": [],
+        "patronLevel": 10,
+        "upgradedSkills": [
+            330
+        ],
         "name": "Юлиус",
         "nameEn": "Julius",
         "img": "https://static-platform.aghanim.com/hub/75/a3/ba/ec/75a3baec-09ef-40b6-b2bf-95ca04178821.webp",
@@ -3660,7 +3697,7 @@
             "338": 120,
             "480": 120
         },
-        "power": 128975,
+        "power": 129306,
         "star": 6,
         "runes": [
             0,
@@ -3739,7 +3776,7 @@
             "342": 120,
             "343": 120
         },
-        "power": 132929,
+        "power": 133123,
         "star": 6,
         "runes": [
             0,
@@ -3828,8 +3865,8 @@
             "348": 120,
             "498": 120
         },
-        "power": 49476,
-        "star": 5,
+        "power": 53468,
+        "star": 6,
         "runes": [
             0,
             0,
@@ -3839,10 +3876,12 @@
         ],
         "hero_runes": [],
         "skins": {
+            "300": 1,
+            "346": 1,
             "412": 1,
             "465": 1
         },
-        "currentSkin": 465,
+        "currentSkin": 346,
         "titanGiftLevel": 5,
         "titanCoinsSpent": {
             "consumable": {
@@ -3889,7 +3928,7 @@
             "352": 120,
             "353": 120
         },
-        "power": 142437,
+        "power": 143203,
         "star": 6,
         "runes": [
             0,
@@ -3975,7 +4014,7 @@
             "358": 120,
             "484": 120
         },
-        "power": 145945,
+        "power": 146514,
         "star": 6,
         "runes": [
             0,
@@ -4063,7 +4102,7 @@
             "362": 120,
             "363": 120
         },
-        "power": 42121,
+        "power": 42515,
         "star": 5,
         "runes": [
             0,
@@ -4074,9 +4113,10 @@
         ],
         "hero_runes": [],
         "skins": {
+            "342": 1,
             "388": 2
         },
-        "currentSkin": 388,
+        "currentSkin": 342,
         "titanGiftLevel": 5,
         "titanCoinsSpent": {
             "consumable": {
@@ -4126,7 +4166,7 @@
             "367": 120,
             "368": 120
         },
-        "power": 42122,
+        "power": 42160,
         "star": 5,
         "runes": [
             0,
@@ -4187,7 +4227,7 @@
             "373": 120,
             "465": 120
         },
-        "power": 133227,
+        "power": 133716,
         "star": 6,
         "runes": [
             0,
@@ -4238,7 +4278,7 @@
         "baseSkinId": 325,
         "skinsInfo": [],
         "currentSkinRank": 0,
-        "patronLevel": 3,
+        "patronLevel": 4,
         "upgradedSkills": [],
         "name": "Фолиант",
         "nameEn": "Folio",
@@ -4267,7 +4307,7 @@
             "378": 120,
             "490": 120
         },
-        "power": 114680,
+        "power": 115429,
         "star": 6,
         "runes": [
             0,
@@ -4335,18 +4375,55 @@
         }
     },
     {
+        "id": 66,
+        "xp": 0,
+        "level": 0,
+        "color": 1,
+        "slots": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {},
+        "power": 0,
+        "star": 0,
+        "runes": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "hero_runes": [],
+        "skins": {},
+        "currentSkin": 0,
+        "titanGiftLevel": 0,
+        "titanCoinsSpent": {},
+        "artifacts": [],
+        "baseSkinId": 0,
+        "skinsInfo": [],
+        "currentSkinRank": 0,
+        "patronLevel": 0,
+        "upgradedSkills": [],
+        "name": "Черепашки-ниндзя",
+        "nameEn": "Ninja Turtles"
+    },
+    {
         "id": 67,
         "xp": 2948945,
         "level": 120,
         "color": 16,
-        "slots": [],
+        "slots": {
+            "2": 0
+        },
         "skills": {
             "390": 120,
             "391": 120,
             "392": 120,
             "393": 120
         },
-        "power": 104798,
+        "power": 109558,
         "star": 6,
         "runes": [
             0,
@@ -4381,12 +4458,12 @@
             },
             {
                 "level": 100,
-                "star": 3,
+                "star": 4,
                 "artifactType": "book"
             },
             {
                 "level": 100,
-                "star": 1,
+                "star": 3,
                 "artifactType": "ring"
             }
         ],
@@ -4426,7 +4503,7 @@
             "383": 120,
             "500": 120
         },
-        "power": 54956,
+        "power": 55136,
         "star": 6,
         "runes": [
             0,
@@ -4494,7 +4571,7 @@
             "398": 120,
             "581": 120
         },
-        "power": 120781,
+        "power": 136308,
         "star": 6,
         "runes": [
             0,
@@ -4503,14 +4580,17 @@
             0,
             0
         ],
-        "hero_runes": [
-            2
-        ],
+        "hero_runes": {
+            "0": 40,
+            "2": 40,
+            "3": 2,
+            "4": 32
+        },
         "skins": {
             "394": 60,
             "398": 1,
-            "399": 1,
-            "400": 1,
+            "399": 60,
+            "400": 5,
             "401": 1,
             "413": 60,
             "471": 60
@@ -4530,12 +4610,12 @@
             },
             {
                 "level": 100,
-                "star": 2,
+                "star": 5,
                 "artifactType": "book"
             },
             {
                 "level": 100,
-                "star": 4,
+                "star": 5,
                 "artifactType": "ring"
             }
         ],
@@ -4571,7 +4651,7 @@
             "403": 120,
             "415": 120
         },
-        "power": 113452,
+        "power": 113493,
         "star": 6,
         "runes": [
             0,
@@ -4653,7 +4733,7 @@
             "408": 120,
             "419": 120
         },
-        "power": 144491,
+        "power": 147492,
         "star": 6,
         "runes": [
             0,
@@ -4673,7 +4753,7 @@
             "418": 60,
             "427": 60,
             "434": 60,
-            "448": 41,
+            "448": 60,
             "458": 1
         },
         "currentSkin": 448,
@@ -4734,7 +4814,7 @@
             "413": 120,
             "421": 120
         },
-        "power": 175135,
+        "power": 178919,
         "star": 6,
         "runes": [
             0,
@@ -4746,7 +4826,7 @@
         "hero_runes": [
             70,
             70,
-            65,
+            70,
             70,
             70
         ],
@@ -4754,9 +4834,10 @@
             "425": 60,
             "429": 60,
             "435": 60,
-            "450": 60
+            "450": 60,
+            "486": 27
         },
-        "currentSkin": 425,
+        "currentSkin": 486,
         "titanGiftLevel": 30,
         "titanCoinsSpent": {
             "consumable": {
@@ -4781,8 +4862,13 @@
             }
         ],
         "baseSkinId": 435,
-        "skinsInfo": [],
-        "currentSkinRank": 0,
+        "skinsInfo": {
+            "486": {
+                "rank": 1,
+                "skinColorsIds": []
+            }
+        },
+        "currentSkinRank": 1,
         "patronLevel": 20,
         "upgradedSkills": [
             412,
@@ -4819,7 +4905,7 @@
             "426": 21,
             "427": 41
         },
-        "power": 26374,
+        "power": 26546,
         "star": 2,
         "runes": [
             0,
@@ -4836,8 +4922,12 @@
             "491": 1
         },
         "currentSkin": 490,
-        "titanGiftLevel": 0,
-        "titanCoinsSpent": null,
+        "titanGiftLevel": 1,
+        "titanCoinsSpent": {
+            "consumable": {
+                "24": 250
+            }
+        },
         "artifacts": [
             {
                 "level": 1,
@@ -4873,14 +4963,14 @@
         "id": 74,
         "xp": 2948945,
         "level": 120,
-        "color": 7,
-        "slots": [
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
+        "color": 9,
+        "slots": {
+            "0": 0,
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0
+        },
         "skills": {
             "431": 120,
             "432": 120,
@@ -4888,8 +4978,8 @@
             "434": 120,
             "435": 120
         },
-        "power": 49381,
-        "star": 5,
+        "power": 56208,
+        "star": 6,
         "runes": [
             0,
             0,
@@ -4905,10 +4995,10 @@
             "468": 1
         },
         "currentSkin": 468,
-        "titanGiftLevel": 5,
+        "titanGiftLevel": 20,
         "titanCoinsSpent": {
             "consumable": {
-                "24": 1350
+                "24": 26150
             }
         },
         "artifacts": [
@@ -5024,7 +5114,7 @@
             "448": 120,
             "449": 120
         },
-        "power": 52468,
+        "power": 54849,
         "star": 6,
         "runes": [
             0,
@@ -5040,16 +5130,16 @@
             "565": 1
         },
         "currentSkin": 481,
-        "titanGiftLevel": 5,
+        "titanGiftLevel": 23,
         "titanCoinsSpent": {
             "consumable": {
-                "24": 1350
+                "24": 36050
             }
         },
         "artifacts": [
             {
                 "level": 1,
-                "star": 1,
+                "star": 2,
                 "artifactType": "weapon"
             },
             {
@@ -5074,7 +5164,14 @@
         "patronLevel": 1,
         "upgradedSkills": [],
         "name": "Кроу",
-        "nameEn": "Crow"
+        "nameEn": "Crow",
+        "talisman": {
+            "id": 155,
+            "level": 1,
+            "traitIds": [
+                1
+            ]
+        }
     },
     {
         "id": 77,
@@ -5089,7 +5186,7 @@
             "455": 120,
             "456": 120
         },
-        "power": 95773,
+        "power": 97111,
         "star": 5,
         "runes": [
             0,
@@ -5106,8 +5203,8 @@
             40
         ],
         "skins": {
-            "443": 57,
-            "477": 3,
+            "443": 60,
+            "477": 25,
             "568": 1
         },
         "currentSkin": 568,
@@ -5146,80 +5243,16 @@
         "id": 78,
         "xp": 2948945,
         "level": 120,
-        "color": 11,
-        "slots": [
-            0
-        ],
+        "color": 16,
+        "slots": [],
         "skills": {
-            "459": 2,
-            "460": 3,
+            "459": 120,
+            "460": 120,
             "461": 120,
-            "462": 120
+            "462": 120,
+            "463": 120
         },
-        "power": 54666,
-        "star": 4,
-        "runes": [
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
-        "hero_runes": [],
-        "skins": {
-            "444": 60
-        },
-        "currentSkin": 444,
-        "titanGiftLevel": 28,
-        "titanCoinsSpent": {
-            "consumable": {
-                "24": 56050
-            }
-        },
-        "artifacts": [
-            {
-                "level": 100,
-                "star": 3,
-                "artifactType": "weapon"
-            },
-            {
-                "level": 100,
-                "star": 2,
-                "artifactType": "book"
-            },
-            {
-                "level": 100,
-                "star": 1,
-                "artifactType": "ring"
-            }
-        ],
-        "baseSkinId": 444,
-        "skinsInfo": [],
-        "currentSkinRank": 0,
-        "patronLevel": 0,
-        "upgradedSkills": [],
-        "name": "Водрин",
-        "nameEn": "Wodryn"
-    },
-    {
-        "id": 79,
-        "xp": 2948945,
-        "level": 120,
-        "color": 14,
-        "slots": {
-            "0": 0,
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0
-        },
-        "skills": {
-            "472": 120,
-            "473": 120,
-            "474": 120,
-            "475": 120
-        },
-        "power": 76792,
+        "power": 117785,
         "star": 6,
         "runes": [
             0,
@@ -5229,7 +5262,77 @@
             0
         ],
         "hero_runes": [
-            1
+            50,
+            50,
+            50,
+            50,
+            50
+        ],
+        "skins": {
+            "444": 60,
+            "485": 60
+        },
+        "currentSkin": 485,
+        "titanGiftLevel": 30,
+        "titanCoinsSpent": {
+            "consumable": {
+                "24": 65150
+            }
+        },
+        "artifacts": [
+            {
+                "level": 100,
+                "star": 5,
+                "artifactType": "weapon"
+            },
+            {
+                "level": 100,
+                "star": 5,
+                "artifactType": "book"
+            },
+            {
+                "level": 100,
+                "star": 5,
+                "artifactType": "ring"
+            }
+        ],
+        "baseSkinId": 444,
+        "skinsInfo": [],
+        "currentSkinRank": 0,
+        "patronLevel": 6,
+        "upgradedSkills": [],
+        "name": "Водрин",
+        "nameEn": "Wodryn"
+    },
+    {
+        "id": 79,
+        "xp": 2948945,
+        "level": 120,
+        "color": 16,
+        "slots": {
+            "2": 0
+        },
+        "skills": {
+            "472": 120,
+            "473": 120,
+            "474": 120,
+            "475": 120
+        },
+        "power": 117716,
+        "star": 6,
+        "runes": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "hero_runes": [
+            50,
+            50,
+            50,
+            50,
+            50
         ],
         "skins": {
             "489": 60
@@ -5243,18 +5346,18 @@
         },
         "artifacts": [
             {
-                "level": 1,
+                "level": 100,
                 "star": 5,
                 "artifactType": "weapon"
             },
             {
-                "level": 3,
+                "level": 100,
                 "star": 5,
                 "artifactType": "book"
             },
             {
-                "level": 2,
-                "star": 1,
+                "level": 100,
+                "star": 5,
                 "artifactType": "ring"
             }
         ],
@@ -5288,7 +5391,7 @@
             "11000": 120,
             "11001": 120
         },
-        "power": 114282,
+        "power": 114426,
         "star": 6,
         "runes": [
             0,
@@ -5372,7 +5475,7 @@
             "11009": 120,
             "11010": 120
         },
-        "power": 47625,
+        "power": 47745,
         "star": 6,
         "runes": [
             0,
@@ -5440,7 +5543,7 @@
             "10229": 120,
             "11014": 120
         },
-        "power": 45966,
+        "power": 46133,
         "star": 6,
         "runes": [
             0,
@@ -5507,7 +5610,7 @@
             "11018": 120,
             "11019": 120
         },
-        "power": 44996,
+        "power": 45078,
         "star": 6,
         "runes": [
             0,
@@ -5560,22 +5663,22 @@
         "id": 504,
         "xp": 2948945,
         "level": 120,
-        "color": 7,
+        "color": 13,
         "slots": {
             "0": 0,
             "1": 0,
             "2": 0,
-            "3": 0
+            "5": 0
         },
         "skills": {
             "504": 120,
-            "11052": 119,
+            "11052": 120,
             "11053": 120,
             "11054": 120,
             "11055": 120
         },
-        "power": 48742,
-        "star": 5,
+        "power": 104528,
+        "star": 6,
         "runes": [
             0,
             0,
@@ -5585,28 +5688,34 @@
         ],
         "hero_runes": [],
         "skins": {
-            "470": 1
+            "205": 39,
+            "225": 3,
+            "246": 5,
+            "290": 60,
+            "414": 1,
+            "470": 1,
+            "1008": 60
         },
-        "currentSkin": 470,
-        "titanGiftLevel": 5,
+        "currentSkin": 205,
+        "titanGiftLevel": 30,
         "titanCoinsSpent": {
             "consumable": {
-                "24": 1350
+                "24": 65150
             }
         },
         "artifacts": [
             {
-                "level": 2,
-                "star": 2,
+                "level": 100,
+                "star": 5,
                 "artifactType": "weapon"
             },
             {
-                "level": 6,
-                "star": 1,
+                "level": 100,
+                "star": 3,
                 "artifactType": "book"
             },
             {
-                "level": 2,
+                "level": 100,
                 "star": 1,
                 "artifactType": "ring"
             }
@@ -5621,9 +5730,12 @@
         "img": "https://static-platform.aghanim.com/hub/70/64/99/31/70649931-24a6-49df-a92f-ccd858180816.webp",
         "talisman": {
             "id": 105,
-            "level": 1,
+            "level": 50,
             "traitIds": [
-                7
+                7,
+                18,
+                135,
+                44
             ]
         }
     }

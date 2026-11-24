@@ -1,6 +1,7 @@
 import { screen, within } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import { renderWithRouter } from '@/test-utils/renderWithRouter';
+import { HEROES } from '@/lib/heroes';
 import { HeroCollection } from './HeroCollection';
 
 beforeAll(() => {
@@ -59,7 +60,7 @@ test('Back keeps its origin after hopping from hero to hero', () => {
   userEvent.click(screen.getByRole('link', { name: /Xe'Sha/ }));
   expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent("Xe'Sha");
   userEvent.click(screen.getByRole('link', { name: '← Back' }));
-  expect(screen.getAllByRole('article')).toHaveLength(82);
+  expect(screen.getAllByRole('article')).toHaveLength(HEROES.length);
 });
 
 test('unknown paths and the old /heroes path redirect to the full list', () => {
